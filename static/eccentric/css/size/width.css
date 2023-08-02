@@ -1,0 +1,5191 @@
+.w100 {
+  width: 100%;
+  max-width: 100%;
+}
+
+.w95 {
+  width: 95%;
+}
+
+.w90 {
+  width: 90%;
+}
+
+.w85 {
+  width: 85%;
+}
+
+.w80 {
+  width: 80%;
+}
+
+.w75 {
+  width: 75%;
+}
+
+.w70 {
+  width: 70%;
+}
+
+.w65 {
+  width: 65%;
+}
+
+.w60 {
+  width: 60%;
+}
+
+.w55 {
+  width: 55%;
+}
+
+.w50 {
+  width: 50%;
+}
+
+.w45 {
+  width: 45%;
+}
+
+.w40 {
+  width: 40%;
+}
+
+.w35 {
+  width: 35%;
+}
+
+.w33 {
+  width: 33.333333%;
+}
+
+.w30 {
+  width: 30%;
+}
+
+.w25 {
+  width: 25%;
+}
+
+.w20 {
+  width: 20%;
+}
+
+.w15 {
+  width: 15%;
+}
+
+.w10 {
+  width: 10%;
+}
+
+.w5 {
+  width: 5%;
+}
+
+/* alternative wrow 160*/
+.vw100 {
+  width: 100vw;
+}
+
+.vw95 {
+  width: 95vw;
+}
+
+.vw90 {
+  width: 90vw;
+}
+
+.vw85 {
+  width: 85vw;
+}
+
+.vw80 {
+  width: 80vw;
+}
+
+.vw75 {
+  width: 75vw;
+}
+
+.vw70 {
+  width: 70vw;
+}
+
+.vw65 {
+  width: 65vw;
+}
+
+.vw60 {
+  width: 60vw;
+}
+
+.vw55 {
+  width: 55vw;
+}
+
+.vw50 {
+  width: 50vw;
+}
+
+.vw45 {
+  width: 45vw;
+}
+
+.vw40 {
+  width: 40vw;
+}
+
+.vw35 {
+  width: 35vw;
+}
+
+.vw33 {
+  width: 33.333333vw;
+}
+
+.vw30 {
+  width: 30vw;
+}
+
+.vw25 {
+  width: 25vw;
+}
+
+.vw20 {
+  width: 20vw;
+}
+
+.vw15 {
+  width: 15vw;
+}
+
+.vw10 {
+  width: 10vw;
+}
+
+.vw5 {
+  width: 5vw;
+}
+
+
+/* alternative wrow 160*/
+
+/* wrows until 80line */
+.w100-px {
+  width: 100px;
+}
+
+.w95-px {
+  width: 95px;
+}
+
+.w90-px {
+  width: 90px;
+}
+
+.w85-px {
+  width: 85px;
+}
+
+.w80-px {
+  width: 80px;
+}
+
+.w75-px {
+  width: 75px;
+}
+
+.w70-px {
+  width: 70px;
+}
+
+.w65-px {
+  width: 65px;
+}
+
+.w60-px {
+  width: 60px;
+}
+
+.w55-px {
+  width: 55px;
+}
+
+.w50-px {
+  width: 50px;
+}
+
+.w45-px {
+  width: 45px;
+}
+
+.w40-px {
+  width: 40px;
+}
+
+.w35-px {
+  width: 35px;
+}
+
+.w30-px {
+  width: 30px;
+}
+
+.w25-px {
+  width: 25px;
+}
+
+.w20-px {
+  width: 20px;
+}
+
+.w15-px {
+  width: 15px;
+}
+
+.w10-px {
+  width: 10px;
+}
+
+.w5-px {
+  width: 5px;
+}
+
+/* wrows until 80line */
+.min-w100 {
+  min-width: 100%;
+}
+
+.min-w95 {
+  min-width: 95%;
+}
+
+.min-w90 {
+  min-width: 90%;
+}
+
+.min-w85 {
+  min-width: 85%;
+}
+
+.min-w80 {
+  min-width: 80%;
+}
+
+.min-w75 {
+  min-width: 75%;
+}
+
+.min-w70 {
+  min-width: 70%;
+}
+
+.min-w65 {
+  min-width: 65%;
+}
+
+.min-w60 {
+  min-width: 60%;
+}
+
+.min-w55 {
+  min-width: 55%;
+}
+
+.min-w50 {
+  min-width: 50%;
+}
+
+.min-w45 {
+  min-width: 45%;
+}
+
+.min-w40 {
+  min-width: 40%;
+}
+
+.min-w35 {
+  min-width: 35%;
+}
+
+.min-w30 {
+  min-width: 30%;
+}
+
+.min-w25 {
+  min-width: 25%;
+}
+
+.min-w20 {
+  min-width: 20%;
+}
+
+.min-w15 {
+  min-width: 15%;
+}
+
+.min-w10 {
+  min-width: 10%;
+}
+
+.min-w5 {
+  min-width: 5%;
+}
+
+/* alternative wrow 160*/
+.min-vw100 {
+  min-width: 100vw;
+}
+
+.min-vw95 {
+  min-width: 95vw;
+}
+
+.min-vw90 {
+  min-width: 90vw;
+}
+
+.min-vw85 {
+  min-width: 85vw;
+}
+
+.min-vw80 {
+  min-width: 80vw;
+}
+
+.min-vw75 {
+  min-width: 75vw;
+}
+
+.min-vw70 {
+  min-width: 70vw;
+}
+
+.min-vw65 {
+  min-width: 65vw;
+}
+
+.min-vw60 {
+  min-width: 60vw;
+}
+
+.min-vw55 {
+  min-width: 55vw;
+}
+
+.min-vw50 {
+  min-width: 50vw;
+}
+
+.min-vw45 {
+  min-width: 45vw;
+}
+
+.min-vw40 {
+  min-width: 40vw;
+}
+
+.min-vw35 {
+  min-width: 35vw;
+}
+
+.min-vw30 {
+  min-width: 30vw;
+}
+
+.min-vw25 {
+  min-width: 25vw;
+}
+
+.min-vw20 {
+  min-width: 20vw;
+}
+
+.min-vw15 {
+  min-width: 15vw;
+}
+
+.min-vw10 {
+  min-width: 10vw;
+}
+
+.min-vw5 {
+  min-width: 5vw;
+}
+
+.min-w300-px {
+  min-width: 300px;
+}
+
+.min-w250-px {
+  min-width: 250px;
+}
+
+.min-w200-px {
+  min-width: 200px;
+}
+
+.min-w150-px {
+  min-width: 150px;
+}
+
+.min-w100-px {
+  min-width: 100px;
+}
+
+.min-w95-px {
+  min-width: 95px;
+}
+
+.min-w90-px {
+  min-width: 90px;
+}
+
+.min-w85-px {
+  min-width: 85px;
+}
+
+.min-w80-px {
+  min-width: 80px;
+}
+
+.min-w75-px {
+  min-width: 75px;
+}
+
+.min-w70-px {
+  min-width: 70px;
+}
+
+.min-w65-px {
+  min-width: 65px;
+}
+
+.min-w60-px {
+  min-width: 60px;
+}
+
+.min-w55-px {
+  min-width: 55px;
+}
+
+.min-w50-px {
+  min-width: 50px;
+}
+
+.min-w45-px {
+  min-width: 45px;
+}
+
+.min-w40-px {
+  min-width: 40px;
+}
+
+.min-w35-px {
+  min-width: 35px;
+}
+
+.min-w30-px {
+  min-width: 30px;
+}
+
+.min-w25-px {
+  min-width: 25px;
+}
+
+.min-w20-px {
+  min-width: 20px;
+}
+
+.min-w15-px {
+  min-width: 15px;
+}
+
+.min-w10-px {
+  min-width: 10px;
+}
+
+.min-w5-px {
+  min-width: 5px;
+}
+
+.max-w300-px {
+  max-width: 300px;
+}
+
+.max-w250-px {
+  max-width: 250px;
+}
+
+.max-w200-px {
+  max-width: 200px;
+}
+
+.max-w150-px {
+  max-width: 150px;
+}
+
+.max-w100 {
+  max-width: 100%;
+}
+
+.max-w95 {
+  max-width: 95%;
+}
+
+.max-w90 {
+  max-width: 90%;
+}
+
+.max-w85 {
+  max-width: 85%;
+}
+
+.max-w80 {
+  max-width: 80%;
+}
+
+.max-w75 {
+  max-width: 75%;
+}
+
+.max-w70 {
+  max-width: 70%;
+}
+
+.max-w65 {
+  max-width: 65%;
+}
+
+.max-w60 {
+  max-width: 60%;
+}
+
+.max-w55 {
+  max-width: 55%;
+}
+
+.max-w50 {
+  max-width: 50%;
+}
+
+.max-w45 {
+  max-width: 45%;
+}
+
+.max-w40 {
+  max-width: 40%;
+}
+
+.max-w35 {
+  max-width: 35%;
+}
+
+.max-w30 {
+  max-width: 30%;
+}
+
+.max-w25 {
+  max-width: 25%;
+}
+
+.max-w20 {
+  max-width: 20%;
+}
+
+.max-w15 {
+  max-width: 15%;
+}
+
+.max-w10 {
+  max-width: 10%;
+}
+
+.max-w5 {
+  max-width: 5%;
+}
+
+/* alternative wrow 160*/
+.max-vw100 {
+  max-width: 100vw;
+}
+
+.max-vw95 {
+  max-width: 95vw;
+}
+
+.max-vw90 {
+  max-width: 90vw;
+}
+
+.max-vw85 {
+  max-width: 85vw;
+}
+
+.max-vw80 {
+  max-width: 80vw;
+}
+
+.max-vw75 {
+  max-width: 75vw;
+}
+
+.max-vw70 {
+  max-width: 70vw;
+}
+
+.max-vw65 {
+  max-width: 65vw;
+}
+
+.max-vw60 {
+  max-width: 60vw;
+}
+
+.max-vw55 {
+  max-width: 55vw;
+}
+
+.max-vw50 {
+  max-width: 50vw;
+}
+
+.max-vw45 {
+  max-width: 45vw;
+}
+
+.max-vw40 {
+  max-width: 40vw;
+}
+
+.max-vw35 {
+  max-width: 35vw;
+}
+
+.max-vw30 {
+  max-width: 30vw;
+}
+
+.max-vw25 {
+  max-width: 25vw;
+}
+
+.max-vw20 {
+  max-width: 20vw;
+}
+
+.max-vw15 {
+  max-width: 15vw;
+}
+
+.max-vw10 {
+  max-width: 10vw;
+}
+
+.max-vw5 {
+  max-width: 5vw;
+}
+
+/* wrows until 80line */
+.max-w100-px {
+  max-width: 100px;
+}
+
+.max-w95-px {
+  max-width: 95px;
+}
+
+.max-w90-px {
+  max-width: 90px;
+}
+
+.max-w85-px {
+  max-width: 85px;
+}
+
+.max-w80-px {
+  max-width: 80px;
+}
+
+.max-w75-px {
+  max-width: 75px;
+}
+
+.max-w70-px {
+  max-width: 70px;
+}
+
+.max-w65-px {
+  max-width: 65px;
+}
+
+.max-w60-px {
+  max-width: 60px;
+}
+
+.max-w55-px {
+  max-width: 55px;
+}
+
+.max-w50-px {
+  max-width: 50px;
+}
+
+.max-w45-px {
+  max-width: 45px;
+}
+
+.max-w40-px {
+  max-width: 40px;
+}
+
+.max-w35-px {
+  max-width: 35px;
+}
+
+.max-w30-px {
+  max-width: 30px;
+}
+
+.max-w25-px {
+  max-width: 25px;
+}
+
+.max-w20-px {
+  max-width: 20px;
+}
+
+.max-w15-px {
+  max-width: 15px;
+}
+
+.max-w10-px {
+  max-width: 10px;
+}
+
+.max-w5-px {
+  max-width: 5px;
+}
+
+.max-w-85 {
+  max-width: 85%;
+}
+
+.max-w-80 {
+  max-width: 80%;
+}
+
+.max-w-75 {
+  max-width: 75%;
+}
+
+.max-w-70 {
+  max-width: 70%;
+}
+
+
+.line {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100%;
+}
+
+.line-expand {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.line>.w100 {
+  position: relative;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+.line-expand>.w100 {
+  position: relative;
+  flex: 1 0 100%;
+  min-width: 100%;
+}
+
+.line>.w95 {
+  position: relative;
+  flex: 0 0 95%;
+  max-width: 95%;
+}
+
+.line-expand>.w95 {
+  position: relative;
+  flex: 1 0 95%;
+  min-width: 95%;
+}
+
+.line>.w90 {
+  position: relative;
+  flex: 0 0 90%;
+
+  max-width: 90%;
+}
+
+.line-expand>.w90 {
+  position: relative;
+  flex: 1 0 90%;
+  min-width: 90%;
+}
+
+.line>.w85 {
+  position: relative;
+  flex: 0 0 85%;
+
+  max-width: 85%;
+}
+
+.line-expand>.w85 {
+  position: relative;
+  flex: 1 0 85%;
+
+  min-width: 85%;
+}
+
+.line>.w80 {
+  position: relative;
+  flex: 0 0 80%;
+
+  max-width: 80%;
+}
+
+.line-expand>.w80 {
+  position: relative;
+  flex: 1 0 80%;
+
+  min-width: 80%;
+}
+
+.line>.w75 {
+  position: relative;
+  flex: 0 0 75%;
+
+  max-width: 75%;
+}
+
+.line-expand>.w75 {
+  position: relative;
+  flex: 1 0 75%;
+
+  min-width: 75%;
+}
+
+.line>.w70 {
+  position: relative;
+  flex: 0 0 70%;
+
+  max-width: 70%;
+}
+
+.line-expand>.w70 {
+  position: relative;
+  flex: 1 0 70%;
+
+  min-width: 70%;
+}
+
+.line>.w65 {
+  position: relative;
+  flex: 0 0 65%;
+  max-width: 65%;
+}
+
+.line-expand>.w65 {
+  position: relative;
+  flex: 1 0 65%;
+  min-width: 65%;
+}
+
+.line>.w60 {
+  position: relative;
+  flex: 0 0 60%;
+  max-width: 60%;
+}
+
+.line-expand>.w60 {
+  position: relative;
+  flex: 1 0 60%;
+  min-width: 60%;
+}
+
+.line>.w55 {
+  position: relative;
+  flex: 0 0 55%;
+  max-width: 55%;
+}
+
+.line-expand>.w55 {
+  position: relative;
+  flex: 1 0 55%;
+  min-width: 55%;
+}
+
+.line>.w50 {
+  position: relative;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.line-expand>.w55 {
+  position: relative;
+  flex: 1 0 55%;
+  min-width: 55%;
+}
+
+.line>.w50 {
+  position: relative;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.line-expand>.w50 {
+  position: relative;
+  flex: 1 0 50%;
+  min-width: 50%;
+}
+
+.line>.w45 {
+  position: relative;
+  flex: 0 0 45%;
+  max-width: 45%;
+}
+
+.line-expand>.w45 {
+  position: relative;
+  flex: 1 0 45%;
+  min-width: 45%;
+}
+
+.line>.w40 {
+  position: relative;
+  flex: 0 0 40%;
+  max-width: 40%;
+}
+
+.line-expand>.w40 {
+  position: relative;
+  flex: 1 0 40%;
+  min-width: 40%;
+}
+
+.line>.w35 {
+  position: relative;
+  flex: 0 0 35%;
+  max-width: 35%;
+}
+
+.line-expand>.w35 {
+  position: relative;
+  flex: 1 0 35%;
+  min-width: 35%;
+}
+
+.line>.w33 {
+  position: relative;
+  flex: 0 0 33%;
+  max-width: 33%;
+}
+
+.line-expand>.w33 {
+  position: relative;
+  flex: 1 0 33%;
+  min-width: 33%;
+}
+
+.line>.w30 {
+  position: relative;
+  flex: 0 0 30%;
+  max-width: 30%;
+}
+
+.line-expand>.w30 {
+  position: relative;
+  flex: 1 0 30%;
+  min-width: 30%;
+}
+
+.line>.w25 {
+  position: relative;
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+
+.line-expand>.w25 {
+  position: relative;
+  flex: 1 0 25%;
+  min-width: 25%;
+}
+
+.line>.w20 {
+  position: relative;
+  flex: 0 0 20%;
+  max-width: 20%;
+}
+
+.line-expand>.w20 {
+  position: relative;
+  flex: 1 0 20%;
+  min-width: 20%;
+}
+
+.line>.w15 {
+  position: relative;
+  flex: 0 0 15%;
+  max-width: 15%;
+}
+
+.line-expand>.w15 {
+  position: relative;
+  flex: 1 0 15%;
+  min-width: 15%;
+}
+
+.line>.w10 {
+  position: relative;
+  flex: 0 0 10%;
+  max-width: 10%;
+}
+
+.line-expand>.w10 {
+  position: relative;
+  flex: 1 0 10%;
+  min-width: 10%;
+}
+
+.line>.w5 {
+  position: relative;
+  flex: 0 0 5%;
+  max-width: 5%;
+}
+
+.line-expand>.w5 {
+  position: relative;
+  flex: 1 0 5%;
+  min-width: 5%;
+}
+
+.line .w100 {
+  position: relative;
+  flex: 0 0 100%;
+
+  max-width: 100%;
+}
+
+.line-expand .w100 {
+  position: relative;
+  flex: 1 0 100%;
+
+  min-width: 100%;
+}
+
+.line .w95 {
+  position: relative;
+  flex: 0 0 95%;
+
+  max-width: 95%;
+}
+
+.line-expand .w95 {
+  position: relative;
+  flex: 1 0 95%;
+
+  min-width: 95%;
+}
+
+.line .w90 {
+  position: relative;
+  flex: 0 0 90%;
+
+  max-width: 90%;
+}
+
+.line-expand .w90 {
+  position: relative;
+  flex: 1 0 90%;
+
+  min-width: 90%;
+}
+
+.line .w85 {
+  position: relative;
+  flex: 0 0 85%;
+
+  max-width: 85%;
+}
+
+.line-expand .w85 {
+  position: relative;
+  flex: 1 0 85%;
+
+  min-width: 85%;
+}
+
+.line .w80 {
+  position: relative;
+  flex: 0 0 80%;
+
+  max-width: 80%;
+}
+
+.line-expand .w80 {
+  position: relative;
+  flex: 1 0 80%;
+
+  min-width: 80%;
+}
+
+.line .w75 {
+  position: relative;
+  flex: 0 0 75%;
+
+  max-width: 75%;
+}
+
+.line-expand .w75 {
+  position: relative;
+  flex: 1 0 75%;
+
+  min-width: 75%;
+}
+
+.line .w70 {
+  position: relative;
+  flex: 0 0 70%;
+
+  max-width: 70%;
+}
+
+.line-expand .w70 {
+  position: relative;
+  flex: 1 0 70%;
+
+  min-width: 70%;
+}
+
+.line .w65 {
+  position: relative;
+  flex: 0 0 65%;
+
+  max-width: 65%;
+}
+
+.line-expand .w65 {
+  position: relative;
+  flex: 1 0 65%;
+
+  min-width: 65%;
+}
+
+.line .w60 {
+  position: relative;
+  flex: 0 0 60%;
+
+  max-width: 60%;
+}
+
+.line-expand .w60 {
+  position: relative;
+  flex: 1 0 60%;
+
+  min-width: 60%;
+}
+
+.line .w55 {
+  position: relative;
+  flex: 0 0 55%;
+
+  max-width: 55%;
+}
+
+.line-expand .w55 {
+  position: relative;
+  flex: 1 0 55%;
+
+  min-width: 55%;
+}
+
+.line .w50 {
+  position: relative;
+  flex: 0 0 50%;
+
+  max-width: 50%;
+}
+
+.line-expand .w55 {
+  position: relative;
+  flex: 1 0 55%;
+
+  min-width: 55%;
+}
+
+.line .w50 {
+  position: relative;
+  flex: 0 0 50%;
+
+  max-width: 50%;
+}
+
+.line-expand .w50 {
+  position: relative;
+  flex: 1 0 50%;
+
+  min-width: 50%;
+}
+
+.line .w45 {
+  position: relative;
+  flex: 0 0 45%;
+
+  max-width: 45%;
+}
+
+.line-expand .w45 {
+  position: relative;
+  flex: 1 0 45%;
+
+  min-width: 45%;
+}
+
+.line .w40 {
+  position: relative;
+  flex: 0 0 40%;
+
+  max-width: 40%;
+}
+
+.line-expand .w40 {
+  position: relative;
+  flex: 1 0 40%;
+
+  min-width: 40%;
+}
+
+.line .w35 {
+  position: relative;
+  flex: 0 0 35%;
+
+  max-width: 35%;
+}
+
+.line-expand .w35 {
+  position: relative;
+  flex: 1 0 35%;
+
+  min-width: 35%;
+}
+
+.line .w30 {
+  position: relative;
+  flex: 0 0 30%;
+
+  max-width: 30%;
+}
+
+.line-expand .w30 {
+  position: relative;
+  flex: 1 0 30%;
+
+  min-width: 30%;
+}
+
+.line .w25 {
+  position: relative;
+  flex: 0 0 25%;
+
+  max-width: 25%;
+}
+
+.line-expand .w25 {
+  position: relative;
+  flex: 1 0 25%;
+
+  min-width: 25%;
+}
+
+.line .w20 {
+  position: relative;
+  flex: 0 0 20%;
+
+  max-width: 20%;
+}
+
+.line-expand .w20 {
+  position: relative;
+  flex: 1 0 20%;
+
+  min-width: 20%;
+}
+
+.line .w15 {
+  position: relative;
+  flex: 0 0 15%;
+
+  max-width: 15%;
+}
+
+.line-expand .w15 {
+  position: relative;
+  flex: 1 0 15%;
+
+  min-width: 15%;
+}
+
+.line .w10 {
+  position: relative;
+  flex: 0 0 10%;
+
+  max-width: 10%;
+}
+
+.line-expand .w10 {
+  position: relative;
+  flex: 1 0 10%;
+
+  min-width: 10%;
+}
+
+.line .w5 {
+  position: relative;
+  flex: 0 0 5%;
+
+  max-width: 5%;
+}
+
+.line-expand .w5 {
+  position: relative;
+  flex: 1 0 5%;
+
+  min-width: 5%;
+}
+
+@media screen and (max-width: 320px) {
+
+  .w100-xxs {
+    width: 100%;
+  }
+
+  .w95-xxs {
+    width: 95%;
+  }
+
+  .w90-xxs {
+    width: 90%;
+  }
+
+  .w85-xxs {
+    width: 85%;
+  }
+
+  .w80-xxs {
+    width: 80%;
+  }
+
+  .w75-xxs {
+    width: 75%;
+  }
+
+  .w70-xxs {
+    width: 70%;
+  }
+
+  .w65-xxs {
+    width: 65%;
+  }
+
+  .w60-xxs {
+    width: 60%;
+  }
+
+  .w55-xxs {
+    width: 55%;
+  }
+
+  .w50-xxs {
+    width: 50%;
+  }
+
+  .w45-xxs {
+    width: 45%;
+  }
+
+  .w40-xxs {
+    width: 40%;
+  }
+
+  .w35-xxs {
+    width: 35%;
+  }
+
+  .w30-xxs {
+    width: 30%;
+  }
+
+  .w25-xxs {
+    width: 25%;
+  }
+
+  .w20-xxs {
+    width: 20%;
+  }
+
+  .w15-xxs {
+    width: 15%;
+  }
+
+  .w10-xxs {
+    width: 10%;
+  }
+
+  .w5-xxs {
+
+    width: 5%;
+  }
+
+  .vw100-xxs {
+    width: 100vw;
+  }
+
+  .vw95-xxs {
+    width: 95vw;
+  }
+
+  .vw90-xxs {
+    width: 90vw;
+  }
+
+  .vw85-xxs {
+    width: 85vw;
+  }
+
+  .vw80-xxs {
+    width: 80vw;
+  }
+
+  .vw75-xxs {
+    width: 75vw;
+  }
+
+  .vw70-xxs {
+    width: 70vw;
+  }
+
+  .vw65-xxs {
+    width: 65vw;
+  }
+
+  .vw60-xxs {
+    width: 60vw;
+  }
+
+  .vw55-xxs {
+    width: 55vw;
+  }
+
+  .vw50-xxs {
+    width: 50vw;
+  }
+
+  .vw45-xxs {
+    width: 45vw;
+  }
+
+  .vw40-xxs {
+    width: 40vw;
+  }
+
+  .vw35-xxs {
+    width: 35vw;
+  }
+
+  .vw30-xxs {
+    width: 30vw;
+  }
+
+  .vw25-xxs {
+    width: 25vw;
+  }
+
+  .vw20-xxs {
+    width: 20vw;
+  }
+
+  .vw15-xxs {
+    width: 15vw;
+  }
+
+  .vw10-xxs {
+    width: 10vw;
+  }
+
+  .vw5-xxs {
+    width: 5vw;
+  }
+
+  .line .w100-xxs {
+    position: relative;
+    flex: 0 0 100%;
+
+    max-width: 100%;
+  }
+
+  .line-expand .w100-xxs {
+    position: relative;
+    flex: 1 0 100%;
+
+    min-width: 100%;
+  }
+
+  .line .w95-xxs {
+    position: relative;
+    flex: 0 0 95%;
+
+    max-width: 95%;
+  }
+
+  .line-expand .w95-xxs {
+    position: relative;
+    flex: 1 0 95%;
+
+    min-width: 95%;
+  }
+
+  .line .w90-xxs {
+    position: relative;
+    flex: 0 0 90%;
+
+    max-width: 90%;
+  }
+
+  .line-expand .w90-xxs {
+    position: relative;
+    flex: 1 0 90%;
+
+    min-width: 90%;
+  }
+
+  .line .w85-xxs {
+    position: relative;
+    flex: 0 0 85%;
+
+    max-width: 85%;
+  }
+
+  .line-expand .w85-xxs {
+    position: relative;
+    flex: 1 0 85%;
+
+    min-width: 85%;
+  }
+
+  .line .w80-xxs {
+    position: relative;
+    flex: 0 0 80%;
+
+    max-width: 80%;
+  }
+
+  .line-expand .w80-xxs {
+    position: relative;
+    flex: 1 0 80%;
+
+    min-width: 80%;
+  }
+
+  .line .w75-xxs {
+    position: relative;
+    flex: 0 0 75%;
+
+    max-width: 75%;
+  }
+
+  .line-expand .w75-xxs {
+    position: relative;
+    flex: 1 0 75%;
+
+    min-width: 75%;
+  }
+
+  .line .w70-xxs {
+    position: relative;
+    flex: 0 0 70%;
+
+    max-width: 70%;
+  }
+
+  .line-expand .w70-xxs {
+    position: relative;
+    flex: 1 0 70%;
+
+    min-width: 70%;
+  }
+
+  .line .w65-xxs {
+    position: relative;
+    flex: 0 0 65%;
+
+    max-width: 65%;
+  }
+
+  .line-expand .w65-xxs {
+    position: relative;
+    flex: 1 0 65%;
+
+    min-width: 65%;
+  }
+
+  .line .w60-xxs {
+    position: relative;
+    flex: 0 0 60%;
+
+    max-width: 60%;
+  }
+
+  .line-expand .w60-xxs {
+    position: relative;
+    flex: 1 0 60%;
+
+    min-width: 60%;
+  }
+
+  .line .w55-xxs {
+    position: relative;
+    flex: 0 0 55%;
+
+    max-width: 55%;
+  }
+
+  .line-expand .w55-xxs {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-xxs {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w55-xxs {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-xxs {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w50-xxs {
+    position: relative;
+    flex: 1 0 50%;
+
+    min-width: 50%;
+  }
+
+  .line .w45-xxs {
+    position: relative;
+    flex: 0 0 45%;
+
+    max-width: 45%;
+  }
+
+  .line-expand .w45-xxs {
+    position: relative;
+    flex: 1 0 45%;
+
+    min-width: 45%;
+  }
+
+  .line .w40-xxs {
+    position: relative;
+    flex: 0 0 40%;
+
+    max-width: 40%;
+  }
+
+  .line-expand .w40-xxs {
+    position: relative;
+    flex: 1 0 40%;
+
+    min-width: 40%;
+  }
+
+  .line .w35-xxs {
+    position: relative;
+    flex: 0 0 35%;
+
+    max-width: 35%;
+  }
+
+  .line-expand .w35-xxs {
+    position: relative;
+    flex: 1 0 35%;
+
+    min-width: 35%;
+  }
+
+  .line>.w33-xxs {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-xxs {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+  .line .w30-xxs {
+    position: relative;
+    flex: 0 0 30%;
+
+    max-width: 30%;
+  }
+
+  .line-expand .w30-xxs {
+    position: relative;
+    flex: 1 0 30%;
+
+    min-width: 30%;
+  }
+
+  .line .w25-xxs {
+    position: relative;
+    flex: 0 0 25%;
+
+    max-width: 25%;
+  }
+
+  .line-expand .w25-xxs {
+    position: relative;
+    flex: 1 0 25%;
+
+    min-width: 25%;
+  }
+
+  .line .w20-xxs {
+    position: relative;
+    flex: 0 0 20%;
+
+    max-width: 20%;
+  }
+
+  .line-expand .w20-xxs {
+    position: relative;
+    flex: 1 0 20%;
+
+    min-width: 20%;
+  }
+
+  .line .w15-xxs {
+    position: relative;
+    flex: 0 0 15%;
+
+    max-width: 15%;
+  }
+
+  .line-expand .w15-xxs {
+    position: relative;
+    flex: 1 0 15%;
+
+    min-width: 15%;
+  }
+
+  .line .w10-xxs {
+    position: relative;
+    flex: 0 0 10%;
+
+    max-width: 10%;
+  }
+
+  .line-expand .w10-xxs {
+    position: relative;
+    flex: 1 0 10%;
+
+    min-width: 10%;
+  }
+
+  .line .w5-xxs {
+    position: relative;
+    flex: 0 0 5%;
+
+    max-width: 5%;
+  }
+
+  .line-expand .w5-xxs {
+    position: relative;
+    flex: 1 0 5%;
+
+    min-width: 5%;
+  }
+
+}
+
+
+@media screen and (max-width: 479px) {
+
+  .w100-xs {
+    width: 100%;
+  }
+
+  .w95-xs {
+    width: 95%;
+  }
+
+  .w90-xs {
+    width: 90%;
+  }
+
+  .w85-xs {
+    width: 85%;
+  }
+
+  .w80-xs {
+    width: 80%;
+  }
+
+  .w75-xs {
+    width: 75%;
+  }
+
+  .w70-xs {
+    width: 70%;
+  }
+
+  .w65-xs {
+    width: 65%;
+  }
+
+  .w60-xs {
+    width: 60%;
+  }
+
+  .w55-xs {
+    width: 55%;
+  }
+
+  .w50-xs {
+    width: 50%;
+  }
+
+  .w45-xs {
+    width: 45%;
+  }
+
+  .w40-xs {
+    width: 40%;
+  }
+
+  .w35-xs {
+    width: 35%;
+  }
+
+  .w30-xs {
+    width: 30%;
+  }
+
+  .w25-xs {
+    width: 25%;
+  }
+
+  .w20-xs {
+    width: 20%;
+  }
+
+  .w15-xs {
+    width: 15%;
+  }
+
+  .w10-xs {
+    width: 10%;
+  }
+
+  .w5-xs {
+
+    width: 5%;
+  }
+
+  .vw100-xs {
+    width: 100vw;
+  }
+
+  .vw95-xs {
+    width: 95vw;
+  }
+
+  .vw90-xs {
+    width: 90vw;
+  }
+
+  .vw85-xs {
+    width: 85vw;
+  }
+
+  .vw80-xs {
+    width: 80vw;
+  }
+
+  .vw75-xs {
+    width: 75vw;
+  }
+
+  .vw70-xs {
+    width: 70vw;
+  }
+
+  .vw65-xs {
+    width: 65vw;
+  }
+
+  .vw60-xs {
+    width: 60vw;
+  }
+
+  .vw55-xs {
+    width: 55vw;
+  }
+
+  .vw50-xs {
+    width: 50vw;
+  }
+
+  .vw45-xs {
+    width: 45vw;
+  }
+
+  .vw40-xs {
+    width: 40vw;
+  }
+
+  .vw35-xs {
+    width: 35vw;
+  }
+
+  .vw30-xs {
+    width: 30vw;
+  }
+
+  .vw25-xs {
+    width: 25vw;
+  }
+
+  .vw20-xs {
+    width: 20vw;
+  }
+
+  .vw15-xs {
+    width: 15vw;
+  }
+
+  .vw10-xs {
+    width: 10vw;
+  }
+
+  .vw5-xs {
+    width: 5vw;
+  }
+
+  .line .w100-xs {
+    position: relative;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .line-expand .w100-xs {
+    position: relative;
+    flex: 1 0 100%;
+
+    min-width: 100%;
+  }
+
+  .line .w95-xs {
+    position: relative;
+    flex: 0 0 95%;
+
+    max-width: 95%;
+  }
+
+  .line-expand .w95-xs {
+    position: relative;
+    flex: 1 0 95%;
+
+    min-width: 95%;
+  }
+
+  .line .w90-xs {
+    position: relative;
+    flex: 0 0 90%;
+
+    max-width: 90%;
+  }
+
+  .line-expand .w90-xs {
+    position: relative;
+    flex: 1 0 90%;
+
+    min-width: 90%;
+  }
+
+  .line .w85-xs {
+    position: relative;
+    flex: 0 0 85%;
+
+    max-width: 85%;
+  }
+
+  .line-expand .w85-xs {
+    position: relative;
+    flex: 1 0 85%;
+
+    min-width: 85%;
+  }
+
+  .line .w80-xs {
+    position: relative;
+    flex: 0 0 80%;
+
+    max-width: 80%;
+  }
+
+  .line-expand .w80-xs {
+    position: relative;
+    flex: 1 0 80%;
+
+    min-width: 80%;
+  }
+
+  .line .w75-xs {
+    position: relative;
+    flex: 0 0 75%;
+
+    max-width: 75%;
+  }
+
+  .line-expand .w75-xs {
+    position: relative;
+    flex: 1 0 75%;
+
+    min-width: 75%;
+  }
+
+  .line .w70-xs {
+    position: relative;
+    flex: 0 0 70%;
+
+    max-width: 70%;
+  }
+
+  .line-expand .w70-xs {
+    position: relative;
+    flex: 1 0 70%;
+
+    min-width: 70%;
+  }
+
+  .line .w65-xs {
+    position: relative;
+    flex: 0 0 65%;
+
+    max-width: 65%;
+  }
+
+  .line-expand .w65-xs {
+    position: relative;
+    flex: 1 0 65%;
+
+    min-width: 65%;
+  }
+
+  .line .w60-xs {
+    position: relative;
+    flex: 0 0 60%;
+
+    max-width: 60%;
+  }
+
+  .line-expand .w60-xs {
+    position: relative;
+    flex: 1 0 60%;
+
+    min-width: 60%;
+  }
+
+  .line .w55-xs {
+    position: relative;
+    flex: 0 0 55%;
+
+    max-width: 55%;
+  }
+
+  .line-expand .w55-xs {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-xs {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w55-xs {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-xs {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w50-xs {
+    position: relative;
+    flex: 1 0 50%;
+
+    min-width: 50%;
+  }
+
+  .line .w45-xs {
+    position: relative;
+    flex: 0 0 45%;
+
+    max-width: 45%;
+  }
+
+  .line-expand .w45-xs {
+    position: relative;
+    flex: 1 0 45%;
+
+    min-width: 45%;
+  }
+
+  .line .w40-xs {
+    position: relative;
+    flex: 0 0 40%;
+
+    max-width: 40%;
+  }
+
+  .line-expand .w40-xs {
+    position: relative;
+    flex: 1 0 40%;
+
+    min-width: 40%;
+  }
+
+  .line .w35-xs {
+    position: relative;
+    flex: 0 0 35%;
+
+    max-width: 35%;
+  }
+
+  .line-expand .w35-xs {
+    position: relative;
+    flex: 1 0 35%;
+
+    min-width: 35%;
+  }
+
+  .line>.w33-xs {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-xs {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+  .line .w30-xs {
+    position: relative;
+    flex: 0 0 30%;
+
+    max-width: 30%;
+  }
+
+  .line-expand .w30-xs {
+    position: relative;
+    flex: 1 0 30%;
+
+    min-width: 30%;
+  }
+
+  .line .w25-xs {
+    position: relative;
+    flex: 0 0 25%;
+
+    max-width: 25%;
+  }
+
+  .line-expand .w25-xs {
+    position: relative;
+    flex: 1 0 25%;
+
+    min-width: 25%;
+  }
+
+  .line .w20-xs {
+    position: relative;
+    flex: 0 0 20%;
+
+    max-width: 20%;
+  }
+
+  .line-expand .w20-xs {
+    position: relative;
+    flex: 1 0 20%;
+
+    min-width: 20%;
+  }
+
+  .line .w15-xs {
+    position: relative;
+    flex: 0 0 15%;
+
+    max-width: 15%;
+  }
+
+  .line-expand .w15-xs {
+    position: relative;
+    flex: 1 0 15%;
+
+    min-width: 15%;
+  }
+
+  .line .w10-xs {
+    position: relative;
+    flex: 0 0 10%;
+
+    max-width: 10%;
+  }
+
+  .line-expand .w10-xs {
+    position: relative;
+    flex: 1 0 10%;
+
+    min-width: 10%;
+  }
+
+  .line .w5-xs {
+    position: relative;
+    flex: 0 0 5%;
+
+    max-width: 5%;
+  }
+
+  .line-expand .w5-xs {
+    position: relative;
+    flex: 1 0 5%;
+
+    min-width: 5%;
+  }
+
+}
+
+
+
+@media screen and (min-width: 480px) {
+
+  .w100-s {
+    width: 100%;
+  }
+
+  .w95-s {
+    width: 95%;
+  }
+
+  .w90-s {
+    width: 90%;
+  }
+
+  .w85-s {
+    width: 85%;
+  }
+
+  .w80-s {
+    width: 80%;
+  }
+
+  .w75-s {
+    width: 75%;
+  }
+
+  .w70-s {
+    width: 70%;
+  }
+
+  .w65-s {
+    width: 65%;
+  }
+
+  .w60-s {
+    width: 60%;
+  }
+
+  .w55-s {
+    width: 55%;
+  }
+
+  .w50-s {
+    width: 50%;
+  }
+
+  .w45-s {
+    width: 45%;
+  }
+
+  .w40-s {
+    width: 40%;
+  }
+
+  .w35-s {
+    width: 35%;
+  }
+
+  .w33-s {
+    width: 33.333333%;
+  }
+
+  .w30-s {
+    width: 30%;
+  }
+
+  .w25-s {
+    width: 25%;
+  }
+
+  .w20-s {
+    width: 20%;
+  }
+
+  .w15-s {
+    width: 15%;
+  }
+
+  .w10-s {
+    width: 10%;
+  }
+
+  .w5-s {
+
+    width: 5%;
+  }
+
+  .vw100-s {
+    width: 100vw;
+  }
+
+  .vw95-s {
+    width: 95vw;
+  }
+
+  .vw90-s {
+    width: 90vw;
+  }
+
+  .vw85-s {
+    width: 85vw;
+  }
+
+  .vw80-s {
+    width: 80vw;
+  }
+
+  .vw75-s {
+    width: 75vw;
+  }
+
+  .vw70-s {
+    width: 70vw;
+  }
+
+  .vw65-s {
+    width: 65vw;
+  }
+
+  .vw60-s {
+    width: 60vw;
+  }
+
+  .vw55-s {
+    width: 55vw;
+  }
+
+  .vw50-s {
+    width: 50vw;
+  }
+
+  .vw45-s {
+    width: 45vw;
+  }
+
+  .vw40-s {
+    width: 40vw;
+  }
+
+  .vw35-s {
+    width: 35vw;
+  }
+
+  .vw33-s {
+    width: 33.333333vw;
+  }
+
+  .vw30-s {
+    width: 30vw;
+  }
+
+  .vw25-s {
+    width: 25vw;
+  }
+
+  .vw20-s {
+    width: 20vw;
+  }
+
+  .vw15-s {
+    width: 15vw;
+  }
+
+  .vw10-s {
+    width: 10vw;
+  }
+
+  .vw5-s {
+    width: 5vw;
+  }
+
+  .line .w100-s {
+    position: relative;
+    flex: 0 0 100%;
+
+    max-width: 100%;
+  }
+
+  .line-expand .w100-s {
+    position: relative;
+    flex: 1 0 100%;
+
+    min-width: 100%;
+  }
+
+  .line .w95-s {
+    position: relative;
+    flex: 0 0 95%;
+
+    max-width: 95%;
+  }
+
+  .line-expand .w95-s {
+    position: relative;
+    flex: 1 0 95%;
+
+    min-width: 95%;
+  }
+
+  .line .w90-s {
+    position: relative;
+    flex: 0 0 90%;
+
+    max-width: 90%;
+  }
+
+  .line-expand .w90-s {
+    position: relative;
+    flex: 1 0 90%;
+
+    min-width: 90%;
+  }
+
+  .line .w85-s {
+    position: relative;
+    flex: 0 0 85%;
+
+    max-width: 85%;
+  }
+
+  .line-expand .w85-s {
+    position: relative;
+    flex: 1 0 85%;
+
+    min-width: 85%;
+  }
+
+  .line .w80-s {
+    position: relative;
+    flex: 0 0 80%;
+
+    max-width: 80%;
+  }
+
+  .line-expand .w80-s {
+    position: relative;
+    flex: 1 0 80%;
+
+    min-width: 80%;
+  }
+
+  .line .w75-s {
+    position: relative;
+    flex: 0 0 75%;
+
+    max-width: 75%;
+  }
+
+  .line-expand .w75-s {
+    position: relative;
+    flex: 1 0 75%;
+
+    min-width: 75%;
+  }
+
+  .line .w70-s {
+    position: relative;
+    flex: 0 0 70%;
+
+    max-width: 70%;
+  }
+
+  .line-expand .w70-s {
+    position: relative;
+    flex: 1 0 70%;
+
+    min-width: 70%;
+  }
+
+  .line .w65-s {
+    position: relative;
+    flex: 0 0 65%;
+
+    max-width: 65%;
+  }
+
+  .line-expand .w65-s {
+    position: relative;
+    flex: 1 0 65%;
+
+    min-width: 65%;
+  }
+
+  .line .w60-s {
+    position: relative;
+    flex: 0 0 60%;
+
+    max-width: 60%;
+  }
+
+  .line-expand .w60-s {
+    position: relative;
+    flex: 1 0 60%;
+
+    min-width: 60%;
+  }
+
+  .line .w55-s {
+    position: relative;
+    flex: 0 0 55%;
+
+    max-width: 55%;
+  }
+
+  .line-expand .w55-s {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-s {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w55-s {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-s {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w50-s {
+    position: relative;
+    flex: 1 0 50%;
+
+    min-width: 50%;
+  }
+
+  .line .w45-s {
+    position: relative;
+    flex: 0 0 45%;
+
+    max-width: 45%;
+  }
+
+  .line-expand .w45-s {
+    position: relative;
+    flex: 1 0 45%;
+
+    min-width: 45%;
+  }
+
+  .line .w40-s {
+    position: relative;
+    flex: 0 0 40%;
+
+    max-width: 40%;
+  }
+
+  .line-expand .w40-s {
+    position: relative;
+    flex: 1 0 40%;
+
+    min-width: 40%;
+  }
+
+  .line .w35-s {
+    position: relative;
+    flex: 0 0 35%;
+
+    max-width: 35%;
+  }
+
+  .line-expand .w35-s {
+    position: relative;
+    flex: 1 0 35%;
+
+    min-width: 35%;
+  }
+
+  .line>.w33-s {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-s {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+  .line .w30-s {
+    position: relative;
+    flex: 0 0 30%;
+
+    max-width: 30%;
+  }
+
+  .line-expand .w30-s {
+    position: relative;
+    flex: 1 0 30%;
+
+    min-width: 30%;
+  }
+
+  .line .w25-s {
+    position: relative;
+    flex: 0 0 25%;
+
+    max-width: 25%;
+  }
+
+  .line-expand .w25-s {
+    position: relative;
+    flex: 1 0 25%;
+
+    min-width: 25%;
+  }
+
+  .line .w20-s {
+    position: relative;
+    flex: 0 0 20%;
+
+    max-width: 20%;
+  }
+
+  .line-expand .w20-s {
+    position: relative;
+    flex: 1 0 20%;
+
+    min-width: 20%;
+  }
+
+  .line .w15-s {
+    position: relative;
+    flex: 0 0 15%;
+
+    max-width: 15%;
+  }
+
+  .line-expand .w15-s {
+    position: relative;
+    flex: 1 0 15%;
+
+    min-width: 15%;
+  }
+
+  .line .w10-s {
+    position: relative;
+    flex: 0 0 10%;
+
+    max-width: 10%;
+  }
+
+  .line-expand .w10-s {
+    position: relative;
+    flex: 1 0 10%;
+
+    min-width: 10%;
+  }
+
+  .line .w5-s {
+    position: relative;
+    flex: 0 0 5%;
+
+    max-width: 5%;
+  }
+
+  .line-expand .w5-s {
+    position: relative;
+    flex: 1 0 5%;
+
+    min-width: 5%;
+  }
+
+}
+
+@media screen and (min-width: 768px) {
+
+  .w100-m {
+    width: 100%;
+  }
+
+  .w95-m {
+    width: 95%;
+  }
+
+  .w90-m {
+    width: 90%;
+  }
+
+  .w85-m {
+    width: 85%;
+  }
+
+  .w80-m {
+    width: 80%;
+  }
+
+  .w75-m {
+    width: 75%;
+  }
+
+  .w70-m {
+    width: 70%;
+  }
+
+  .w65-m {
+    width: 65%;
+  }
+
+  .w60-m {
+    width: 60%;
+  }
+
+  .w55-m {
+    width: 55%;
+  }
+
+  .w50-m {
+    width: 50%;
+  }
+
+  .w45-m {
+    width: 45%;
+  }
+
+  .w40-m {
+    width: 40%;
+  }
+
+  .w35-m {
+    width: 35%;
+  }
+
+  .w33-m {
+    width: 33.333333%;
+  }
+
+  .w30-m {
+    width: 30%;
+  }
+
+  .w25-m {
+    width: 25%;
+  }
+
+  .w20-m {
+    width: 20%;
+  }
+
+  .w15-m {
+    width: 15%;
+  }
+
+  .w10-m {
+    width: 10%;
+  }
+
+  .w5-m {
+
+    width: 5%;
+  }
+
+  .vw100-m {
+    width: 100vw;
+  }
+
+  .vw95-m {
+    width: 95vw;
+  }
+
+  .vw90-m {
+    width: 90vw;
+  }
+
+  .vw85-m {
+    width: 85vw;
+  }
+
+  .vw80-m {
+    width: 80vw;
+  }
+
+  .vw75-m {
+    width: 75vw;
+  }
+
+  .vw70-m {
+    width: 70vw;
+  }
+
+  .vw65-m {
+    width: 65vw;
+  }
+
+  .vw60-m {
+    width: 60vw;
+  }
+
+  .vw55-m {
+    width: 55vw;
+  }
+
+  .vw50-m {
+    width: 50vw;
+  }
+
+  .vw45-m {
+    width: 45vw;
+  }
+
+  .vw40-m {
+    width: 40vw;
+  }
+
+  .vw35-m {
+    width: 35vw;
+  }
+
+  .vw33-m {
+    width: 33.333333vw;
+  }
+
+  .vw30-m {
+    width: 30vw;
+  }
+
+  .vw25-m {
+    width: 25vw;
+  }
+
+  .vw20-m {
+    width: 20vw;
+  }
+
+  .vw15-m {
+    width: 15vw;
+  }
+
+  .vw10-m {
+    width: 10vw;
+  }
+
+  .vw5-m {
+    width: 5vw;
+  }
+
+  .line .w100-m {
+    position: relative;
+    flex: 0 0 100%;
+
+    max-width: 100%;
+  }
+
+  .line-expand .w100-m {
+    position: relative;
+    flex: 1 0 100%;
+
+    min-width: 100%;
+  }
+
+  .line .w95-m {
+    position: relative;
+    flex: 0 0 95%;
+
+    max-width: 95%;
+  }
+
+  .line-expand .w95-m {
+    position: relative;
+    flex: 1 0 95%;
+
+    min-width: 95%;
+  }
+
+  .line .w90-m {
+    position: relative;
+    flex: 0 0 90%;
+
+    max-width: 90%;
+  }
+
+  .line-expand .w90-m {
+    position: relative;
+    flex: 1 0 90%;
+
+    min-width: 90%;
+  }
+
+  .line .w85-m {
+    position: relative;
+    flex: 0 0 85%;
+
+    max-width: 85%;
+  }
+
+  .line-expand .w85-m {
+    position: relative;
+    flex: 1 0 85%;
+
+    min-width: 85%;
+  }
+
+  .line .w80-m {
+    position: relative;
+    flex: 0 0 80%;
+
+    max-width: 80%;
+  }
+
+  .line-expand .w80-m {
+    position: relative;
+    flex: 1 0 80%;
+
+    min-width: 80%;
+  }
+
+  .line .w75-m {
+    position: relative;
+    flex: 0 0 75%;
+
+    max-width: 75%;
+  }
+
+  .line-expand .w75-m {
+    position: relative;
+    flex: 1 0 75%;
+
+    min-width: 75%;
+  }
+
+  .line .w70-m {
+    position: relative;
+    flex: 0 0 70%;
+
+    max-width: 70%;
+  }
+
+  .line-expand .w70-m {
+    position: relative;
+    flex: 1 0 70%;
+
+    min-width: 70%;
+  }
+
+  .line .w65-m {
+    position: relative;
+    flex: 0 0 65%;
+
+    max-width: 65%;
+  }
+
+  .line-expand .w65-m {
+    position: relative;
+    flex: 1 0 65%;
+
+    min-width: 65%;
+  }
+
+  .line .w60-m {
+    position: relative;
+    flex: 0 0 60%;
+
+    max-width: 60%;
+  }
+
+  .line-expand .w60-m {
+    position: relative;
+    flex: 1 0 60%;
+
+    min-width: 60%;
+  }
+
+  .line .w55-m {
+    position: relative;
+    flex: 0 0 55%;
+
+    max-width: 55%;
+  }
+
+  .line-expand .w55-m {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-m {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w55-m {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-m {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w50-m {
+    position: relative;
+    flex: 1 0 50%;
+
+    min-width: 50%;
+  }
+
+  .line .w45-m {
+    position: relative;
+    flex: 0 0 45%;
+
+    max-width: 45%;
+  }
+
+  .line-expand .w45-m {
+    position: relative;
+    flex: 1 0 45%;
+
+    min-width: 45%;
+  }
+
+  .line .w40-m {
+    position: relative;
+    flex: 0 0 40%;
+
+    max-width: 40%;
+  }
+
+  .line-expand .w40-m {
+    position: relative;
+    flex: 1 0 40%;
+
+    min-width: 40%;
+  }
+
+  .line .w35-m {
+    position: relative;
+    flex: 0 0 35%;
+
+    max-width: 35%;
+  }
+
+  .line-expand .w35-m {
+    position: relative;
+    flex: 1 0 35%;
+
+    min-width: 35%;
+  }
+
+  .line>.w33-m {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-m {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+
+  .line .w30-m {
+    position: relative;
+    flex: 0 0 30%;
+
+    max-width: 30%;
+  }
+
+  .line-expand .w30-m {
+    position: relative;
+    flex: 1 0 30%;
+
+    min-width: 30%;
+  }
+
+  .line .w25-m {
+    position: relative;
+    flex: 0 0 25%;
+
+    max-width: 25%;
+  }
+
+  .line-expand .w25-m {
+    position: relative;
+    flex: 1 0 25%;
+
+    min-width: 25%;
+  }
+
+  .line .w20-m {
+    position: relative;
+    flex: 0 0 20%;
+
+    max-width: 20%;
+  }
+
+  .line-expand .w20-m {
+    position: relative;
+    flex: 1 0 20%;
+
+    min-width: 20%;
+  }
+
+  .line .w15-m {
+    position: relative;
+    flex: 0 0 15%;
+
+    max-width: 15%;
+  }
+
+  .line-expand .w15-m {
+    position: relative;
+    flex: 1 0 15%;
+
+    min-width: 15%;
+  }
+
+  .line .w10-m {
+    position: relative;
+    flex: 0 0 10%;
+
+    max-width: 10%;
+  }
+
+  .line-expand .w10-m {
+    position: relative;
+    flex: 1 0 10%;
+
+    min-width: 10%;
+  }
+
+  .line .w5-m {
+    position: relative;
+    flex: 0 0 5%;
+
+    max-width: 5%;
+  }
+
+  .line-expand .w5-m {
+    position: relative;
+    flex: 1 0 5%;
+
+    min-width: 5%;
+  }
+
+}
+
+@media screen and (min-width: 1024px) {
+
+  .w100-l {
+    width: 100%;
+  }
+
+  .w95-l {
+    width: 95%;
+  }
+
+  .w90-l {
+    width: 90%;
+  }
+
+  .w85-l {
+    width: 85%;
+  }
+
+  .w80-l {
+    width: 80%;
+  }
+
+  .w75-l {
+    width: 75%;
+  }
+
+  .w70-l {
+    width: 70%;
+  }
+
+  .w65-l {
+    width: 65%;
+  }
+
+  .w60-l {
+    width: 60%;
+  }
+
+  .w55-l {
+    width: 55%;
+  }
+
+  .w50-l {
+    width: 50%;
+  }
+
+  .w45-l {
+    width: 45%;
+  }
+
+  .w40-l {
+    width: 40%;
+  }
+
+  .w35-l {
+    width: 35%;
+  }
+
+  .w33-l {
+    width: 33.333333%;
+  }
+
+  .w30-l {
+    width: 30%;
+  }
+
+  .w25-l {
+    width: 25%;
+  }
+
+  .w20-l {
+    width: 20%;
+  }
+
+  .w15-l {
+    width: 15%;
+  }
+
+  .w10-l {
+    width: 10%;
+  }
+
+  .w5-l {
+
+    width: 5%;
+  }
+
+  .vw100-l {
+    width: 100vw;
+  }
+
+  .vw95-l {
+    width: 95vw;
+  }
+
+  .vw90-l {
+    width: 90vw;
+  }
+
+  .vw85-l {
+    width: 85vw;
+  }
+
+  .vw80-l {
+    width: 80vw;
+  }
+
+  .vw75-l {
+    width: 75vw;
+  }
+
+  .vw70-l {
+    width: 70vw;
+  }
+
+  .vw65-l {
+    width: 65vw;
+  }
+
+  .vw60-l {
+    width: 60vw;
+  }
+
+  .vw55-l {
+    width: 55vw;
+  }
+
+  .vw50-l {
+    width: 50vw;
+  }
+
+  .vw45-l {
+    width: 45vw;
+  }
+
+  .vw40-l {
+    width: 40vw;
+  }
+
+  .vw35-l {
+    width: 35vw;
+  }
+
+  .vw33-l {
+    width: 33.333333vw;
+  }
+
+  .vw30-l {
+    width: 30vw;
+  }
+
+  .vw25-l {
+    width: 25vw;
+  }
+
+  .vw20-l {
+    width: 20vw;
+  }
+
+  .vw15-l {
+    width: 15vw;
+  }
+
+  .vw10-l {
+    width: 10vw;
+  }
+
+  .vw5-l {
+    width: 5vw;
+  }
+
+  .line .w100-l {
+    position: relative;
+    flex: 0 0 100%;
+
+    max-width: 100%;
+  }
+
+  .line-expand .w100-l {
+    position: relative;
+    flex: 1 0 100%;
+
+    min-width: 100%;
+  }
+
+  .line .w95-l {
+    position: relative;
+    flex: 0 0 95%;
+
+    max-width: 95%;
+  }
+
+  .line-expand .w95-l {
+    position: relative;
+    flex: 1 0 95%;
+
+    min-width: 95%;
+  }
+
+  .line .w90-l {
+    position: relative;
+    flex: 0 0 90%;
+
+    max-width: 90%;
+  }
+
+  .line-expand .w90-l {
+    position: relative;
+    flex: 1 0 90%;
+
+    min-width: 90%;
+  }
+
+  .line .w85-l {
+    position: relative;
+    flex: 0 0 85%;
+
+    max-width: 85%;
+  }
+
+  .line-expand .w85-l {
+    position: relative;
+    flex: 1 0 85%;
+
+    min-width: 85%;
+  }
+
+  .line .w80-l {
+    position: relative;
+    flex: 0 0 80%;
+
+    max-width: 80%;
+  }
+
+  .line-expand .w80-l {
+    position: relative;
+    flex: 1 0 80%;
+
+    min-width: 80%;
+  }
+
+  .line .w75-l {
+    position: relative;
+    flex: 0 0 75%;
+
+    max-width: 75%;
+  }
+
+  .line-expand .w75-l {
+    position: relative;
+    flex: 1 0 75%;
+
+    min-width: 75%;
+  }
+
+  .line .w70-l {
+    position: relative;
+    flex: 0 0 70%;
+
+    max-width: 70%;
+  }
+
+  .line-expand .w70-l {
+    position: relative;
+    flex: 1 0 70%;
+
+    min-width: 70%;
+  }
+
+  .line .w65-l {
+    position: relative;
+    flex: 0 0 65%;
+
+    max-width: 65%;
+  }
+
+  .line-expand .w65-l {
+    position: relative;
+    flex: 1 0 65%;
+
+    min-width: 65%;
+  }
+
+  .line .w60-l {
+    position: relative;
+    flex: 0 0 60%;
+
+    max-width: 60%;
+  }
+
+  .line-expand .w60-l {
+    position: relative;
+    flex: 1 0 60%;
+
+    min-width: 60%;
+  }
+
+  .line .w55-l {
+    position: relative;
+    flex: 0 0 55%;
+
+    max-width: 55%;
+  }
+
+  .line-expand .w55-l {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-l {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w55-l {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-l {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w50-l {
+    position: relative;
+    flex: 1 0 50%;
+
+    min-width: 50%;
+  }
+
+  .line .w45-l {
+    position: relative;
+    flex: 0 0 45%;
+
+    max-width: 45%;
+  }
+
+  .line-expand .w45-l {
+    position: relative;
+    flex: 1 0 45%;
+
+    min-width: 45%;
+  }
+
+  .line .w40-l {
+    position: relative;
+    flex: 0 0 40%;
+
+    max-width: 40%;
+  }
+
+  .line-expand .w40-l {
+    position: relative;
+    flex: 1 0 40%;
+
+    min-width: 40%;
+  }
+
+  .line .w35-l {
+    position: relative;
+    flex: 0 0 35%;
+
+    max-width: 35%;
+  }
+
+  .line-expand .w35-l {
+    position: relative;
+    flex: 1 0 35%;
+
+    min-width: 35%;
+  }
+
+  .line>.w33-l {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-l {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+
+  .line .w30-l {
+    position: relative;
+    flex: 0 0 30%;
+
+    max-width: 30%;
+  }
+
+  .line-expand .w30-l {
+    position: relative;
+    flex: 1 0 30%;
+
+    min-width: 30%;
+  }
+
+  .line .w25-l {
+    position: relative;
+    flex: 0 0 25%;
+
+    max-width: 25%;
+  }
+
+  .line-expand .w25-l {
+    position: relative;
+    flex: 1 0 25%;
+
+    min-width: 25%;
+  }
+
+  .line .w20-l {
+    position: relative;
+    flex: 0 0 20%;
+
+    max-width: 20%;
+  }
+
+  .line-expand .w20-l {
+    position: relative;
+    flex: 1 0 20%;
+
+    min-width: 20%;
+  }
+
+  .line .w15-l {
+    position: relative;
+    flex: 0 0 15%;
+
+    max-width: 15%;
+  }
+
+  .line-expand .w15-l {
+    position: relative;
+    flex: 1 0 15%;
+
+    min-width: 15%;
+  }
+
+  .line .w10-l {
+    position: relative;
+    flex: 0 0 10%;
+
+    max-width: 10%;
+  }
+
+  .line-expand .w10-l {
+    position: relative;
+    flex: 1 0 10%;
+
+    min-width: 10%;
+  }
+
+  .line .w5-l {
+    position: relative;
+    flex: 0 0 5%;
+
+    max-width: 5%;
+  }
+
+  .line-expand .w5-l {
+    position: relative;
+    flex: 1 0 5%;
+
+    min-width: 5%;
+  }
+
+}
+
+@media screen and (min-width: 1280px) {
+
+  .w100-xl {
+    width: 100%;
+  }
+
+  .w95-xl {
+    width: 95%;
+  }
+
+  .w90-xl {
+    width: 90%;
+  }
+
+  .w85-xl {
+    width: 85%;
+  }
+
+  .w80-xl {
+    width: 80%;
+  }
+
+  .w75-xl {
+    width: 75%;
+  }
+
+  .w70-xl {
+    width: 70%;
+  }
+
+  .w65-xl {
+    width: 65%;
+  }
+
+  .w60-xl {
+    width: 60%;
+  }
+
+  .w55-xl {
+    width: 55%;
+  }
+
+  .w50-xl {
+    width: 50%;
+  }
+
+  .w45-xl {
+    width: 45%;
+  }
+
+  .w40-xl {
+    width: 40%;
+  }
+
+  .w35-xl {
+    width: 35%;
+  }
+
+  .w30-xl {
+    width: 30%;
+  }
+
+  .w33-xl {
+    width: 33.333333%;
+  }
+
+  .w25-xl {
+    width: 25%;
+  }
+
+  .w20-xl {
+    width: 20%;
+  }
+
+  .w15-xl {
+    width: 15%;
+  }
+
+  .w10-xl {
+    width: 10%;
+  }
+
+  .w5-xl {
+
+    width: 5%;
+  }
+
+  .vw100-xl {
+    width: 100vw;
+  }
+
+  .vw95-xl {
+    width: 95vw;
+  }
+
+  .vw90-xl {
+    width: 90vw;
+  }
+
+  .vw85-xl {
+    width: 85vw;
+  }
+
+  .vw80-xl {
+    width: 80vw;
+  }
+
+  .vw75-xl {
+    width: 75vw;
+  }
+
+  .vw70-xl {
+    width: 70vw;
+  }
+
+  .vw65-xl {
+    width: 65vw;
+  }
+
+  .vw60-xl {
+    width: 60vw;
+  }
+
+  .vw55-xl {
+    width: 55vw;
+  }
+
+  .vw50-xl {
+    width: 50vw;
+  }
+
+  .vw45-xl {
+    width: 45vw;
+  }
+
+  .vw40-xl {
+    width: 40vw;
+  }
+
+  .vw35-xl {
+    width: 35vw;
+  }
+
+  .vw33-xl {
+    width: 33.333333vw;
+  }
+
+  .vw30-xl {
+    width: 30vw;
+  }
+
+  .vw25-xl {
+    width: 25vw;
+  }
+
+  .vw20-xl {
+    width: 20vw;
+  }
+
+  .vw15-xl {
+    width: 15vw;
+  }
+
+  .vw10-xl {
+    width: 10vw;
+  }
+
+  .vw5-xl {
+    width: 5vw;
+  }
+
+  .line .w100-xl {
+    position: relative;
+    flex: 0 0 100%;
+
+    max-width: 100%;
+  }
+
+  .line-expand .w100-xl {
+    position: relative;
+    flex: 1 0 100%;
+
+    min-width: 100%;
+  }
+
+  .line .w95-xl {
+    position: relative;
+    flex: 0 0 95%;
+
+    max-width: 95%;
+  }
+
+  .line-expand .w95-xl {
+    position: relative;
+    flex: 1 0 95%;
+
+    min-width: 95%;
+  }
+
+  .line .w90-xl {
+    position: relative;
+    flex: 0 0 90%;
+
+    max-width: 90%;
+  }
+
+  .line-expand .w90-xl {
+    position: relative;
+    flex: 1 0 90%;
+
+    min-width: 90%;
+  }
+
+  .line .w85-xl {
+    position: relative;
+    flex: 0 0 85%;
+
+    max-width: 85%;
+  }
+
+  .line-expand .w85-xl {
+    position: relative;
+    flex: 1 0 85%;
+
+    min-width: 85%;
+  }
+
+  .line .w80-xl {
+    position: relative;
+    flex: 0 0 80%;
+
+    max-width: 80%;
+  }
+
+  .line-expand .w80-xl {
+    position: relative;
+    flex: 1 0 80%;
+
+    min-width: 80%;
+  }
+
+  .line .w75-xl {
+    position: relative;
+    flex: 0 0 75%;
+
+    max-width: 75%;
+  }
+
+  .line-expand .w75-xl {
+    position: relative;
+    flex: 1 0 75%;
+
+    min-width: 75%;
+  }
+
+  .line .w70-xl {
+    position: relative;
+    flex: 0 0 70%;
+
+    max-width: 70%;
+  }
+
+  .line-expand .w70-xl {
+    position: relative;
+    flex: 1 0 70%;
+
+    min-width: 70%;
+  }
+
+  .line .w65-xl {
+    position: relative;
+    flex: 0 0 65%;
+
+    max-width: 65%;
+  }
+
+  .line-expand .w65-xl {
+    position: relative;
+    flex: 1 0 65%;
+
+    min-width: 65%;
+  }
+
+  .line .w60-xl {
+    position: relative;
+    flex: 0 0 60%;
+
+    max-width: 60%;
+  }
+
+  .line-expand .w60-xl {
+    position: relative;
+    flex: 1 0 60%;
+
+    min-width: 60%;
+  }
+
+  .line .w55-xl {
+    position: relative;
+    flex: 0 0 55%;
+
+    max-width: 55%;
+  }
+
+  .line-expand .w55-xl {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-xl {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w55-xl {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-xl {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w50-xl {
+    position: relative;
+    flex: 1 0 50%;
+
+    min-width: 50%;
+  }
+
+  .line .w45-xl {
+    position: relative;
+    flex: 0 0 45%;
+
+    max-width: 45%;
+  }
+
+  .line-expand .w45-xl {
+    position: relative;
+    flex: 1 0 45%;
+
+    min-width: 45%;
+  }
+
+  .line .w40-xl {
+    position: relative;
+    flex: 0 0 40%;
+
+    max-width: 40%;
+  }
+
+  .line-expand .w40-xl {
+    position: relative;
+    flex: 1 0 40%;
+
+    min-width: 40%;
+  }
+
+  .line .w35-xl {
+    position: relative;
+    flex: 0 0 35%;
+
+    max-width: 35%;
+  }
+
+  .line-expand .w35-xl {
+    position: relative;
+    flex: 1 0 35%;
+
+    min-width: 35%;
+  }
+
+  .line>.w33-xl {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-xl {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+
+
+  .line .w30-xl {
+    position: relative;
+    flex: 0 0 30%;
+
+    max-width: 30%;
+  }
+
+  .line-expand .w30-xl {
+    position: relative;
+    flex: 1 0 30%;
+
+    min-width: 30%;
+  }
+
+  .line .w25-xl {
+    position: relative;
+    flex: 0 0 25%;
+
+    max-width: 25%;
+  }
+
+  .line-expand .w25-xl {
+    position: relative;
+    flex: 1 0 25%;
+
+    min-width: 25%;
+  }
+
+  .line .w20-xl {
+    position: relative;
+    flex: 0 0 20%;
+
+    max-width: 20%;
+  }
+
+  .line-expand .w20-xl {
+    position: relative;
+    flex: 1 0 20%;
+
+    min-width: 20%;
+  }
+
+  .line .w15-xl {
+    position: relative;
+    flex: 0 0 15%;
+
+    max-width: 15%;
+  }
+
+  .line-expand .w15-xl {
+    position: relative;
+    flex: 1 0 15%;
+
+    min-width: 15%;
+  }
+
+  .line .w10-xl {
+    position: relative;
+    flex: 0 0 10%;
+
+    max-width: 10%;
+  }
+
+  .line-expand .w10-xl {
+    position: relative;
+    flex: 1 0 10%;
+
+    min-width: 10%;
+  }
+
+  .line .w5-xl {
+    position: relative;
+    flex: 0 0 5%;
+
+    max-width: 5%;
+  }
+
+  .line-expand .w5-xl {
+    position: relative;
+    flex: 1 0 5%;
+
+    min-width: 5%;
+  }
+
+}
+
+@media screen and (min-width: 1440px) {
+
+  .w100-xxl {
+    width: 100%;
+  }
+
+  .w95-xxl {
+    width: 95%;
+  }
+
+  .w90-xxl {
+    width: 90%;
+  }
+
+  .w85-xxl {
+    width: 85%;
+  }
+
+  .w80-xxl {
+    width: 80%;
+  }
+
+  .w75-xxl {
+    width: 75%;
+  }
+
+  .w70-xxl {
+    width: 70%;
+  }
+
+  .w65-xxl {
+    width: 65%;
+  }
+
+  .w60-xxl {
+    width: 60%;
+  }
+
+  .w55-xxl {
+    width: 55%;
+  }
+
+  .w50-xxl {
+    width: 50%;
+  }
+
+  .w45-xxl {
+    width: 45%;
+  }
+
+  .w40-xxl {
+    width: 40%;
+  }
+
+  .w35-xxl {
+    width: 35%;
+  }
+
+  .w33-xxl {
+    width: 33.333333%;
+  }
+
+  .w30-xxl {
+    width: 30%;
+  }
+
+  .w25-xxl {
+    width: 25%;
+  }
+
+  .w20-xxl {
+    width: 20%;
+  }
+
+  .w15-xxl {
+    width: 15%;
+  }
+
+  .w10-xxl {
+    width: 10%;
+  }
+
+  .w5-xxl {
+
+    width: 5%;
+  }
+
+  .vw100-xxl {
+    width: 100vw;
+  }
+
+  .vw95-xxl {
+    width: 95vw;
+  }
+
+  .vw90-xxl {
+    width: 90vw;
+  }
+
+  .vw85-xxl {
+    width: 85vw;
+  }
+
+  .vw80-xxl {
+    width: 80vw;
+  }
+
+  .vw75-xxl {
+    width: 75vw;
+  }
+
+  .vw70-xxl {
+    width: 70vw;
+  }
+
+  .vw65-xxl {
+    width: 65vw;
+  }
+
+  .vw60-xxl {
+    width: 60vw;
+  }
+
+  .vw55-xxl {
+    width: 55vw;
+  }
+
+  .vw50-xxl {
+    width: 50vw;
+  }
+
+  .vw45-xxl {
+    width: 45vw;
+  }
+
+  .vw40-xxl {
+    width: 40vw;
+  }
+
+  .vw35-xxl {
+    width: 35vw;
+  }
+
+  .vw33-xxl {
+    width: 33.333333.33vw;
+  }
+
+  .vw30-xxl {
+    width: 30vw;
+  }
+
+  .vw25-xxl {
+    width: 25vw;
+  }
+
+  .vw20-xxl {
+    width: 20vw;
+  }
+
+  .vw15-xxl {
+    width: 15vw;
+  }
+
+  .vw10-xxl {
+    width: 10vw;
+  }
+
+  .vw5-xxl {
+    width: 5vw;
+  }
+
+  .line .w100-xxl {
+    position: relative;
+    flex: 0 0 100%;
+
+    max-width: 100%;
+  }
+
+  .line-expand .w100-xxl {
+    position: relative;
+    flex: 1 0 100%;
+
+    min-width: 100%;
+  }
+
+  .line .w95-xxl {
+    position: relative;
+    flex: 0 0 95%;
+
+    max-width: 95%;
+  }
+
+  .line-expand .w95-xxl {
+    position: relative;
+    flex: 1 0 95%;
+
+    min-width: 95%;
+  }
+
+  .line .w90-xxl {
+    position: relative;
+    flex: 0 0 90%;
+
+    max-width: 90%;
+  }
+
+  .line-expand .w90-xxl {
+    position: relative;
+    flex: 1 0 90%;
+
+    min-width: 90%;
+  }
+
+  .line .w85-xxl {
+    position: relative;
+    flex: 0 0 85%;
+
+    max-width: 85%;
+  }
+
+  .line-expand .w85-xxl {
+    position: relative;
+    flex: 1 0 85%;
+
+    min-width: 85%;
+  }
+
+  .line .w80-xxl {
+    position: relative;
+    flex: 0 0 80%;
+
+    max-width: 80%;
+  }
+
+  .line-expand .w80-xxl {
+    position: relative;
+    flex: 1 0 80%;
+
+    min-width: 80%;
+  }
+
+  .line .w75-xxl {
+    position: relative;
+    flex: 0 0 75%;
+
+    max-width: 75%;
+  }
+
+  .line-expand .w75-xxl {
+    position: relative;
+    flex: 1 0 75%;
+
+    min-width: 75%;
+  }
+
+  .line .w70-xxl {
+    position: relative;
+    flex: 0 0 70%;
+
+    max-width: 70%;
+  }
+
+  .line-expand .w70-xxl {
+    position: relative;
+    flex: 1 0 70%;
+
+    min-width: 70%;
+  }
+
+  .line .w65-xxl {
+    position: relative;
+    flex: 0 0 65%;
+
+    max-width: 65%;
+  }
+
+  .line-expand .w65-xxl {
+    position: relative;
+    flex: 1 0 65%;
+
+    min-width: 65%;
+  }
+
+  .line .w60-xxl {
+    position: relative;
+    flex: 0 0 60%;
+
+    max-width: 60%;
+  }
+
+  .line-expand .w60-xxl {
+    position: relative;
+    flex: 1 0 60%;
+
+    min-width: 60%;
+  }
+
+  .line .w55-xxl {
+    position: relative;
+    flex: 0 0 55%;
+
+    max-width: 55%;
+  }
+
+  .line-expand .w55-xxl {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-xxl {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w55-xxl {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-xxl {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w50-xxl {
+    position: relative;
+    flex: 1 0 50%;
+
+    min-width: 50%;
+  }
+
+  .line .w45-xxl {
+    position: relative;
+    flex: 0 0 45%;
+
+    max-width: 45%;
+  }
+
+  .line-expand .w45-xxl {
+    position: relative;
+    flex: 1 0 45%;
+
+    min-width: 45%;
+  }
+
+  .line .w40-xxl {
+    position: relative;
+    flex: 0 0 40%;
+
+    max-width: 40%;
+  }
+
+  .line-expand .w40-xxl {
+    position: relative;
+    flex: 1 0 40%;
+
+    min-width: 40%;
+  }
+
+  .line .w35-xxl {
+    position: relative;
+    flex: 0 0 35%;
+
+    max-width: 35%;
+  }
+
+  .line-expand .w35-xxl {
+    position: relative;
+    flex: 1 0 35%;
+
+    min-width: 35%;
+  }
+
+  .line>.w33-xl {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-xl {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+
+
+  .line .w30-xxl {
+    position: relative;
+    flex: 0 0 30%;
+
+    max-width: 30%;
+  }
+
+  .line-expand .w30-xxl {
+    position: relative;
+    flex: 1 0 30%;
+
+    min-width: 30%;
+  }
+
+  .line .w25-xxl {
+    position: relative;
+    flex: 0 0 25%;
+
+    max-width: 25%;
+  }
+
+  .line-expand .w25-xxl {
+    position: relative;
+    flex: 1 0 25%;
+
+    min-width: 25%;
+  }
+
+  .line .w20-xxl {
+    position: relative;
+    flex: 0 0 20%;
+
+    max-width: 20%;
+  }
+
+  .line-expand .w20-xxl {
+    position: relative;
+    flex: 1 0 20%;
+
+    min-width: 20%;
+  }
+
+  .line .w15-xxl {
+    position: relative;
+    flex: 0 0 15%;
+
+    max-width: 15%;
+  }
+
+  .line-expand .w15-xxl {
+    position: relative;
+    flex: 1 0 15%;
+
+    min-width: 15%;
+  }
+
+  .line .w10-xxl {
+    position: relative;
+    flex: 0 0 10%;
+
+    max-width: 10%;
+  }
+
+  .line-expand .w10-xxl {
+    position: relative;
+    flex: 1 0 10%;
+
+    min-width: 10%;
+  }
+
+  .line .w5-xxl {
+    position: relative;
+    flex: 0 0 5%;
+
+    max-width: 5%;
+  }
+
+  .line-expand .w5-xxl {
+    position: relative;
+    flex: 1 0 5%;
+
+    min-width: 5%;
+  }
+
+}
+
+
+@media screen and (min-width: 1920px) {
+
+  .w100-xxxl {
+    width: 100%;
+  }
+
+  .w95-xxxl {
+    width: 95%;
+  }
+
+  .w90-xxxl {
+    width: 90%;
+  }
+
+  .w85-xxxl {
+    width: 85%;
+  }
+
+  .w80-xxxl {
+    width: 80%;
+  }
+
+  .w75-xxxl {
+    width: 75%;
+  }
+
+  .w70-xxxl {
+    width: 70%;
+  }
+
+  .w65-xxxl {
+    width: 65%;
+  }
+
+  .w60-xxxl {
+    width: 60%;
+  }
+
+  .w55-xxxl {
+    width: 55%;
+  }
+
+  .w50-xxxl {
+    width: 50%;
+  }
+
+  .w45-xxxl {
+    width: 45%;
+  }
+
+  .w40-xxxl {
+    width: 40%;
+  }
+
+  .w35-xxxl {
+    width: 35%;
+  }
+
+  .w33-xxxl {
+    width: 33.333333%;
+  }
+
+  .w30-xxxl {
+    width: 30%;
+  }
+
+  .w25-xxxl {
+    width: 25%;
+  }
+
+  .w20-xxxl {
+    width: 20%;
+  }
+
+  .w15-xxxl {
+    width: 15%;
+  }
+
+  .w10-xxxl {
+    width: 10%;
+  }
+
+  .w5-xxxl {
+
+    width: 5%;
+  }
+
+  .vw100-xxxl {
+    width: 100vw;
+  }
+
+  .vw95-xxxl {
+    width: 95vw;
+  }
+
+  .vw90-xxxl {
+    width: 90vw;
+  }
+
+  .vw85-xxxl {
+    width: 85vw;
+  }
+
+  .vw80-xxxl {
+    width: 80vw;
+  }
+
+  .vw75-xxxl {
+    width: 75vw;
+  }
+
+  .vw70-xxxl {
+    width: 70vw;
+  }
+
+  .vw65-xxxl {
+    width: 65vw;
+  }
+
+  .vw60-xxxl {
+    width: 60vw;
+  }
+
+  .vw55-xxxl {
+    width: 55vw;
+  }
+
+  .vw50-xxxl {
+    width: 50vw;
+  }
+
+  .vw45-xxxl {
+    width: 45vw;
+  }
+
+  .vw40-xxxl {
+    width: 40vw;
+  }
+
+  .vw35-xxxl {
+    width: 35vw;
+  }
+
+  .vw33-xxxl {
+    width: 33.333333.33vw;
+  }
+
+  .vw30-xxxl {
+    width: 30vw;
+  }
+
+  .vw25-xxxl {
+    width: 25vw;
+  }
+
+  .vw20-xxxl {
+    width: 20vw;
+  }
+
+  .vw15-xxxl {
+    width: 15vw;
+  }
+
+  .vw10-xxxl {
+    width: 10vw;
+  }
+
+  .vw5-xxxl {
+    width: 5vw;
+  }
+
+  .line .w100-xxxl {
+    position: relative;
+    flex: 0 0 100%;
+
+    max-width: 100%;
+  }
+
+  .line-expand .w100-xxxl {
+    position: relative;
+    flex: 1 0 100%;
+
+    min-width: 100%;
+  }
+
+  .line .w95-xxxl {
+    position: relative;
+    flex: 0 0 95%;
+
+    max-width: 95%;
+  }
+
+  .line-expand .w95-xxxl {
+    position: relative;
+    flex: 1 0 95%;
+
+    min-width: 95%;
+  }
+
+  .line .w90-xxxl {
+    position: relative;
+    flex: 0 0 90%;
+
+    max-width: 90%;
+  }
+
+  .line-expand .w90-xxxl {
+    position: relative;
+    flex: 1 0 90%;
+
+    min-width: 90%;
+  }
+
+  .line .w85-xxxl {
+    position: relative;
+    flex: 0 0 85%;
+
+    max-width: 85%;
+  }
+
+  .line-expand .w85-xxxl {
+    position: relative;
+    flex: 1 0 85%;
+
+    min-width: 85%;
+  }
+
+  .line .w80-xxxl {
+    position: relative;
+    flex: 0 0 80%;
+
+    max-width: 80%;
+  }
+
+  .line-expand .w80-xxxl {
+    position: relative;
+    flex: 1 0 80%;
+
+    min-width: 80%;
+  }
+
+  .line .w75-xxxl {
+    position: relative;
+    flex: 0 0 75%;
+
+    max-width: 75%;
+  }
+
+  .line-expand .w75-xxxl {
+    position: relative;
+    flex: 1 0 75%;
+
+    min-width: 75%;
+  }
+
+  .line .w70-xxxl {
+    position: relative;
+    flex: 0 0 70%;
+
+    max-width: 70%;
+  }
+
+  .line-expand .w70-xxxl {
+    position: relative;
+    flex: 1 0 70%;
+
+    min-width: 70%;
+  }
+
+  .line .w65-xxxl {
+    position: relative;
+    flex: 0 0 65%;
+
+    max-width: 65%;
+  }
+
+  .line-expand .w65-xxxl {
+    position: relative;
+    flex: 1 0 65%;
+
+    min-width: 65%;
+  }
+
+  .line .w60-xxxl {
+    position: relative;
+    flex: 0 0 60%;
+
+    max-width: 60%;
+  }
+
+  .line-expand .w60-xxxl {
+    position: relative;
+    flex: 1 0 60%;
+
+    min-width: 60%;
+  }
+
+  .line .w55-xxxl {
+    position: relative;
+    flex: 0 0 55%;
+
+    max-width: 55%;
+  }
+
+  .line-expand .w55-xxxl {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-xxxl {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w55-xxxl {
+    position: relative;
+    flex: 1 0 55%;
+
+    min-width: 55%;
+  }
+
+  .line .w50-xxxl {
+    position: relative;
+    flex: 0 0 50%;
+
+    max-width: 50%;
+  }
+
+  .line-expand .w50-xxxl {
+    position: relative;
+    flex: 1 0 50%;
+
+    min-width: 50%;
+  }
+
+  .line .w45-xxxl {
+    position: relative;
+    flex: 0 0 45%;
+
+    max-width: 45%;
+  }
+
+  .line-expand .w45-xxxl {
+    position: relative;
+    flex: 1 0 45%;
+
+    min-width: 45%;
+  }
+
+  .line .w40-xxxl {
+    position: relative;
+    flex: 0 0 40%;
+
+    max-width: 40%;
+  }
+
+  .line-expand .w40-xxxl {
+    position: relative;
+    flex: 1 0 40%;
+
+    min-width: 40%;
+  }
+
+  .line .w35-xxxl {
+    position: relative;
+    flex: 0 0 35%;
+
+    max-width: 35%;
+  }
+
+  .line-expand .w35-xxxl {
+    position: relative;
+    flex: 1 0 35%;
+
+    min-width: 35%;
+  }
+
+  .line>.w33-xxxl {
+    position: relative;
+    flex: 0 0 33%;
+    max-width: 33%;
+  }
+
+  .line-expand>.w33-xxxl {
+    position: relative;
+    flex: 1 0 33%;
+    min-width: 33%;
+  }
+
+
+  .line .w30-xxxl {
+    position: relative;
+    flex: 0 0 30%;
+
+    max-width: 30%;
+  }
+
+  .line-expand .w30-xxxl {
+    position: relative;
+    flex: 1 0 30%;
+
+    min-width: 30%;
+  }
+
+  .line .w25-xxxl {
+    position: relative;
+    flex: 0 0 25%;
+
+    max-width: 25%;
+  }
+
+  .line-expand .w25-xxxl {
+    position: relative;
+    flex: 1 0 25%;
+
+    min-width: 25%;
+  }
+
+  .line .w20-xxxl {
+    position: relative;
+    flex: 0 0 20%;
+
+    max-width: 20%;
+  }
+
+  .line-expand .w20-xxxl {
+    position: relative;
+    flex: 1 0 20%;
+
+    min-width: 20%;
+  }
+
+  .line .w15-xxxl {
+    position: relative;
+    flex: 0 0 15%;
+
+    max-width: 15%;
+  }
+
+  .line-expand .w15-xxxl {
+    position: relative;
+    flex: 1 0 15%;
+
+    min-width: 15%;
+  }
+
+  .line .w10-xxxl {
+    position: relative;
+    flex: 0 0 10%;
+
+    max-width: 10%;
+  }
+
+  .line-expand .w10-xxxl {
+    position: relative;
+    flex: 1 0 10%;
+
+    min-width: 10%;
+  }
+
+  .line .w5-xxxl {
+    position: relative;
+    flex: 0 0 5%;
+
+    max-width: 5%;
+  }
+
+  .line-expand .w5-xxxl {
+    position: relative;
+    flex: 1 0 5%;
+
+    min-width: 5%;
+  }
+
+
+}

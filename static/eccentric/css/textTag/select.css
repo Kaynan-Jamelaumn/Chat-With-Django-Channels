@@ -1,0 +1,98 @@
+.select-xs {
+  cursor: pointer;
+  height: 30px;
+  font-size: 18px;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.select-s {
+  cursor: pointer;
+  height: 35px;
+  font-size: 20px;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.select-m {
+  cursor: pointer;
+  height: 40px;
+  font-size: 22px;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.select-l {
+  cursor: pointer;
+  height: 45px;
+  font-size: 24px;
+  border: none;
+  width: 100%;
+  padding-left: 10px;
+}
+
+.select-xl {
+  cursor: pointer;
+  height: 50px;
+  font-size: 25px;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.select-xxl {
+  cursor: pointer;
+  height: 55px;
+  font-size: 27px;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.select-xxxl {
+  cursor: pointer;
+  height: 60px;
+  font-size: 29px;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.select-mega {
+  cursor: pointer;
+  height: 70px;
+  font-size: 32px;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.select-megazord {
+  cursor: pointer;
+  height: 75px;
+  font-size: 32px;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.select-megazord-l {
+  cursor: pointer;
+  height: 56px;
+  font-size: 35px;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}
+
+.select-megazord-xl {
+  cursor: pointer;
+  height: 60px;
+  font-size: 38px;
+  border: none;
+  width: 100%;
+  padding: 10px;
+}

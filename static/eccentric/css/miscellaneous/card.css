@@ -1,0 +1,1138 @@
+.card {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+  grid-column-gap: 25px;
+  grid-row-gap: 50px;
+}
+
+
+.card-xxs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+.card-xxs-limit400 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 400px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit400 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 400px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit400 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 400px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit400 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 400px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit400 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 400px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit400 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 400px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit400 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 400px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit400 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 400px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit400 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 400px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit400 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 400px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+.card-xxs-limit450 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 450px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit450 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 450px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit450 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 450px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit450 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 450px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit450 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 450px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit450 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 450px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit450 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 450px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit450 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 450px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit450 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 450px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit450 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 450px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit500 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 500px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit500 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 500px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit500 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 500px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit500 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 500px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit500 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 500px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit500 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 500px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit500 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 500px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit500 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 500px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit500 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 500px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit500 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 500px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit550 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 550px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit550 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 550px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit550 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 550px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit550 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 550px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit550 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 550px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit550 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 550px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit550 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 550px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit550 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 550px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit550 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 550px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit550 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 550px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit600 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 600px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit600 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 600px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit600 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 600px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit600 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 600px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit600 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 600px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit600 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 600px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit600 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 600px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit600 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 600px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit600 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 600px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit600 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 600px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit650 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 650px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit650 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 650px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit650 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 650px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit650 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 650px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit650 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 650px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit650 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 650px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit650 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 650px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit650 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 650px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit650 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 650px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit650 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 650px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit700 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 700px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit700 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 700px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit700 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 700px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit700 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 700px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit700 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 700px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit700 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 700px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit700 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 700px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit700 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 700px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit700 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 700px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit700 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 700px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit750 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 750px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit750 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 750px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit750 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 750px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit750 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 750px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit750 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 750px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit750 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 750px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit750 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 750px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit750 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 750px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit750 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 750px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit750 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 750px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit800 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 800px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit800 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 800px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit800 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 800px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit800 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 800px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit800 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 800px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit800 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 800px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit800 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 800px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit800 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 800px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit800 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 800px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit800 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 800px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit850 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 850px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit850 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 850px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit850 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 850px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit850 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 850px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit850 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 850px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit850 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 850px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit850 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 850px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit850 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 850px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit850 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 850px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit850 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 850px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit900 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 900px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit900 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 900px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit900 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 900px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit900 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 900px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit900 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 900px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit900 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 900px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit900 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 900px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit900 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 900px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit900 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 900px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit900 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 900px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit950 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 950px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit950 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 950px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit950 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 950px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit950 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 950px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit950 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 950px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit950 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 950px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit950 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 950px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit950 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 950px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit950 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 950px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit950 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 950px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-limit1000 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, max(1fr, 1000px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xs-limit1000 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, max(1fr, 1000px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-s-limit1000 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, max(1fr, 1000px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-m-limit1000 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, max(1fr, 1000px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xl-limit1000 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, max(1fr, 1000px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxl-limit1000 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, max(1fr, 1000px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxxl-limit1000 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, max(1fr, 1000px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-mega-limit1000 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, max(1fr, 1000px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-megazord-limit1000 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, max(1fr, 1000px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-xxs-megazord-limit1000 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(550px, max(1fr, 1000px)));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card-item-xxs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-item-xs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-item-s {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-item-m {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card-l {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  justify-items: center;
+  /* centers the grid items horizontally */
+  align-items: center;
+  /* centers the grid items vertically */
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+.card-side-l {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  grid-template-rows: 1fr;
+  max-width: 100%;
+  max-height: 100%;
+  width: 100%;
+  grid-column-gap: 10px;
+}
+
+.card-side-l> :first-child {
+  grid-row-start: 1;
+  grid-column-start: 1;
+  width: 100%;
+}
+
+
+.card-side-l> :nth-child(n+2):not([style*="display: none"]) {
+  display: block;
+  grid-row-start: 1;
+  grid-column-start: 2;
+}
+
+.card-side-l> :nth-child(n+2):empty,
+.card-side-l> :nth-child(n+2)[style*="display: none"] {
+  display: none;
+  grid-row-start: 1;
+  grid-column-start: 1 / 3;
+}
+
+
+@media screen and (max-width: 700px) {
+  .card-side-l {
+    display: block;
+  }
+
+  .card-side-l>*:not(:first-child) {
+    margin-top: 15px;
+  }
+
+}
+
+
+@media screen and (min-width: 700px) and (max-width: 1024px) {
+  .card {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1700px) {
+  .card {
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  }
+
+
+}

@@ -1,0 +1,83 @@
+
+
+const carouselContainers = document.querySelectorAll('.carousel-container');
+
+carouselContainers.forEach(function (carouselContainer) {
+  let slideIndex = 0;
+  const images = carouselContainer.querySelectorAll('.carousel-image');
+  const infos = carouselContainer.querySelectorAll('.info')
+  if (images.length > 0 && images[0].getAttribute('src')) {
+    // ou bota as funcoes fora ou cria uma classe de uma vez 👍
+    // ainda não estudei classe, da uma olhada nesse html
+    const totalImages = images.length;
+    const prevButton = carouselContainer.querySelector('.carousel-prev');
+    const nextButton = carouselContainer.querySelector('.carousel-next');
+
+    let intervalId;
+
+    function showImage(n) {
+      images[slideIndex].classList.remove('active');
+      slideIndex = (n + totalImages) % totalImages;
+      images[slideIndex].classList.add('active');
+      updateInfo();
+    }
+
+    function nextImage() {
+      clearInterval(intervalId);
+      showImage(slideIndex + 1);
+      updateInfo();
+      intervalId = setInterval(nextImage, 5000);
+    }
+
+    function prevImage() {
+      clearInterval(intervalId);
+      showImage(slideIndex - 1);
+      updateInfo();
+      intervalId = setInterval(nextImage, 5000);
+    }
+
+
+    function updateInfo() {
+      infos.forEach(function (info, i) {
+        if (i === slideIndex) {
+          info.classList.add('show');
+          info.classList.remove('hidden');
+        } else {
+          info.classList.add('hidden');
+          info.classList.remove('show');
+        }
+      });
+    }
+
+
+
+    nextButton.addEventListener('click', nextImage);
+    prevButton.addEventListener('click', prevImage);
+
+    // Start the automatic carousel advance
+    intervalId = setInterval(nextImage, 5000);
+
+    showImage(slideIndex);
+  } else {
+    // if there are no images or no src attribute, hide the buttons
+    carouselContainer.style.display = 'none';
+  }
+});
+
+
+const carouselBoxes = document.querySelectorAll('.carousel-box');
+
+carouselBoxes.forEach(function (carouselBox) {
+  const childElements = carouselBox.querySelectorAll('.carousel-container');
+  let allChildElementsHidden = true;
+
+  childElements.forEach(function (element) {
+    if (element.style.display !== 'none') {
+      allChildElementsHidden = false;
+    }
+  });
+
+  if (allChildElementsHidden) {
+    carouselBox.style.display = 'none';
+  }
+});

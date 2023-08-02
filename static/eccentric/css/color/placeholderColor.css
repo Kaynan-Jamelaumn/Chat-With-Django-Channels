@@ -1,0 +1,458 @@
+.placeholder-brown::placeholder {
+  color: var(--brown);
+}
+
+.placeholder-yellow::placeholder {
+  color: var(--yellow);
+}
+
+.placeholder-yellow-1::placeholder {
+  color: var(--yellow-shade-1);
+}
+
+.placeholder-yellow-2::placeholder {
+  color: var(--yellow-shade-2);
+}
+
+.placeholder-yellow-3::placeholder {
+  color: var(--yellow-shade-3);
+}
+
+.placeholder-yellow-4::placeholder {
+  color: var(--yellow-shade-4);
+}
+
+.placeholder-yellow-5::placeholder {
+  color: var(--yellow-shade-5);
+}
+
+.placeholder-yellow-6::placeholder {
+  color: var(--yellow-shade-6);
+}
+
+.placeholder-yellow-7::placeholder {
+  color: var(--yellow-shade-7);
+}
+
+.placeholder-yellow-8::placeholder {
+  color: var(--yellow-shade-8);
+}
+
+.placeholder-yellow-9::placeholder {
+  color: var(--yellow-shade-9);
+}
+
+.placeholder-yellow-10::placeholder {
+  color: var(--yellow-shade-10);
+}
+
+
+.placeholder-orange::placeholder {
+  color: var(--orange);
+}
+
+.placeholder-orange-vibrant::placeholder {
+  color: var(--orange-vibrant);
+}
+
+.placeholder-orange-1::placeholder {
+  color: var(--orange-shade-1);
+}
+
+.placeholder-orange-2::placeholder {
+  color: var(--orange-shade-2);
+}
+
+.placeholder-orange-3::placeholder {
+  color: var(--orange-shade-3);
+}
+
+.placeholder-orange-4::placeholder {
+  color: var(--orange-shade-4);
+}
+
+.placeholder-orange-5::placeholder {
+  color: var(--orange-shade-5);
+}
+
+.placeholder-orange-6::placeholder {
+  color: var(--orange-shade-6);
+}
+
+.placeholder-red::placeholder {
+  color: var(--red);
+}
+
+.placeholder-red-pale::placeholder {
+  color: var(--red-pale);
+}
+
+.placeholder-red-1::placeholder {
+  color: var(--red-shade-1);
+}
+
+.placeholder-red-2::placeholder {
+  color: var(--red-shade-2);
+}
+
+.placeholder-red-3::placeholder {
+  color: var(--red-shade-3);
+}
+
+.placeholder-red-4::placeholder {
+  color: var(--red-shade-4);
+}
+
+.placeholder-pink::placeholder {
+  color: var(--pink);
+}
+
+.placeholder-pink-1::placeholder {
+  color: var(--pink-shade-1);
+}
+
+.placeholder-pink-2::placeholder {
+  color: var(--pink-shade-2);
+}
+
+.placeholder-pink-3::placeholder {
+  color: var(--pink-shade-3);
+}
+
+.placeholder-pink-4::placeholder {
+  color: var(--pink-shade-4);
+}
+
+.placeholder-pink-5::placeholder {
+  color: var(--pink-shade-5);
+}
+
+.placeholder-pink-6::placeholder {
+  color: var(--pink-shade-6);
+}
+
+.placeholder-pink-7::placeholder {
+  color: var(--pink-shade-7);
+}
+
+.placeholder-pink-8::placeholder {
+  color: var(--pink-shade-8);
+}
+
+.placeholder-pink-9::placeholder {
+  color: var(--pink-shade-9);
+}
+
+.placeholder-purple::placeholder {
+  color: var(--purple);
+}
+
+.placeholder-purple-pale::placeholder {
+  color: var(--purple-pale);
+}
+
+.placeholder-purple-1::placeholder {
+  color: var(--purple-shade-1);
+}
+
+.placeholder-purple-2::placeholder {
+  color: var(--purple-shade-2);
+}
+
+.placeholder-purple-3::placeholder {
+  color: var(--purple-shade-3);
+}
+
+.placeholder-purple-4::placeholder {
+  color: var(--purple-shade-4);
+}
+
+.placeholder-purple-5::placeholder {
+  color: var(--purple-shade-5);
+}
+
+.placeholder-purple-6::placeholder {
+  color: var(--purple-shade-6);
+}
+
+.placeholder-purple-7::placeholder {
+  color: var(--purple-shade-7);
+}
+
+.placeholder-purple-8::placeholder {
+  color: var(--purple-shade-8);
+}
+
+.placeholder-purple-9::placeholder {
+  color: var(--purple-shade-9);
+}
+
+.placeholder-purple-10::placeholder {
+  color: var(--purple-shade-10);
+}
+
+.placeholder-blue::placeholder {
+  color: var(--blue);
+}
+
+.placeholder-blue-1::placeholder {
+  color: var(--blue-shade-1);
+}
+
+.placeholder-blue-2::placeholder {
+  color: var(--blue-shade-2);
+}
+
+.placeholder-blue-3::placeholder {
+  color: var(--blue-shade-3);
+}
+
+.placeholder-blue-4::placeholder {
+  color: var(--blue-shade-4);
+}
+
+.placeholder-blue-5::placeholder {
+  color: var(--blue-shade-5);
+}
+
+.placeholder-blue-6::placeholder {
+  color: var(--blue-shade-6);
+}
+
+.placeholder-blue-7::placeholder {
+  color: var(--blue-shade-7);
+}
+
+.placeholder-blue-8::placeholder {
+  color: var(--blue-shade-8);
+}
+
+.placeholder-blue-9::placeholder {
+  color: var(--blue-shade-9);
+}
+
+.placeholder-blue-10::placeholder {
+  color: var(--blue-shade-10);
+}
+
+.placeholder-blue-11::placeholder {
+  color: var(--blue-shade-11);
+}
+
+.placeholder-blue-12::placeholder {
+  color: var(--blue-shade-12);
+}
+
+.placeholder-blue-13::placeholder {
+  color: var(--blue-shade-13);
+}
+
+.placeholder-blue-14::placeholder {
+  color: var(--blue-shade-14);
+}
+
+.placeholder-blue-15::placeholder {
+  color: var(--blue-shade-15);
+}
+
+.placeholder-blue-16::placeholder {
+  color: var(--blue-shade-16);
+}
+
+.placeholder-blue-17::placeholder {
+  color: var(--blue-shade-17);
+}
+
+.placeholder-green::placeholder {
+  color: var(--green);
+}
+
+.placeholder-green-pale::placeholder {
+  color: var(--green-pale);
+}
+
+.placeholder-green-1::placeholder {
+  color: var(--green-shade-1);
+}
+
+.placeholder-green-2::placeholder {
+  color: var(--green-shade-2);
+}
+
+.placeholder-green-3::placeholder {
+  color: var(--green-shade-3);
+}
+
+.placeholder-green-4::placeholder {
+  color: var(--green-shade-4);
+}
+
+.placeholder-green-5::placeholder {
+  color: var(--green-shade-5);
+}
+
+.placeholder-green-6::placeholder {
+  color: var(--green-shade-6);
+}
+
+.placeholder-green-7::placeholder {
+  color: var(--green-shade-7);
+}
+
+.placeholder-green-8::placeholder {
+  color: var(--green-shade-8);
+}
+
+.placeholder-green-9::placeholder {
+  color: var(--green-shade-9);
+}
+
+.placeholder-green-10::placeholder {
+  color: var(--green-shade-10);
+}
+
+.placeholder-green-11::placeholder {
+  color: var(--green-shade-11);
+}
+
+.placeholder-green-12::placeholder {
+  color: var(--green-shade-12);
+}
+
+.placeholder-green-13::placeholder {
+  color: var(--green-shade-13);
+}
+
+
+.placeholder-white::placeholder {
+  color: var(--white);
+}
+
+.placeholder-white-vibrant::placeholder {
+  color: var(--white-vibrant);
+}
+
+.placeholder-white-pale::placeholder {
+  color: var(--white-pale);
+}
+
+.placeholder-white-1::placeholder {
+  color: var(--white-shade-1);
+}
+
+.placeholder-white-2::placeholder {
+  color: var(--white-shade-2);
+}
+
+.placeholder-white-3::placeholder {
+  color: var(--white-shade-3);
+}
+
+.placeholder-white-4::placeholder {
+  color: var(--white-shade-4);
+}
+
+.placeholder-white-5::placeholder {
+  color: var(--white-shade-5);
+}
+
+.placeholder-gray::placeholder {
+  color: var(--gray);
+}
+
+.placeholder-gray-1::placeholder {
+  color: var(--gray-shade-1);
+}
+
+.placeholder-gray-2::placeholder {
+  color: var(--gray-shade-2);
+}
+
+.placeholder-gray-3::placeholder {
+  color: var(--gray-shade-3);
+}
+
+.placeholder-gray-4::placeholder {
+  color: var(--gray-shade-4);
+}
+
+.placeholder-gray-5::placeholder {
+  color: var(--gray-shade-5);
+}
+
+.placeholder-gray-6::placeholder {
+  color: var(--gray-shade-6);
+}
+
+.placeholder-gray-7::placeholder {
+  color: var(--gray-shade-7);
+}
+
+.placeholder-gray-8::placeholder {
+  color: var(--gray-shade-8);
+}
+
+.placeholder-gray-9::placeholder {
+  color: var(--gray-shade-9);
+}
+
+.placeholder-gray-10::placeholder {
+  color: var(--gray-shade-10);
+}
+
+
+.placeholder-black::placeholder {
+  color: var(--black);
+}
+
+.placeholder-black-pale::placeholder {
+  color: var(--black-pale);
+}
+
+.placeholder-black-vibrant::placeholder {
+  color: var(--black-vibrant);
+}
+
+.placeholder-black-1::placeholder {
+  color: var(--black-shade-1);
+}
+
+.placeholder-black-2::placeholder {
+  color: var(--black-shade-2);
+}
+
+.placeholder-black-3::placeholder {
+  color: var(--black-shade-3);
+}
+
+.placeholder-black-4::placeholder {
+  color: var(--black-shade-4);
+}
+
+.placeholder-black-5::placeholder {
+  color: var(--black-shade-5);
+}
+
+.placeholder-black-6::placeholder {
+  color: var(--black-shade-6);
+}
+
+.placeholder-black-7::placeholder {
+  color: var(--black-shade-7);
+}
+
+.placeholder-black-8::placeholder {
+  color: var(--black-shade-8);
+}
+
+.placeholder-black-9::placeholder {
+  color: var(--black-shade-9);
+}
+
+.placeholder-black-10::placeholder {
+  color: var(--black-shade-10);
+}
+
+.placeholder-black-11::placeholder {
+  color: var(--black-shade-11);
+}

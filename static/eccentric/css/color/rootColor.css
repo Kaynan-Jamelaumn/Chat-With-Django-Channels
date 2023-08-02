@@ -1,0 +1,171 @@
+/*
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,300&display=swap');
+
+
+:root {
+
+  --brown: #673619;
+
+  --yellow: #FBAE51;
+  --yellow-shade-1: #FFFF99;
+  --yellow-shade-2: #F0E68C;
+  --yellow-shade-3: #FFE87C;
+  --yellow-shade-4: #F3E5AB;
+  --yellow-shade-5: #F7DC6F;
+  --yellow-shade-6: #F5CBA7;
+  --yellow-shade-7: #F4D03F;
+  --yellow-shade-8: #FFDAB9;
+  --yellow-shade-9: #FFB347;
+  --yellow-shade-10: #F9BF3B;
+
+  --orange: orange;
+  --orange-vibrant: #F2762E;
+  --orange-shade-1: #FFA07A;
+  --orange-shade-2: #FF7F50;
+  --orange-shade-3: #FF7034;
+  --orange-shade-4: #FF6347;
+  --orange-shade-5: #FF4500;
+  --orange-shade-6: #E3695F;
+
+  --red: #EB455F;
+  --red-pale: #ED5F74;
+  --red-shade-1: #DC143C;
+  --red-shade-2: #FF2400;
+  --red-shade-3: #f75360;
+  --red-shade-4: #FF0000;
+
+  --pink: #D13079;
+  --pink-shade-1: #FDEDF6;
+  --pink-shade-2: #FFC0CB;
+  --pink-shade-3: #FFC0CB;
+  --pink-shade-4: #FFA3D7;
+  --pink-shade-5: #FF80B0;
+  --pink-shade-6: #FF69B4;
+  --pink-shade-7: #DA70D6;
+  --pink-shade-8: #EE82EE;
+  --pink-shade-9: #FF1493;
+
+  --purple: #7046C4;
+  --purple-pale: #8B65D6;
+  --purple-shade-1: #712CF9;
+  --purple-shade-2: #5A2E98;
+  --purple-shade-3: #483D8B;
+  --purple-shade-4: #635985;
+  --purple-shade-5: #6A5ACD;
+  --purple-shade-6: #9370DB;
+  --purple-shade-7: #9966CC;
+  --purple-shade-8: #8A2BE2;
+  --purple-shade-9: #4B0082;
+  --purple-shade-10: #9400D3;
+
+  --blue: #7f8ae9;
+  --blue-shade-1: #0077BE;
+  --blue-shade-2: #01A9DE;
+  --blue-shade-3: #1E90FF;
+  --blue-shade-4: #1E90FF;
+  --blue-shade-5: #4169E1;
+  --blue-shade-6: #4682B4;
+  --blue-shade-7: #48D1CC;
+  --blue-shade-8: #5F9EA0;
+  --blue-shade-9: #6A5ACD;
+  --blue-shade-10: #87CEEB;
+  --blue-shade-11: #89CFF0;
+  --blue-shade-12: #8fc8fb;
+  --blue-shade-13: #9ac0fd;
+  --blue-shade-14: #ADD8E6;
+  --blue-shade-15: #ADD8E6;
+  --blue-shade-16: #ADD8E6;
+  --blue-shade-17: #00BFFF;
+
+  --green: #70ff9b;
+  --green-pale: #5fcf80;
+  --green-shade-1: #EBFFFC;
+  --green-shade-2: #93D7B7;
+  --green-shade-3: #7ADCA2;
+  --green-shade-4: #2ecf8f;
+  --green-shade-5: #2E8B57;
+  --green-shade-6: #44B78B;
+  --green-shade-7: #3CB371;
+  --green-shade-8: #46C48A;
+  --green-shade-9: #66CDAA;
+  --green-shade-10: #00D1B2;
+  --green-shade-11: #00FA9A;
+  --green-shade-12: #00FF66;
+  --green-shade-13: #00FF7F;
+
+  --white: #e9f1ed;
+  --white-vibrant: #FFFFFF;
+  --white-pale: #f0e6e6;
+  --white-shade-1: #ddd;
+  --white-shade-2: #fafafa;
+  --white-shade-3: #f9f9f9;
+  --white-shade-4: #f5f5f5;
+  --white-shade-5: #f0f0f0;
+
+  --gray: #cfd8d6;
+  --gray-shade-1: #D3D3D3;
+  --gray-shade-2: #A9A9A9;
+  --gray-shade-3: #808080;
+  --gray-shade-4: #aaa;
+  --gray-shade-5: #47535D;
+  --gray-shade-6: #778899;
+  --gray-shade-7: #1E293B;
+  --gray-shade-8: #444654;
+  --gray-shade-9: #343641;
+  --gray-shade-10: #343541;
+
+  --black: #2C3333;
+  --black-pale: #404444;
+  --black-vibrant: black;
+  --black-shade-1: #0E0E0E;
+  --black-shade-3: #1C1C1C;
+  --black-shade-2: #15171C;
+  --black-shade-4: #181d27;
+  --black-shade-5: #202123;
+  --black-shade-6: #20242C;
+  --black-shade-7: #212529;
+  --black-shade-8: #1F2330;
+  --black-shade-9: #343A40;
+  --black-shade-10: #2D3943;
+  --black-shade-11: #363636;
+
+
+
+  /*
+
+    --white-shade-6: #F9FAFB;
+      --gray-shade-10: #343541;
+        --black-shade-10: #2D3943;
+  --black-shade-11: #363636;
+  --black-shade-12: #111827;
+  --black-shade-13: #29303D;
+  
+  */
+  --main_font: 'Roboto', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 62.5%;
+  --mini_font: 10px;
+  --small_font: 12px;
+  --normal_font: 16px;
+  --odd_font: 20px;
+  --big_font: 25px;
+  --giga_font: 30px;
+  --mega_font: 45px;
+  --megazord_font: 50px;
+  --title_font: 60px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  text-decoration: none
+}

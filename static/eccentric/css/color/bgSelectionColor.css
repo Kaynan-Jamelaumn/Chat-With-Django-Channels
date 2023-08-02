@@ -1,0 +1,458 @@
+.bg-selection-brown::selection {
+  background-color: var(--brown);
+}
+
+.bg-selection-yellow::selection {
+  background-color: var(--yellow);
+}
+
+.bg-selection-yellow-1::selection {
+  background-color: var(--yellow-shade-1);
+}
+
+.bg-selection-yellow-2::selection {
+  background-color: var(--yellow-shade-2);
+}
+
+.bg-selection-yellow-3::selection {
+  background-color: var(--yellow-shade-3);
+}
+
+.bg-selection-yellow-4::selection {
+  background-color: var(--yellow-shade-4);
+}
+
+.bg-selection-yellow-5::selection {
+  background-color: var(--yellow-shade-5);
+}
+
+.bg-selection-yellow-6::selection {
+  background-color: var(--yellow-shade-6);
+}
+
+.bg-selection-yellow-7::selection {
+  background-color: var(--yellow-shade-7);
+}
+
+.bg-selection-yellow-8::selection {
+  background-color: var(--yellow-shade-8);
+}
+
+.bg-selection-yellow-9::selection {
+  background-color: var(--yellow-shade-9);
+}
+
+.bg-selection-yellow-10::selection {
+  background-color: var(--yellow-shade-10);
+}
+
+
+.bg-selection-orange::selection {
+  background-color: var(--orange);
+}
+
+.bg-selection-orange-vibrant::selection {
+  background-color: var(--orange-vibrant);
+}
+
+.bg-selection-orange-1::selection {
+  background-color: var(--orange-shade-1);
+}
+
+.bg-selection-orange-2::selection {
+  background-color: var(--orange-shade-2);
+}
+
+.bg-selection-orange-3::selection {
+  background-color: var(--orange-shade-3);
+}
+
+.bg-selection-orange-4::selection {
+  background-color: var(--orange-shade-4);
+}
+
+.bg-selection-orange-5::selection {
+  background-color: var(--orange-shade-5);
+}
+
+.bg-selection-orange-6::selection {
+  background-color: var(--orange-shade-6);
+}
+
+.bg-selection-red::selection {
+  background-color: var(--red);
+}
+
+.bg-selection-red-pale::selection {
+  background-color: var(--red-pale);
+}
+
+.bg-selection-red-1::selection {
+  background-color: var(--red-shade-1);
+}
+
+.bg-selection-red-2::selection {
+  background-color: var(--red-shade-2);
+}
+
+.bg-selection-red-3::selection {
+  background-color: var(--red-shade-3);
+}
+
+.bg-selection-red-4::selection {
+  background-color: var(--red-shade-4);
+}
+
+.bg-selection-pink::selection {
+  background-color: var(--pink);
+}
+
+.bg-selection-pink-1::selection {
+  background-color: var(--pink-shade-1);
+}
+
+.bg-selection-pink-2::selection {
+  background-color: var(--pink-shade-2);
+}
+
+.bg-selection-pink-3::selection {
+  background-color: var(--pink-shade-3);
+}
+
+.bg-selection-pink-4::selection {
+  background-color: var(--pink-shade-4);
+}
+
+.bg-selection-pink-5::selection {
+  background-color: var(--pink-shade-5);
+}
+
+.bg-selection-pink-6::selection {
+  background-color: var(--pink-shade-6);
+}
+
+.bg-selection-pink-7::selection {
+  background-color: var(--pink-shade-7);
+}
+
+.bg-selection-pink-8::selection {
+  background-color: var(--pink-shade-8);
+}
+
+.bg-selection-pink-9::selection {
+  background-color: var(--pink-shade-9);
+}
+
+.bg-selection-purple::selection {
+  background-color: var(--purple);
+}
+
+.bg-selection-purple-pale::selection {
+  background-color: var(--purple-pale);
+}
+
+.bg-selection-purple-1::selection {
+  background-color: var(--purple-shade-1);
+}
+
+.bg-selection-purple-2::selection {
+  background-color: var(--purple-shade-2);
+}
+
+.bg-selection-purple-3::selection {
+  background-color: var(--purple-shade-3);
+}
+
+.bg-selection-purple-4::selection {
+  background-color: var(--purple-shade-4);
+}
+
+.bg-selection-purple-5::selection {
+  background-color: var(--purple-shade-5);
+}
+
+.bg-selection-purple-6::selection {
+  background-color: var(--purple-shade-6);
+}
+
+.bg-selection-purple-7::selection {
+  background-color: var(--purple-shade-7);
+}
+
+.bg-selection-purple-8::selection {
+  background-color: var(--purple-shade-8);
+}
+
+.bg-selection-purple-9::selection {
+  background-color: var(--purple-shade-9);
+}
+
+.bg-selection-purple-10::selection {
+  background-color: var(--purple-shade-10);
+}
+
+.bg-selection-blue::selection {
+  background-color: var(--blue);
+}
+
+.bg-selection-blue-1::selection {
+  background-color: var(--blue-shade-1);
+}
+
+.bg-selection-blue-2::selection {
+  background-color: var(--blue-shade-2);
+}
+
+.bg-selection-blue-3::selection {
+  background-color: var(--blue-shade-3);
+}
+
+.bg-selection-blue-4::selection {
+  background-color: var(--blue-shade-4);
+}
+
+.bg-selection-blue-5::selection {
+  background-color: var(--blue-shade-5);
+}
+
+.bg-selection-blue-6::selection {
+  background-color: var(--blue-shade-6);
+}
+
+.bg-selection-blue-7::selection {
+  background-color: var(--blue-shade-7);
+}
+
+.bg-selection-blue-8::selection {
+  background-color: var(--blue-shade-8);
+}
+
+.bg-selection-blue-9::selection {
+  background-color: var(--blue-shade-9);
+}
+
+.bg-selection-blue-10::selection {
+  background-color: var(--blue-shade-10);
+}
+
+.bg-selection-blue-11::selection {
+  background-color: var(--blue-shade-11);
+}
+
+.bg-selection-blue-12::selection {
+  background-color: var(--blue-shade-12);
+}
+
+.bg-selection-blue-13::selection {
+  background-color: var(--blue-shade-13);
+}
+
+.bg-selection-blue-14::selection {
+  background-color: var(--blue-shade-14);
+}
+
+.bg-selection-blue-15::selection {
+  background-color: var(--blue-shade-15);
+}
+
+.bg-selection-blue-16::selection {
+  background-color: var(--blue-shade-16);
+}
+
+.bg-selection-blue-17::selection {
+  background-color: var(--blue-shade-17);
+}
+
+.bg-selection-green::selection {
+  background-color: var(--green);
+}
+
+.bg-selection-green-pale::selection {
+  background-color: var(--green-pale);
+}
+
+.bg-selection-green-1::selection {
+  background-color: var(--green-shade-1);
+}
+
+.bg-selection-green-2::selection {
+  background-color: var(--green-shade-2);
+}
+
+.bg-selection-green-3::selection {
+  background-color: var(--green-shade-3);
+}
+
+.bg-selection-green-4::selection {
+  background-color: var(--green-shade-4);
+}
+
+.bg-selection-green-5::selection {
+  background-color: var(--green-shade-5);
+}
+
+.bg-selection-green-6::selection {
+  background-color: var(--green-shade-6);
+}
+
+.bg-selection-green-7::selection {
+  background-color: var(--green-shade-7);
+}
+
+.bg-selection-green-8::selection {
+  background-color: var(--green-shade-8);
+}
+
+.bg-selection-green-9::selection {
+  background-color: var(--green-shade-9);
+}
+
+.bg-selection-green-10::selection {
+  background-color: var(--green-shade-10);
+}
+
+.bg-selection-green-11::selection {
+  background-color: var(--green-shade-11);
+}
+
+.bg-selection-green-12::selection {
+  background-color: var(--green-shade-12);
+}
+
+.bg-selection-green-13::selection {
+  background-color: var(--green-shade-13);
+}
+
+
+.bg-selection-white::selection {
+  background-color: var(--white);
+}
+
+.bg-selection-white-vibrant::selection {
+  background-color: var(--white-vibrant);
+}
+
+.bg-selection-white-pale::selection {
+  background-color: var(--white-pale);
+}
+
+.bg-selection-white-1::selection {
+  background-color: var(--white-shade-1);
+}
+
+.bg-selection-white-2::selection {
+  background-color: var(--white-shade-2);
+}
+
+.bg-selection-white-3::selection {
+  background-color: var(--white-shade-3);
+}
+
+.bg-selection-white-4::selection {
+  background-color: var(--white-shade-4);
+}
+
+.bg-selection-white-5::selection {
+  background-color: var(--white-shade-5);
+}
+
+.bg-selection-gray::selection {
+  background-color: var(--gray);
+}
+
+.bg-selection-gray-1::selection {
+  background-color: var(--gray-shade-1);
+}
+
+.bg-selection-gray-2::selection {
+  background-color: var(--gray-shade-2);
+}
+
+.bg-selection-gray-3::selection {
+  background-color: var(--gray-shade-3);
+}
+
+.bg-selection-gray-4::selection {
+  background-color: var(--gray-shade-4);
+}
+
+.bg-selection-gray-5::selection {
+  background-color: var(--gray-shade-5);
+}
+
+.bg-selection-gray-6::selection {
+  background-color: var(--gray-shade-6);
+}
+
+.bg-selection-gray-7::selection {
+  background-color: var(--gray-shade-7);
+}
+
+.bg-selection-gray-8::selection {
+  background-color: var(--gray-shade-8);
+}
+
+.bg-selection-gray-9::selection {
+  background-color: var(--gray-shade-9);
+}
+
+.bg-selection-gray-10::selection {
+  background-color: var(--gray-shade-10);
+}
+
+
+.bg-selection-black::selection {
+  background-color: var(--black);
+}
+
+.bg-selection-black-pale::selection {
+  background-color: var(--black-pale);
+}
+
+.bg-selection-black-vibrant::selection {
+  background-color: var(--black-vibrant);
+}
+
+.bg-selection-black-1::selection {
+  background-color: var(--black-shade-1);
+}
+
+.bg-selection-black-2::selection {
+  background-color: var(--black-shade-2);
+}
+
+.bg-selection-black-3::selection {
+  background-color: var(--black-shade-3);
+}
+
+.bg-selection-black-4::selection {
+  background-color: var(--black-shade-4);
+}
+
+.bg-selection-black-5::selection {
+  background-color: var(--black-shade-5);
+}
+
+.bg-selection-black-6::selection {
+  background-color: var(--black-shade-6);
+}
+
+.bg-selection-black-7::selection {
+  background-color: var(--black-shade-7);
+}
+
+.bg-selection-black-8::selection {
+  background-color: var(--black-shade-8);
+}
+
+.bg-selection-black-9::selection {
+  background-color: var(--black-shade-9);
+}
+
+.bg-selection-black-10::selection {
+  background-color: var(--black-shade-10);
+}
+
+.bg-selection-black-11::selection {
+  background-color: var(--black-shade-11);
+}

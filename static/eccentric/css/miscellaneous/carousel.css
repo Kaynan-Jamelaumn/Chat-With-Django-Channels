@@ -1,0 +1,80 @@
+.hidden {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.carousel-container {
+  min-width: 200px;
+  max-width:  300px;
+  min-height:200px;
+  max-height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.gambiarra .carousel-container{
+    min-height:250px;
+}
+
+.carousel-image {
+  height: 100%;
+  width:100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.carousel-image.active {
+  opacity: 1;
+}
+
+.carousel-prev,
+.carousel-next {
+  position: absolute;
+  height: 100%;
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.carousel-prev {
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+.carousel-next {
+  right: 0;
+  top: 0;
+  height: 100%;
+}
+
+.carousel-prev:hover,
+.carousel-next:hover {
+  opacity: 0.5;
+}
+
+.carousel-container-custom {
+  overflow: hidden;
+  margin: auto;
+  position: relative;
+}
+
+.info {
+  width: 100%;
+  text-align: center;
+  padding: 2px;
+  opacity: 1;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  max-width: 300px;
+  position: absolute;
+  display: none;
+}

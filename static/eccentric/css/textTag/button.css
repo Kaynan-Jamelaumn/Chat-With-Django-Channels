@@ -1,0 +1,1972 @@
+button.button {
+  border: 0;
+  min-height: 60px;
+  cursor: pointer;
+  word-wrap: break-word;
+}
+
+a.button {
+  cursor: pointer;
+  word-wrap: break-word;
+  height: 60px;
+  line-height: 60px;
+  display: inline-block;
+
+}
+
+.button-box a.button,
+.button-box a.button-xs,
+.button-box a.button-s,
+.button-box a.button-m,
+.button-box a.button-l,
+.button-box a.button-xl,
+.button-box a.button-xxl,
+.button-box a.button-xxxl,
+.button-box a.button-mega,
+.button-box a.button-megazord {
+  width: 100%;
+}
+
+.button-box button.button,
+.button-box button.button-xs,
+.button-box button.button-s,
+.button-box button.button-m,
+.button-box button.button-l,
+.button-box button.button-xl,
+.button-box button.button-xxl,
+.button-box button.button-xxxl,
+.button-box button.button-mega,
+.button-box button.button-megazord {
+  width: 100%;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+
+a.button-xs,
+a.button-xs-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 15px;
+  line-height: 15px;
+
+}
+
+a.button-s,
+a.button-s-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 30px;
+  line-height: 30px;
+
+}
+
+a.button-m,
+a.button-m-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 45px;
+  line-height: 45px;
+}
+
+a.button-l,
+a.button-l-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  height: 60px;
+  line-height: 60px;
+
+}
+
+a.button-xl,
+a.button-xl-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 75px;
+  line-height: 75px;
+
+}
+
+a.button-xxl,
+a.button-xxl-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 90px;
+  line-height: 90px;
+
+}
+
+a.button-xxxl,
+a.button-xxxl-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 105px;
+  line-height: 105px;
+
+}
+
+a.button-mega,
+a.button-mega-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 120px;
+  line-height: 120px;
+
+}
+
+
+a.button-megazord,
+a.button-megazord-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 135px;
+  line-height: 135px;
+
+}
+
+
+button.button-xs,
+button.button-xs-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 15px;
+  line-height: 15px;
+}
+
+button.button-s,
+button.button-s-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 30px;
+  line-height: 30px;
+}
+
+button.button-m,
+button.button-m-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 45px;
+  line-height: 45px;
+}
+
+button.button-l,
+button.button-l-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  height: 60px;
+  line-height: 60px;
+}
+
+button.button-xl,
+button.button-xl-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 75px;
+  line-height: 75px;
+}
+
+button.button-xxl,
+button.button-xxl-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 90px;
+  line-height: 90px;
+}
+
+button.button-xxxl,
+button.button-xxxl-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 105px;
+  line-height: 105px;
+}
+
+button.button-mega,
+button.button-mega-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 120px;
+  line-height: 120px;
+}
+
+
+button.button-megazord,
+button.button-megazord-default {
+  cursor: pointer;
+  word-wrap: break-word;
+  display: inline-block;
+  min-height: 135px;
+  line-height: 135px;
+}
+
+@media screen and (max-width: 320px) {
+
+  .button-box-xxs a.button,
+  .button-box-xxs a.button-xs,
+  .button-box-xxs a.button-s,
+  .button-box-xxs a.button-m,
+  .button-box-xxs a.button-l,
+  .button-box-xxs a.button-xl,
+  .button-box-xxs a.button-xxl,
+  .button-box-xxs a.button-xxxl,
+  .button-box-xxs a.button-mega,
+  .button-box-xxs a.button-megazord {
+    width: 100%;
+  }
+
+  .button-box-xxs button.button,
+  .button-box-xxs button.button-xs,
+  .button-box-xxs button.button-s,
+  .button-box-xxs button.button-m,
+  .button-box-xxs button.button-l,
+  .button-box-xxs button.button-xl,
+  .button-box-xxs button.button-xxl,
+  .button-box-xxs button.button-xxxl,
+  .button-box-xxs button.button-mega,
+  .button-box-xxs button.button-megazord {
+    width: 100%;
+  }
+
+  a.button-xs,
+  a.button-xs-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+    text-align: center;
+  }
+
+  a.button-s,
+  a.button-s-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+
+    text-align: center;
+  }
+
+  a.button-m,
+  a.button-m-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  a.button-l,
+  a.button-l-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+
+  }
+
+  a.button-xl,
+  a.button-xl-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+
+    text-align: center;
+  }
+
+  a.button-xxl,
+  a.button-xxl-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+
+    text-align: center;
+  }
+
+  a.button-xxxl,
+  a.button-xxxl-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+
+    text-align: center;
+  }
+
+  a.button-mega,
+  a.button-mega-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+
+    text-align: center;
+  }
+
+
+  a.button-megazord,
+  a.button-megazord-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+
+    text-align: center;
+  }
+
+
+  button.button-xs,
+  button.button-xs-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+    text-align: center;
+  }
+
+  button.button-s,
+  button.button-s-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  button.button-m,
+  button.button-m-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  button.button-l,
+  button.button-l-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+  }
+
+  button.button-xl,
+  button.button-xl-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+    text-align: center;
+  }
+
+  button.button-xxl,
+  button.button-xxl-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+    text-align: center;
+  }
+
+  button.button-xxxl,
+  button.button-xxxl-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+    text-align: center;
+  }
+
+  button.button-mega,
+  button.button-mega-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+  }
+
+
+  button.button-megazord,
+  button.button-megazord-default-xxs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+    text-align: center;
+  }
+
+}
+
+@media screen and (max-width: 479px) {
+
+  .button-box-xs a.button,
+  .button-box-xs a.button-xs,
+  .button-box-xs a.button-s,
+  .button-box-xs a.button-m,
+  .button-box-xs a.button-l,
+  .button-box-xs a.button-xl,
+  .button-box-xs a.button-xxl,
+  .button-box-xs a.button-xxxl,
+  .button-box-xs a.button-mega,
+  .button-box-xs a.button-megazord {
+    width: 100%;
+  }
+
+  .button-box-xs button.button,
+  .button-box-xs button.button-xs,
+  .button-box-xs button.button-s,
+  .button-box-xs button.button-m,
+  .button-box-xs button.button-l,
+  .button-box-xs button.button-xl,
+  .button-box-xs button.button-xxl,
+  .button-box-xs button.button-xxxl,
+  .button-box-xs button.button-mega,
+  .button-box-xs button.button-megazord {
+    width: 100%;
+  }
+
+  a.button-xs-xs,
+  a.button-xs-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+
+    text-align: center;
+  }
+
+  a.button-s-xs,
+  a.button-s-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+
+    text-align: center;
+  }
+
+  a.button-m-xs,
+  a.button-m-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  a.button-l-xs,
+  a.button-l-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+
+  }
+
+  a.button-xl-xs,
+  a.button-xl-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+
+    text-align: center;
+  }
+
+  a.button-xxl-xs,
+  a.button-xxl-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+
+    text-align: center;
+  }
+
+  a.button-xxxl-xs,
+  a.button-xxxl-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+
+    text-align: center;
+  }
+
+  a.button-mega-xs,
+  a.button-mega-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+
+    text-align: center;
+  }
+
+
+  a.button-megazord-xs,
+  a.button-megazord-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+
+    text-align: center;
+  }
+
+
+  button.button-xs-xs,
+  button.button-xs-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+    text-align: center;
+  }
+
+  button.button-s-xs,
+  button.button-s-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  button.button-m-xs,
+  button.button-m-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  button.button-l-xs,
+  button.button-l-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+  }
+
+  button.button-xl-xs,
+  button.button-xl-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+    text-align: center;
+  }
+
+  button.button-xxl-xs,
+  button.button-xxl-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+    text-align: center;
+  }
+
+  button.button-xxxl-xs,
+  button.button-xxxl-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+    text-align: center;
+  }
+
+  button.button-mega-xs,
+  button.button-mega-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+  }
+
+
+  button.button-megazord-xs,
+  button.button-megazord-default-xs {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+    text-align: center;
+  }
+
+}
+
+@media screen and (min-width: 480px) {
+
+  .button-box-s a.button,
+  .button-box-s a.button-xs,
+  .button-box-s a.button-s,
+  .button-box-s a.button-m,
+  .button-box-s a.button-l,
+  .button-box-s a.button-xl,
+  .button-box-s a.button-xxl,
+  .button-box-s a.button-xxxl,
+  .button-box-s a.button-mega,
+  .button-box-s a.button-megazord {
+    width: 100%;
+  }
+
+  .button-box-s button.button,
+  .button-box-s button.button-xs,
+  .button-box-s button.button-s,
+  .button-box-s button.button-m,
+  .button-box-s button.button-l,
+  .button-box-s button.button-xl,
+  .button-box-s button.button-xxl,
+  .button-box-s button.button-xxxl,
+  .button-box-s button.button-mega,
+  .button-box-s button.button-megazord {
+    width: 100%;
+  }
+
+  a.button-xs-s,
+  a.button-xs-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+
+    text-align: center;
+  }
+
+  a.button-s-s,
+  a.button-s-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+
+    text-align: center;
+  }
+
+  a.button-m-s,
+  a.button-m-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  a.button-l-s,
+  a.button-l-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+
+  }
+
+  a.button-xl-s,
+  a.button-xl-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+
+    text-align: center;
+  }
+
+  a.button-xxl-s,
+  a.button-xxl-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+
+    text-align: center;
+  }
+
+  a.button-xxxl-s,
+  a.button-xxxl-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+
+    text-align: center;
+  }
+
+  a.button-mega-s,
+  a.button-mega-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+
+    text-align: center;
+  }
+
+
+  a.button-megazord-s,
+  a.button-megazord-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+
+    text-align: center;
+  }
+
+
+  button.button-xs-s,
+  button.button-xs-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+    text-align: center;
+  }
+
+  button.button-s-s,
+  button.button-s-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  button.button-m-s,
+  button.button-m-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  button.button-l-s,
+  button.button-l-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+  }
+
+  button.button-xl-s,
+  button.button-xl-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+    text-align: center;
+  }
+
+  button.button-xxl-s,
+  button.button-xxl-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+    text-align: center;
+  }
+
+  button.button-xxxl-s,
+  button.button-xxxl-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+    text-align: center;
+  }
+
+  button.button-mega-s,
+  button.button-mega-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+  }
+
+
+  button.button-megazord-s,
+  button.button-megazord-default-s {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+    text-align: center;
+  }
+
+}
+
+@media screen and (min-width: 768px) {
+
+  .button-box-m a.button,
+  .button-box-m a.button-xs,
+  .button-box-m a.button-s,
+  .button-box-m a.button-m-m,
+  .button-box-m a.button-l,
+  .button-box-m a.button-xl,
+  .button-box-m a.button-xxl,
+  .button-box-m a.button-xxxl,
+  .button-box-m a.button-mega,
+  .button-box-m a.button-megazord {
+    width: 100%;
+  }
+
+  .button-box-m button.button,
+  .button-box-m button.button-xs,
+  .button-box-m button.button-s,
+  .button-box-m button.button-m-m,
+  .button-box-m button.button-l,
+  .button-box-m button.button-xl,
+  .button-box-m button.button-xxl,
+  .button-box-m button.button-xxxl,
+  .button-box-m button.button-mega,
+  .button-box-m button.button-megazord {
+    width: 100%;
+  }
+
+  a.button-xs-m,
+  a.button-xs-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+
+    text-align: center;
+  }
+
+  a.button-s-m,
+  a.button-s-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+
+    text-align: center;
+  }
+
+  a.button-m-m,
+  a.button-m-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  a.button-l-m,
+  a.button-l-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+
+  }
+
+  a.button-xl-m,
+  a.button-xl-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+
+    text-align: center;
+  }
+
+  a.button-xxl-m,
+  a.button-xxl-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+
+    text-align: center;
+  }
+
+  a.button-xxxl-m,
+  a.button-xxxl-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+
+    text-align: center;
+  }
+
+  a.button-mega-m,
+  a.button-mega-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+
+    text-align: center;
+  }
+
+
+  a.button-megazord-m,
+  a.button-megazord-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+
+    text-align: center;
+  }
+
+
+  button.button-xs-m,
+  button.button-xs-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+    text-align: center;
+  }
+
+  button.button-s-m,
+  button.button-s-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  button.button-m-m,
+  button.button-m-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  button.button-l-m,
+  button.button-l-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+  }
+
+  button.button-xl-m,
+  button.button-xl-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+    text-align: center;
+  }
+
+  button.button-xxl-m,
+  button.button-xxl-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+    text-align: center;
+  }
+
+  button.button-xxxl-m,
+  button.button-xxxl-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+    text-align: center;
+  }
+
+  button.button-mega-m,
+  button.button-mega-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+  }
+
+
+  button.button-megazord-m,
+  button.button-megazord-default-m {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+    text-align: center;
+  }
+
+}
+
+@media screen and (min-width: 1024px) {
+
+  .button-box-l a.button,
+  .button-box-l a.button-xs,
+  .button-box-l a.button-s,
+  .button-box-l a.button-m,
+  .button-box-l a.button-l,
+  .button-box-l a.button-xl,
+  .button-box-l a.button-xxl,
+  .button-box-l a.button-xxxl,
+  .button-box-l a.button-mega,
+  .button-box-l a.button-megazord {
+    width: 100%;
+  }
+
+  .button-box-l button.button,
+  .button-box-l button.button-xs,
+  .button-box-l button.button-s,
+  .button-box-l button.button-m,
+  .button-box-l button.button-l,
+  .button-box-l button.button-xl,
+  .button-box-l button.button-xxl,
+  .button-box-l button.button-xxxl,
+  .button-box-l button.button-mega,
+  .button-box-l button.button-megazord {
+    width: 100%;
+  }
+
+  a.button-xs-l,
+  a.button-xs-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+
+    text-align: center;
+  }
+
+  a.button-s-l,
+  a.button-s-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+
+    text-align: center;
+  }
+
+  a.button-m-l,
+  a.button-m-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  a.button-l-l,
+  a.button-l-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+
+  }
+
+  a.button-xl-l,
+  a.button-xl-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+
+    text-align: center;
+  }
+
+  a.button-xxl-l,
+  a.button-xxl-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+
+    text-align: center;
+  }
+
+  a.button-xxxl-l,
+  a.button-xxxl-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+
+    text-align: center;
+  }
+
+  a.button-mega-l,
+  a.button-mega-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+
+    text-align: center;
+  }
+
+
+  a.button-megazord-l,
+  a.button-megazord-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+
+    text-align: center;
+  }
+
+
+  button.button-xs-l,
+  button.button-xs-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+    text-align: center;
+  }
+
+  button.button-s-l,
+  button.button-s-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  button.button-m-l,
+  button.button-m-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  button.button-l-l,
+  button.button-l-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+  }
+
+  button.button-xl-l,
+  button.button-xl-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+    text-align: center;
+  }
+
+  button.button-xxl-l,
+  button.button-xxl-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+    text-align: center;
+  }
+
+  button.button-xxxl-l,
+  button.button-xxxl-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+    text-align: center;
+  }
+
+  button.button-mega-l,
+  button.button-mega-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+  }
+
+
+  button.button-megazord-l,
+  button.button-megazord-default-l {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+    text-align: center;
+  }
+
+}
+
+@media screen and (min-width: 1280) {
+
+  .button-box-xl a.button,
+  .button-box-xl a.button-xs,
+  .button-box-xl a.button-s,
+  .button-box-xl a.button-m,
+  .button-box-xl a.button-l,
+  .button-box-xl a.button-xl,
+  .button-box-xl a.button-xxl,
+  .button-box-xl a.button-xxxl,
+  .button-box-xl a.button-mega,
+  .button-box-xl a.button-megazord {
+    width: 100%;
+  }
+
+  .button-box-xl button.button,
+  .button-box-xl button.button-xs,
+  .button-box-xl button.button-s,
+  .button-box-xl button.button-m,
+  .button-box-xl button.button-l,
+  .button-box-xl button.button-xl,
+  .button-box-xl button.button-xxl,
+  .button-box-xl button.button-xxxl,
+  .button-box-xl button.button-mega,
+  .button-box-xl button.button-megazord {
+    width: 100%;
+  }
+
+  a.button-xs-xl,
+  a.button-xs-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+
+    text-align: center;
+  }
+
+  a.button-s-xl,
+  a.button-s-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+
+    text-align: center;
+  }
+
+  a.button-m-xl,
+  a.button-m-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  a.button-l-xl,
+  a.button-l-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+
+  }
+
+  a.button-xl-xl,
+  a.button-xl-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+
+    text-align: center;
+  }
+
+  a.button-xxl-xl,
+  a.button-xxl-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+
+    text-align: center;
+  }
+
+  a.button-xxxl-xl,
+  a.button-xxxl-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+
+    text-align: center;
+  }
+
+  a.button-mega-xl,
+  a.button-mega-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+
+    text-align: center;
+  }
+
+
+  a.button-megazord-xl,
+  a.button-megazord-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+
+    text-align: center;
+  }
+
+
+  button.button-xs-xl,
+  button.button-xs-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+    text-align: center;
+  }
+
+  button.button-s-xl,
+  button.button-s-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  button.button-m-xl,
+  button.button-m-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  button.button-l-xl,
+  button.button-l-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+  }
+
+  button.button-xl-xl,
+  button.button-xl-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+    text-align: center;
+  }
+
+  button.button-xxl-xl,
+  button.button-xxl-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+    text-align: center;
+  }
+
+  button.button-xxxl-xl,
+  button.button-xxxl-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+    text-align: center;
+  }
+
+  button.button-mega-xl,
+  button.button-mega-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+  }
+
+
+  button.button-megazord-xl,
+  button.button-megazord-default-xl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+    text-align: center;
+  }
+
+}
+
+@media screen and (min-width: 1440) {
+
+  .button-box-xxl a.button,
+  .button-box-xxl a.button-xs,
+  .button-box-xxl a.button-s,
+  .button-box-xxl a.button-m,
+  .button-box-xxl a.button-l,
+  .button-box-xxl a.button-xl,
+  .button-box-xxl a.button-xxl,
+  .button-box-xxl a.button-xxxl,
+  .button-box-xxl a.button-mega,
+  .button-box-xxl a.button-megazord {
+    width: 100%;
+  }
+
+  .button-box-xxl button.button,
+  .button-box-xxl button.button-xs,
+  .button-box-xxl button.button-s,
+  .button-box-xxl button.button-m,
+  .button-box-xxl button.button-l,
+  .button-box-xxl button.button-xl,
+  .button-box-xxl button.button-xxl,
+  .button-box-xxl button.button-xxxl,
+  .button-box-xxl button.button-mega,
+  .button-box-xxl button.button-megazord {
+    width: 100%;
+  }
+
+  a.button-xs-xxl,
+  a.button-xs-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+
+    text-align: center;
+  }
+
+  a.button-s-xxl,
+  a.button-s-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+
+    text-align: center;
+  }
+
+  a.button-m-xxl,
+  a.button-m-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  a.button-l-xxl,
+  a.button-l-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+
+  }
+
+  a.button-xl-xxl,
+  a.button-xl-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+
+    text-align: center;
+  }
+
+  a.button-xxl-xxl,
+  a.button-xxl-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+
+    text-align: center;
+  }
+
+  a.button-xxxl-xxl,
+  a.button-xxxl-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+
+    text-align: center;
+  }
+
+  a.button-mega-xxl,
+  a.button-mega-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+
+    text-align: center;
+  }
+
+
+  a.button-megazord-xxl,
+  a.button-megazord-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+
+    text-align: center;
+  }
+
+
+  button.button-xs-xxl,
+  button.button-xs-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+    text-align: center;
+  }
+
+  button.button-s-xxl,
+  button.button-s-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  button.button-m-xxl,
+  button.button-m-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  button.button-l-xxl,
+  button.button-l-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+  }
+
+  button.button-xl-xxl,
+  button.button-xl-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+    text-align: center;
+  }
+
+  button.button-xxl-xxl,
+  button.button-xxl-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+    text-align: center;
+  }
+
+  button.button-xxxl-xxl,
+  button.button-xxxl-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+    text-align: center;
+  }
+
+  button.button-mega-xxl,
+  button.button-mega-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+  }
+
+
+  button.button-megazord-xxl,
+  button.button-megazord-default-xxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+    text-align: center;
+  }
+
+}
+
+@media screen and (min-width: 1920) {
+
+  .button-box-xxxl a.button,
+  .button-box-xxxl a.button-xs,
+  .button-box-xxxl a.button-s,
+  .button-box-xxxl a.button-m,
+  .button-box-xxxl a.button-l,
+  .button-box-xxxl a.button-xl,
+  .button-box-xxxl a.button-xxl,
+  .button-box-xxxl a.button-xxxl,
+  .button-box-xxxl a.button-mega,
+  .button-box-xxxl a.button-megazord {
+    width: 100%;
+  }
+
+  .button-box-xxxl button.button,
+  .button-box-xxxl button.button-xs,
+  .button-box-xxxl button.button-s,
+  .button-box-xxxl button.button-m,
+  .button-box-xxxl button.button-l,
+  .button-box-xxxl button.button-xl,
+  .button-box-xxxl button.button-xxl,
+  .button-box-xxxl button.button-xxxl,
+  .button-box-xxxl button.button-mega,
+  .button-box-xxxl button.button-megazord {
+    width: 100%;
+  }
+
+  a.button-xs-xxxl,
+  a.button-xs-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+
+    text-align: center;
+  }
+
+  a.button-s-xxxl,
+  a.button-s-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+
+    text-align: center;
+  }
+
+  a.button-m-xxxl,
+  a.button-m-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  a.button-l-xxxl,
+  a.button-l-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+
+  }
+
+  a.button-xl-xxxl,
+  a.button-xl-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+
+    text-align: center;
+  }
+
+  a.button-xxl-xxxl,
+  a.button-xxl-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+
+    text-align: center;
+  }
+
+  a.button-xxxl-xxxl,
+  a.button-xxxl-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+
+    text-align: center;
+  }
+
+  a.button-mega-xxxl,
+  a.button-mega-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+
+    text-align: center;
+  }
+
+
+  a.button-megazord-xxxl,
+  a.button-megazord-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+
+    text-align: center;
+  }
+
+
+  button.button-xs-xxxl,
+  button.button-xs-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 15px;
+    line-height: 15px;
+    text-align: center;
+  }
+
+  button.button-s-xxxl,
+  button.button-s-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  button.button-m-xxxl,
+  button.button-m-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+
+  button.button-l-xxxl,
+  button.button-l-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    height: 60px;
+    line-height: 60px;
+  }
+
+  button.button-xl-xxxl,
+  button.button-xl-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 75px;
+    line-height: 75px;
+    text-align: center;
+  }
+
+  button.button-xxl-xxxl,
+  button.button-xxl-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 90px;
+    line-height: 90px;
+    text-align: center;
+  }
+
+  button.button-xxxl-xxxl,
+  button.button-xxxl-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 105px;
+    line-height: 105px;
+    text-align: center;
+  }
+
+  button.button-mega-xxxl,
+  button.button-mega-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 120px;
+    line-height: 120px;
+    text-align: center;
+  }
+
+
+  button.button-megazord-xxxl,
+  button.button-megazord-default-xxxl {
+    cursor: pointer;
+    word-wrap: break-word;
+    display: inline-block;
+    min-height: 135px;
+    line-height: 135px;
+    text-align: center;
+  }
+
+}

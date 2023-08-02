@@ -1,0 +1,571 @@
+
+.pop-left {
+  animation-name: pop-left;
+  animation-duration: 2s;
+}
+
+.pop-left-big {
+  animation-name: pop-left-big;
+  animation-duration: 2s;
+}
+
+
+.pop-right {
+  animation-name: pop-right;
+  animation-duration: 2s;
+}
+
+.pop-right-big {
+  animation-name: pop-right-big;
+  animation-duration: 2s;
+}
+
+.pop-both {
+  animation-name: pop-both;
+  animation-duration: 2s;
+}
+
+.pop-both-smooth {
+  animation-name: pop-both-smooth;
+  animation-duration: 2s;
+}
+
+.pop-both-smooth-fast {
+  animation-name: pop-both-smooth-fast;
+  animation-duration: 2s;
+}
+
+.pop-both-y {
+  animation-name: pop-both-y;
+  animation-duration: 2s;
+}
+
+.pop-both-smooth-y {
+  animation-name: pop-both-smooth-y;
+  animation-duration: 2s;
+}
+
+.pop-both-smooth-fast-y {
+  animation-name: pop-both-smooth-fast-y;
+  animation-duration: 2s;
+}
+
+.pop-both-big {
+  animation-name: pop-both-big;
+  animation-duration: 2s;
+}
+
+
+.pop-both-big-smooth {
+  animation-name: pop-both-big-smooth;
+  animation-duration: 2s;
+}
+
+
+.pop-both-big-smooth-fast {
+  animation-name: pop-both-big-smooth-fast;
+  animation-duration: 2s;
+}
+
+.pop-both-big-y {
+  animation-name: pop-both-big-y;
+  animation-duration: 2s;
+}
+
+.pop-both-big-smooth-y {
+  animation-name: pop-both-big-smooth-y;
+  animation-duration: 2s;
+}
+
+.pop-both-big-smooth-fast-y {
+  animation-name: pop-both-big-smooth-fast-y;
+  animation-duration: 2s;
+}
+
+
+.pop-left-active:hover {
+  animation-name: pop-left;
+  animation-duration: 2s;
+}
+
+.pop-left-big-active:hover {
+  animation-name: pop-left-big;
+  animation-duration: 2s;
+}
+
+.pop-right-active:hover {
+  animation-name: pop-right;
+  animation-duration: 2s;
+}
+
+.pop-right-big-active:hover {
+  animation-name: pop-right-big;
+  animation-duration: 2s;
+}
+
+.pop-both-active:hover {
+  animation-name: pop-both;
+  animation-duration: 2s;
+}
+
+.pop-both-smooth-active:hover {
+  animation-name: pop-both-smooth;
+  animation-duration: 2s;
+}
+
+.pop-both-smooth-fast-active:hover {
+  animation-name: pop-both-smooth-fast;
+  animation-duration: 2s;
+}
+
+.pop-both-y-active:hover {
+  animation-name: pop-both-y;
+  animation-duration: 2s;
+}
+
+.pop-both-smooth-y-active:hover {
+  animation-name: pop-both-smooth-y;
+  animation-duration: 2s;
+}
+
+.pop-both-smooth-fast-y-active:hover {
+  animation-name: pop-both-smooth-fast-y;
+  animation-duration: 2s;
+}
+
+.pop-both-big-active:hover {
+  animation-name: pop-both-big;
+  animation-duration: 2s;
+}
+
+.pop-both-big-smooth-active:hover {
+  animation-name: pop-both-big-smooth;
+  animation-duration: 2s;
+}
+
+
+.pop-both-big-smooth-fast-active:hover {
+  animation-name: pop-both-big-smooth-fast;
+  animation-duration: 2s;
+}
+
+.pop-both-big-y-active:hover {
+  animation-name: pop-both-big-y;
+  animation-duration: 2s;
+}
+
+.pop-both-big-smooth-y-active:hover {
+  animation-name: pop-both-big-smooth-y;
+  animation-duration: 2s;
+}
+
+
+.pop-both-big-smooth-fast-y-active:hover {
+  animation-name: pop-both-big-smooth-fast-y;
+  animation-duration: 2s;
+}
+
+
+.Apop-left {
+  animation-name: pop-left;
+}
+
+.Apop-left-big {
+  animation-name: pop-left-big;
+}
+
+
+.Apop-right {
+  animation-name: pop-right;
+}
+
+.Apop-right-big {
+  animation-name: pop-right-big;
+}
+
+.Apop-both {
+  animation-name: pop-both;
+}
+
+.Apop-both-smooth {
+  animation-name: pop-both-smooth;
+}
+
+.Apop-both-smooth-fast {
+  animation-name: pop-both-smooth-fast;
+}
+
+.Apop-both-y {
+  animation-name: pop-both-y;
+}
+
+.Apop-both-smooth-y {
+  animation-name: pop-both-smooth-y;
+}
+
+.Apop-both-smooth-fast-y {
+  animation-name: pop-both-smooth-fast-y;
+}
+
+.Apop-both-big {
+  animation-name: pop-both-big;
+}
+
+
+.Apop-both-big-smooth {
+  animation-name: pop-both-big-smooth;
+}
+
+
+.Apop-both-big-smooth-fast {
+  animation-name: pop-both-big-smooth-fast;
+}
+
+.Apop-both-big-y {
+  animation-name: pop-both-big-y;
+}
+
+.Apop-both-big-smooth-y {
+  animation-name: pop-both-big-smooth-y;
+}
+
+.Apop-both-big-smooth-fast-y {
+  animation-name: pop-both-big-smooth-fast-y;
+}
+
+
+.Apop-left-active:hover {
+  animation-name: pop-left;
+}
+
+.Apop-left-big-active:hover {
+  animation-name: pop-left-big;
+}
+
+.Apop-right-active:hover {
+  animation-name: pop-right;
+}
+
+.Apop-right-big-active:hover {
+  animation-name: pop-right-big;
+}
+
+.Apop-both-active:hover {
+  animation-name: pop-both;
+}
+
+.Apop-both-smooth-active:hover {
+  animation-name: pop-both-smooth;
+}
+
+.Apop-both-smooth-fast-active:hover {
+  animation-name: pop-both-smooth-fast;
+}
+
+.Apop-both-y-active:hover {
+  animation-name: pop-both-y;
+}
+
+.Apop-both-smooth-y-active:hover {
+  animation-name: pop-both-smooth-y;
+}
+
+.Apop-both-smooth-fast-y-active:hover {
+  animation-name: pop-both-smooth-fast-y;
+}
+
+.Apop-both-big-active:hover {
+  animation-name: pop-both-big;
+}
+
+.Apop-both-big-smooth-active:hover {
+  animation-name: pop-both-big-smooth;
+}
+
+
+.Apop-both-big-smooth-fast-active:hover {
+  animation-name: pop-both-big-smooth-fast;
+}
+
+.Apop-both-big-y-active:hover {
+  animation-name: pop-both-big-y;
+}
+
+.Apop-both-big-smooth-y-active:hover {
+  animation-name: pop-both-big-smooth-y;
+}
+
+
+.Apop-both-big-smooth-fast-y-active:hover {
+  animation-name: pop-both-big-smooth-fast-y;
+}
+
+@keyframes pop-left {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-5%);
+  }
+}
+
+@keyframes pop-left-big {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-10%);
+  }
+}
+
+@keyframes pop-right {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(5%);
+  }
+}
+
+@keyframes pop-right-big {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(10%);
+  }
+}
+
+@keyframes pop-both {
+  0% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(5%);
+  }
+
+  50% {
+    transform: translateX(0);
+  }
+
+  75% {
+    transform: translateX(-5%);
+  }
+}
+
+@keyframes pop-both-big {
+  0% {
+    transform: translateX(0);
+  }
+
+  25% {
+    transform: translateX(10%);
+  }
+
+  50% {
+    transform: translateX(0);
+  }
+
+  75% {
+    transform: translateX(-10%);
+  }
+}
+
+
+@keyframes pop-both-big-smooth {
+  0% {
+    transform: translateX(-10%);
+  }
+
+  50% {
+    transform: translateX(+10%);
+  }
+
+  100% {
+    transform: translateX(-10%);
+  }
+
+}
+
+
+@keyframes pop-both-big-smooth-fast {
+  0% {
+    transform: translateX(-10%);
+  }
+
+  25% {
+    transform: translateX(+10%);
+  }
+
+  50% {
+    transform: translateX(-10%);
+  }
+
+  75% {
+    transform: translateX(+10%);
+  }
+
+  100% {
+    transform: translateX(-10%);
+  }
+
+}
+
+@keyframes pop-both-smooth {
+  0% {
+    transform: translateX(-5%);
+  }
+
+  50% {
+    transform: translateX(+5%);
+  }
+
+  100% {
+    transform: translateX(-5%);
+  }
+
+}
+
+
+@keyframes pop-both-smooth-fast {
+  0% {
+    transform: translateX(-5%);
+  }
+
+  25% {
+    transform: translateX(+5%);
+  }
+
+  50% {
+    transform: translateX(-5%);
+  }
+
+  75% {
+    transform: translateX(+5%);
+  }
+
+  100% {
+    transform: translateX(-5%);
+  }
+
+}
+
+@keyframes pop-both-y {
+  0% {
+    transform: translateY(0);
+  }
+
+  25% {
+    transform: translateY(10%);
+  }
+
+  50% {
+    transform: translateY(0);
+  }
+
+  75% {
+    transform: translateY(-10%);
+  }
+}
+
+@keyframes pop-both-big-y {
+  0% {
+    transform: translateY(0);
+  }
+
+  25% {
+    transform: translateY(20%);
+  }
+
+  50% {
+    transform: translateY(0);
+  }
+
+  75% {
+    transform: translateY(-20%);
+  }
+}
+
+
+@keyframes pop-both-big-smooth-y {
+  0% {
+    transform: translateY(-20%);
+  }
+
+  50% {
+    transform: translateY(+20%);
+  }
+
+  100% {
+    transform: translateY(-20%);
+  }
+
+}
+
+
+@keyframes pop-both-big-smooth-fast-y {
+  0% {
+    transform: translateY(-20%);
+  }
+
+  25% {
+    transform: translateY(+20%);
+  }
+
+  50% {
+    transform: translateY(-20%);
+  }
+
+  75% {
+    transform: translateY(+20%);
+  }
+
+  100% {
+    transform: translateY(-20%);
+  }
+
+}
+
+@keyframes pop-both-smooth-y {
+  0% {
+    transform: translateY(-10%);
+  }
+
+  50% {
+    transform: translateY(+10%);
+  }
+
+  100% {
+    transform: translateY(-10%);
+  }
+
+}
+
+
+@keyframes pop-both-smooth-fast-y {
+  0% {
+    transform: translateY(-10%);
+  }
+
+  25% {
+    transform: translateY(+10%);
+  }
+
+  50% {
+    transform: translateY(-10%);
+  }
+
+  75% {
+    transform: translateY(+10%);
+  }
+
+  100% {
+    transform: translateY(-10%);
+  }
+
+}

@@ -1,0 +1,1031 @@
+.transition-0p0 {
+  transition: 0;
+}
+
+.infinite{
+  animation-iteration-count: infinite;
+}
+
+.transition-0p3 {
+  transition-duration: 0.3s;
+}
+
+.transition-0p5 {
+  transition-duration: 0.5s;
+}
+
+.transition-0p7 {
+  transition-duration: 0.7s;
+}
+
+.transition-0p9 {
+  transition-duration: 0.9s;
+}
+
+.no-animation:hover {
+  animation: none;
+}
+
+.freeze {
+  animation-fill-mode: forwards;
+}
+
+
+.time-1s {
+  animation-duration: 1s;
+}
+
+.time-2s {
+  animation-duration: 2s;
+}
+
+.time-3s {
+  animation-duration: 3s;
+}
+
+.time-4s {
+  animation-duration: 4s;
+}
+
+.time-5s {
+  animation-duration: 5s;
+}
+
+.time-6s {
+  animation-duration: 6s;
+}
+
+.time-7s {
+  animation-duration: 7s;
+}
+
+.time-8s {
+  animation-duration: 8s;
+}
+
+.time-9s {
+  animation-duration: 9s;
+}
+
+.time-10s {
+  animation-duration: 10s;
+}
+
+.time-0p2s {
+  animation-duration: 0.2s;
+}
+
+.time-0p3s {
+  animation-duration: 0.3s;
+}
+
+.time-0p4s {
+  animation-duration: 0.4s;
+}
+
+.time-0p5s {
+  animation-duration: 0.5s;
+}
+
+.time-0p6s {
+  animation-duration: 0.6s;
+}
+
+.time-0p7s {
+  animation-duration: 0.7s;
+}
+
+.time-0p8s {
+  animation-duration: 0.8s;
+}
+
+.time-0p9s {
+  animation-duration: 0.9s;
+}
+
+.time-1p2s {
+  animation-duration: 1.2s;
+}
+
+.time-1p5s {
+  animation-duration: 1.5s;
+}
+
+.time-1p8s {
+  animation-duration: 1.8s;
+}
+
+.time-2p5s {
+  animation-duration: 2.5s;
+}
+
+.time-3p5s {
+  animation-duration: 3.5s;
+}
+
+.time-4p5s {
+  animation-duration: 4.5s;
+}
+
+.time-5p5s {
+  animation-duration: 5.5s;
+}
+
+.time-6p5s {
+  animation-duration: 6.5s;
+}
+
+.time-7p5s {
+  animation-duration: 7.5s;
+}
+
+.time-8p5s {
+  animation-duration: 8.5s;
+}
+
+.time-9p5s {
+  animation-duration: 9.5s;
+}
+
+.time-10p5s {
+  animation-duration: 10.5s;
+}
+
+
+.inverse {
+  animation: inverse 2s ease-in-out;
+}
+
+.Ainverse {
+  animation-name: inverse;
+  animation-timing-function: ease-in-out
+}
+
+.inverse-reverse {
+  animation: inverse-reverse 2s ease-in-out;
+}
+
+.Ainverse-reverse {
+  animation-name: inverse-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.upside-down {
+  animation: upside-down 2s ease-in-out;
+}
+
+.Aupside-down {
+  animation-name: upside-down;
+  animation-timing-function: ease-in-out
+}
+
+.upside-down-reverse {
+  animation: upside-down-reverse 2s ease-in-out;
+}
+
+.Aupside-down-reverse {
+  animation-name: upside-down-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.from-right {
+  animation: from-right 2s ease-in-out;
+
+}
+
+.Afrom-right {
+  animation-name: from-right;
+  animation-timing-function: ease-in-out;
+}
+
+.from-right-full {
+  animation: from-right-full 2s ease-in-out;
+
+}
+
+.Afrom-right-full {
+  animation-name: from-right-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-right-spilling {
+  animation: from-right-splling 2s ease-in-out;
+
+}
+
+.Afrom-right-spilling {
+  animation-name: from-right-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-right-full-potential {
+  animation: from-right-full-potential 2s ease-in-out;
+
+}
+
+.Afrom-right-full-potential {
+  animation-name: from-right-full-potential;
+  animation-timing-function: ease-in-out
+}
+
+.from-left {
+  animation: from-left 2s ease-in-out;
+
+}
+
+.Afrom-left {
+  animation-name: from-left;
+  animation-timing-function: ease-in-out
+}
+
+.from-left-full {
+  animation: from-left-full 2s ease-in-out;
+
+}
+
+.Afrom-left-full {
+  animation-name: from-left-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-left-spilling {
+  animation: from-left-spilling 2s ease-in-out;
+
+}
+
+.Afrom-left-spilling {
+  animation-name: from-left-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-left-full-potential {
+  animation: from-left-full-potential 2s ease-in-out;
+
+}
+
+.Afrom-left-full-potential {
+  animation-name: from-left-full-potential;
+  animation-timing-function: ease-in-out
+}
+
+.from-up {
+  animation: from-up 2s ease-in-out;
+
+}
+
+.Afrom-up {
+  animation-name: from-up;
+  animation-timing-function: ease-in-out
+}
+
+.from-up-full {
+  animation: from-up-full 2s ease-in-out;
+
+}
+
+.Afrom-up-full {
+  animation-name: from-up-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-up-spilling {
+  animation: from-up-splling 2s ease-in-out;
+
+}
+
+.Afrom-up-spilling {
+  animation-name: from-up-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-up-full-potential {
+  animation: from-up-full-potential 2s ease-in-out;
+
+}
+
+.Afrom-up-full-potential {
+  animation-name: from-uo-full-potential;
+  animation-timing-function: ease-in-out
+}
+
+.from-down {
+  animation: from-down 2s ease-in-out;
+
+}
+
+.Afrom-down {
+  animation-name: from-down;
+  animation-timing-function: ease-in-out
+}
+
+.from-down-full {
+  animation: from-down-full 2s ease-in-out;
+
+}
+
+.Afrom-down-full {
+  animation-name: from-down-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-down-spilling {
+  animation: from-down-spilling 2s ease-in-out;
+
+}
+
+.Afrom-down-spilling {
+  animation-name: from-down-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-down-full-potential {
+  animation: from-down-full-potential 2s ease-in-out;
+
+}
+
+.Afrom-down-full-potential {
+  animation-name: from-down-full-potential;
+  animation-timing-function: ease-in-out
+}
+
+.flip {
+  animation: flip 2s ease-in-out;
+}
+
+.flip-y {
+  animation: flip-y 2s ease-in-out;
+}
+
+.flip-reverse {
+  animation: flip-reverse 2s ease-in-out;
+}
+
+.flip-reverse-y {
+  animation: flip-reverse-y 2s ease-in-out;
+}
+
+
+.Aflip {
+  animation-name: flip;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-y {
+  animation-name: flip-y;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-reverse {
+  animation-name: flip-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-reverse-y {
+  animation-name: flip-reverse-y;
+  animation-timing-function: ease-in-out
+}
+
+.flip-infinite {
+  animation: flip 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-y-infinite {
+  animation: flip-y 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-reverse-infinite {
+  animation: flip-reverse 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-reverse-y-infinite {
+  animation: flip-reverse-y 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.Aflip-infinite {
+  animation-name: flip;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-y-infinite {
+  animation-name: flip-y;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-reverse-infinite {
+  animation-name: flip-reverse;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-reverse-y-infinite {
+  animation-name: flip-reverse-y;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.seesaw-scale {
+  animation: seesaw-scale 2s ease-in-out;
+}
+
+.Aseesaw-scale {
+  animation: seesaw-scale 2s ease-in-out;
+}
+
+.seesaw {
+  animation: seesaw 2s ease-in-out;
+}
+
+.Aseesaw {
+  animation: seesaw 2s ease-in-out;
+}
+
+.inverse-active:hover {
+  animation: inverse 2s ease-in-out;
+}
+
+.Ainverse-active:hover {
+  animation-name: inverse;
+  animation-timing-function: ease-in-out
+}
+
+.inverse-reverse-active:hover {
+  animation: inverse-reverse 2s ease-in-out;
+}
+
+.Ainverse-reverse-active:hover {
+  animation-name: inverse-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.upside-down-active:hover {
+  animation: upside-down 2s ease-in-out;
+}
+
+.Aupside-down-active:hover {
+  animation-name: upside-down;
+  animation-timing-function: ease-in-out
+}
+
+.upside-down-reverse-active:hover {
+  animation: upside-down-reverse 2s ease-in-out;
+}
+
+.Aupside-down-reverse-active:hover {
+  animation-name: upside-down-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.from-right-active:hover {
+  animation: from-right 2s ease-in-out;
+
+}
+
+.Afrom-right-active:hover {
+  animation-name: from-right;
+  animation-timing-function: ease-in-out
+}
+
+.from-right-full-active:hover {
+  animation: from-right-full 2s ease-in-out;
+
+}
+
+.Afrom-right-full-active:hover {
+  animation-name: from-right-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-right-spilling-active:hover {
+  animation: from-right-splling 2s ease-in-out;
+
+}
+
+.Afrom-right-spilling-active:hover {
+  animation-name: from-right-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-right-full-potential-active:hover {
+  animation: from-right-full-potential 2s ease-in-out;
+
+}
+
+.Afrom-right-full-potential-active:hover {
+  animation-name: from-right-full-potential;
+  animation-timing-function: ease-in-out
+}
+
+.from-left-active:hover {
+  animation: from-left 2s ease-in-out;
+
+}
+
+.Afrom-left-active:hover {
+  animation-name: from-left;
+  animation-timing-function: ease-in-out
+}
+
+.from-left-full-active:hover {
+  animation: from-left-full 2s ease-in-out;
+
+}
+
+.Afrom-left-full-active:hover {
+  animation-name: from-left-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-left-spilling-active:hover {
+  animation: from-left-spilling 2s ease-in-out;
+
+}
+
+.Afrom-left-spilling-active:hover {
+  animation-name: from-left-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-left-full-potential-active:hover {
+  animation: from-left-full-potential 2s ease-in-out;
+
+}
+
+.Afrom-left-full-potential-active:hover {
+  animation-name: from-left-full-potential;
+  animation-timing-function: ease-in-out
+}
+
+.from-up-active:hover {
+  animation: from-up 2s ease-in-out;
+
+}
+
+.Afrom-up-active:hover {
+  animation-name: from-up;
+  animation-timing-function: ease-in-out
+}
+
+.from-up-full-active:hover {
+  animation: from-up-full 2s ease-in-out;
+
+}
+
+.Afrom-up-full-active:hover {
+  animation-name: from-up-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-up-spilling-active:hover {
+  animation: from-up-splling 2s ease-in-out;
+
+}
+
+.Afrom-up-spilling-active:hover {
+  animation-name: from-up-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-up-full-potential-active:hover {
+  animation: from-up-full-potential 2s ease-in-out;
+
+}
+
+.Afrom-up-full-potential-active:hover {
+  animation-name: from-uo-full-potential;
+  animation-timing-function: ease-in-out
+}
+
+.from-down-active:hover {
+  animation: from-down 2s ease-in-out;
+
+}
+
+.Afrom-down-active:hover {
+  animation-name: from-down;
+  animation-timing-function: ease-in-out
+}
+
+.from-down-full-active:hover {
+  animation: from-down-full 2s ease-in-out;
+
+}
+
+.Afrom-down-full-active:hover {
+  animation-name: from-down-full;
+  animation-timing-function: ease-in-out
+}
+
+
+.from-down-spilling-active:hover {
+  animation: from-down-spilling 2s ease-in-out;
+
+}
+
+.Afrom-down-spilling-active:hover {
+  animation-name: from-down-spilling;
+  animation-timing-function: ease-in-out
+}
+
+.from-down-full-potential-active:hover {
+  animation: from-down-full-potential 2s ease-in-out;
+
+}
+
+.Afrom-down-full-potential-active:hover {
+  animation-name: from-down-full-potential;
+  animation-timing-function: ease-in-out
+}
+
+
+.flip-active:hover {
+  animation: flip 2s ease-in-out;
+}
+
+.flip-y-active:hover {
+  animation: flip-y 2s ease-in-out;
+}
+
+.flip-reverse-active:hover {
+  animation: flip-reverse 2s ease-in-out;
+}
+
+.flip-reverse-y-active:hover {
+  animation: flip-reverse-y 2s ease-in-out;
+}
+
+.Aflip-active:hover {
+  animation-name: flip;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-y-active:hover {
+  animation-name: flip-y;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-reverse-active:hover {
+  animation-name: flip-reverse;
+  animation-timing-function: ease-in-out
+}
+
+.Aflip-reverse-y-active:hover {
+  animation-name: flip-reverse-y;
+  animation-timing-function: ease-in-out
+}
+
+.flip-infinite-active:hover {
+  animation: flip 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-y-infinite-active:hover {
+  animation: flip-y 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-reverse-infinite-active:hover {
+  animation: flip-reverse 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.flip-reverse-y-infinite-active:hover {
+  animation: flip-reverse-y 2s ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+
+.Aflip-infinite-active:hover {
+  animation-name: flip;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-y-infinite-active:hover {
+  animation-name: flip-y;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-reverse-infinite-active:hover {
+  animation-name: flip-reverse;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.Aflip-reverse-y-infinite-active:hover {
+  animation-name: flip-reverse-y;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+
+.seesaw-scale-active:hover {
+  animation: seesaw-scale 2s ease-in-out;
+}
+
+.Aseesaw-scale-active:hover {
+  animation: seesaw-scale 2s ease-in-out;
+}
+
+.seesaw-active:hover {
+  animation: seesaw 2s ease-in-out;
+}
+
+.Aseesaw-active:hover {
+  animation: seesaw 2s ease-in-out;
+}
+
+.infinite {
+  animation-iteration-count: infinite;
+}
+
+@keyframes from-left {
+  from {
+    transform: translateX(-50%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-right {
+  from {
+    transform: translateX(50%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-left-full {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-right-full {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-left-spilling {
+  from {
+    transform: translateX(-150%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-right-spilling {
+  from {
+    transform: translateX(150%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-left-full-potential {
+  from {
+    transform: translateX(-100vw);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-right-full-potential {
+  from {
+    transform: translateX(100vw);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-up {
+  from {
+    transform: translateY(-50%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-down {
+  from {
+    transform: translateY(50%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-up-full {
+  from {
+    transform: translateY(-100%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-down-full {
+  from {
+    transform: translateY(100%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-up-spilling {
+  from {
+    transform: translateY(-150%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-down-spilling {
+  from {
+    transform: translateY(150%);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-up-full-potential {
+  from {
+    transform: translateY(-100vh);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes from-down-full-potential {
+  from {
+    transform: translateY(100vh);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes upside-down-reverse {
+  from {
+    transform: rotateX(-180deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes upside-down {
+  from {
+    transform: rotateX(180deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes inverse {
+  from {
+    transform: rotateY(180deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes inverse-reverse {
+  from {
+    transform: rotateY(-180deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes flip {
+  from {
+    transform: rotateY(360deg);
+  }
+
+  to {
+    transform: rotateY(0);
+  }
+}
+
+@keyframes flip-reverse {
+  from {
+    transform: rotateY(-360deg);
+  }
+
+  to {
+    transform: rotateY(0);
+  }
+}
+
+@keyframes flip-y {
+  from {
+    transform: rotateX(360deg);
+  }
+
+  to {
+    transform: rotateY(0);
+  }
+}
+
+@keyframes flip-reverse-y {
+  from {
+    transform: rotateX(-360deg);
+  }
+
+  to {
+    transform: rotateY(0);
+  }
+}
+
+@keyframes seesaw {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  25% {
+    transform: rotate(10deg);
+  }
+
+  50% {
+    transform: rotate(-10deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+
+}
+
+@keyframes seesaw-scale {
+  0% {
+    transform: scale(1) rotate(0deg);
+  }
+
+  25% {
+    transform: scale(1.2) rotate(10deg);
+  }
+
+  50% {
+    transform: scale(1.2) rotate(-10deg);
+  }
+
+  100% {
+    transform: scale(1) rotate(0deg);
+  }
+
+}

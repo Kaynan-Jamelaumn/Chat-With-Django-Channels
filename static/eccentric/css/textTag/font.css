@@ -1,0 +1,1928 @@
+.font-xs {
+  font-size: 10px;
+}
+
+.font-s {
+  font-size: 12px;
+}
+
+.font-m {
+  font-size: 16px;
+}
+
+.font-l {
+  font-size: 20px;
+}
+
+.font-xl {
+  font-size: 25px;
+}
+
+.font-xxl {
+  font-size: 30px;
+}
+
+.font-xxxl {
+  font-size: 45px;
+}
+
+.font-mega {
+  font-size: 50px;
+}
+
+.font-megazord {
+  font-size: 60px;
+}
+
+.font-xxs-megazord {
+  font-size: 80px;
+}
+
+
+.font-xs-megazord {
+  font-size: 100px;
+}
+
+.font-s-megazord {
+  font-size: 120px;
+}
+
+.font-m-megazord {
+  font-size: 140px;
+}
+
+.font-l-megazord {
+  font-size: 160px;
+}
+
+.font-xl-megazord {
+  font-size: 180px;
+}
+
+.font-xxl-megazord {
+  font-size: 200px;
+}
+
+.font-xxxl-megazord {
+  font-size: 250px;
+}
+
+.font-xxs-em {
+  font-size: 3em;
+}
+
+.font-xs-em {
+  font-size: 10em;
+}
+
+.font-s-em {
+  font-size: 12em;
+}
+
+.font-m-em {
+  font-size: 16em;
+}
+
+.font-l-em {
+  font-size: 20em;
+}
+
+.font-xl-em {
+  font-size: 25em;
+}
+
+.font-xxl-em {
+  font-size: 30em;
+}
+
+.font-xxxl-em {
+  font-size: 45em;
+}
+
+.font-mega-em {
+  font-size: 50em;
+}
+
+.font-megazord-em {
+  font-size: 60em;
+}
+
+.font-xxs-megazord-em {
+  font-size: 80em;
+}
+
+
+.font-xs-megazord-em {
+  font-size: 100em;
+}
+
+.font-s-megazord-em {
+  font-size: 120em;
+}
+
+.font-m-megazord-em {
+  font-size: 140em;
+}
+
+.font-l-megazord-em {
+  font-size: 160em;
+}
+
+.font-xl-megazord-em {
+  font-size: 180em;
+}
+
+.font-xxl-megazord-em {
+  font-size: 200em;
+}
+
+.font-xxxl-megazord-em {
+  font-size: 250em;
+}
+
+.font-xs-pc {
+  font-size: 100%;
+}
+
+.font-s-pc {
+  font-size: 120%;
+}
+
+.font-m-pc {
+  font-size: 160%;
+}
+
+.font-l-pc {
+  font-size: 200%;
+}
+
+.font-xl-pc {
+  font-size: 250%;
+}
+
+.font-xxl-pc {
+  font-size: 300%;
+}
+
+.font-xxxl-pc {
+  font-size: 450%;
+}
+
+.font-mega-pc {
+  font-size: 500%;
+}
+
+.font-megazord-pc {
+  font-size: 600%;
+}
+
+.font-xxs-megazord-pc {
+  font-size: 80%;
+}
+
+
+.font-xs-megazord-pc {
+  font-size: 100%;
+}
+
+.font-s-megazord-pc {
+  font-size: 120%;
+}
+
+.font-m-megazord-pc {
+  font-size: 140%;
+}
+
+.font-l-megazord-pc {
+  font-size: 160%;
+}
+
+.font-xl-megazord-pc {
+  font-size: 180%;
+}
+
+.font-xxl-megazord-pc {
+  font-size: 200%;
+}
+
+.font-xxxl-megazord-pc {
+  font-size: 250%;
+}
+
+@media screen and (max-width:320px) {
+  .font-xs-xxs {
+    font-size: 10px;
+  }
+
+  .font-s-xxs {
+    font-size: 12px;
+  }
+
+  .font-m-xxs {
+    font-size: 16px;
+  }
+
+  .font-l-xxs {
+    font-size: 20px;
+  }
+
+  .font-xl-xxs {
+    font-size: 25px;
+  }
+
+  .font-xxl-xxs {
+    font-size: 30px;
+  }
+
+  .font-xxxl-xxs {
+    font-size: 45px;
+  }
+
+  .font-mega-xxs {
+    font-size: 50px;
+  }
+
+  .font-megazord-xxs {
+    font-size: 60px;
+  }
+
+  .font-xxs-megazord-xxs {
+    font-size: 80px;
+  }
+
+
+  .font-xs-megazord-xxs {
+    font-size: 100px;
+  }
+
+  .font-s-megazord-xxs {
+    font-size: 120px;
+  }
+
+  .font-m-megazord-xxs {
+    font-size: 140px;
+  }
+
+  .font-l-megazord-xxs {
+    font-size: 160px;
+  }
+
+  .font-xl-megazord-xxs {
+    font-size: 180px;
+  }
+
+  .font-xxl-megazord-xxs {
+    font-size: 200px;
+  }
+
+  .font-xxxl-megazord-xxs {
+    font-size: 250px;
+  }
+
+  .font-xxs-em-xxs {
+    font-size: 3em;
+  }
+
+  .font-xs-em-xxs {
+    font-size: 10em;
+  }
+
+  .font-s-em-xxs {
+    font-size: 12em;
+  }
+
+  .font-m-em-xxs {
+    font-size: 16em;
+  }
+
+  .font-l-em-xxs {
+    font-size: 20em;
+  }
+
+  .font-xl-em-xxs {
+    font-size: 25em;
+  }
+
+  .font-xxl-em-xxs {
+    font-size: 30em;
+  }
+
+  .font-xxxl-em-xxs {
+    font-size: 45em;
+  }
+
+  .font-mega-em-xxs {
+    font-size: 50em;
+  }
+
+  .font-megazord-em-xxs {
+    font-size: 60em;
+  }
+
+  .font-xxs-megazord-em-xxs {
+    font-size: 80em;
+  }
+
+
+  .font-xs-megazord-em-xxs {
+    font-size: 100em;
+  }
+
+  .font-s-megazord-em-xxs {
+    font-size: 120em;
+  }
+
+  .font-m-megazord-em-xxs {
+    font-size: 140em;
+  }
+
+  .font-l-megazord-em-xxs {
+    font-size: 160em;
+  }
+
+  .font-xl-megazord-em-xxs {
+    font-size: 180em;
+  }
+
+  .font-xxl-megazord-em-xxs {
+    font-size: 200em;
+  }
+
+  .font-xxxl-megazord-em-xxs {
+    font-size: 250em;
+  }
+
+  .font-xs-pc-xxs {
+    font-size: 100%;
+  }
+
+  .font-s-pc-xxs {
+    font-size: 120%;
+  }
+
+  .font-m-pc-xxs {
+    font-size: 160%;
+  }
+
+  .font-l-pc-xxs {
+    font-size: 200%;
+  }
+
+  .font-xl-pc-xxs {
+    font-size: 250%;
+  }
+
+  .font-xxl-pc-xxs {
+    font-size: 300%;
+  }
+
+  .font-xxxl-pc-xxs {
+    font-size: 450%;
+  }
+
+  .font-mega-pc-xxs {
+    font-size: 500%;
+  }
+
+  .font-megazord-pc-xxs {
+    font-size: 600%;
+  }
+
+  .font-xxs-megazord-pc-xxs {
+    font-size: 80%;
+  }
+
+
+  .font-xs-megazord-pc-xxs {
+    font-size: 100%;
+  }
+
+  .font-s-megazord-pc-xxs {
+    font-size: 120%;
+  }
+
+  .font-m-megazord-pc-xxs {
+    font-size: 140%;
+  }
+
+  .font-l-megazord-pc-xxs {
+    font-size: 160%;
+  }
+
+  .font-xl-megazord-pc-xxs {
+    font-size: 180%;
+  }
+
+  .font-xxl-megazord-pc-xxs {
+    font-size: 200%;
+  }
+
+  .font-xxxl-megazord-pc-xxs {
+    font-size: 250%;
+  }
+
+
+}
+
+
+@media screen and (max-width:479px) {
+
+  .font-xs-xs {
+    font-size: 10px;
+  }
+
+  .font-s-xs {
+    font-size: 12px;
+  }
+
+  .font-m-xs {
+    font-size: 16px;
+  }
+
+  .font-l-xs {
+    font-size: 20px;
+  }
+
+  .font-xl-xs {
+    font-size: 25px;
+  }
+
+  .font-xxl-xs {
+    font-size: 30px;
+  }
+
+  .font-xxxl-xs {
+    font-size: 45px;
+  }
+
+  .font-mega-xs {
+    font-size: 50px;
+  }
+
+  .font-megazord-xs {
+    font-size: 60px;
+  }
+
+  .font-xxs-megazord-xs {
+    font-size: 80px;
+  }
+
+
+  .font-xs-megazord-xs {
+    font-size: 100px;
+  }
+
+  .font-s-megazord-xs {
+    font-size: 120px;
+  }
+
+  .font-m-megazord-xs {
+    font-size: 140px;
+  }
+
+  .font-l-megazord-xs {
+    font-size: 160px;
+  }
+
+  .font-xl-megazord-xs {
+    font-size: 180px;
+  }
+
+  .font-xxl-megazord-xs {
+    font-size: 200px;
+  }
+
+  .font-xxxl-megazord-xs {
+    font-size: 250px;
+  }
+
+  .font-xxs-em-xs {
+    font-size: 3em;
+  }
+
+  .font-xs-em-xs {
+    font-size: 10em;
+  }
+
+  .font-s-em-xs {
+    font-size: 12em;
+  }
+
+  .font-m-em-xs {
+    font-size: 16em;
+  }
+
+  .font-l-em-xs {
+    font-size: 20em;
+  }
+
+  .font-xl-em-xs {
+    font-size: 25em;
+  }
+
+  .font-xxl-em-xs {
+    font-size: 30em;
+  }
+
+  .font-xxxl-em-xs {
+    font-size: 45em;
+  }
+
+  .font-mega-em-xs {
+    font-size: 50em;
+  }
+
+  .font-megazord-em-xs {
+    font-size: 60em;
+  }
+
+  .font-xxs-megazord-em-xs {
+    font-size: 80em;
+  }
+
+
+  .font-xs-megazord-em-xs {
+    font-size: 100em;
+  }
+
+  .font-s-megazord-em-xs {
+    font-size: 120em;
+  }
+
+  .font-m-megazord-em-xs {
+    font-size: 140em;
+  }
+
+  .font-l-megazord-em-xs {
+    font-size: 160em;
+  }
+
+  .font-xl-megazord-em-xs {
+    font-size: 180em;
+  }
+
+  .font-xxl-megazord-em-xs {
+    font-size: 200em;
+  }
+
+  .font-xxxl-megazord-em-xs {
+    font-size: 250em;
+  }
+
+  .font-xs-pc-xs {
+    font-size: 100%;
+  }
+
+  .font-s-pc-xs {
+    font-size: 120%;
+  }
+
+  .font-m-pc-xs {
+    font-size: 160%;
+  }
+
+  .font-l-pc-xs {
+    font-size: 200%;
+  }
+
+  .font-xl-pc-xs {
+    font-size: 250%;
+  }
+
+  .font-xxl-pc-xs {
+    font-size: 300%;
+  }
+
+  .font-xxxl-pc-xs {
+    font-size: 450%;
+  }
+
+  .font-mega-pc-xs {
+    font-size: 500%;
+  }
+
+  .font-megazord-pc-xs {
+    font-size: 600%;
+  }
+
+  .font-xxs-megazord-pc-xs {
+    font-size: 80%;
+  }
+
+
+  .font-xs-megazord-pc-xs {
+    font-size: 100%;
+  }
+
+  .font-s-megazord-pc-xs {
+    font-size: 120%;
+  }
+
+  .font-m-megazord-pc-xs {
+    font-size: 140%;
+  }
+
+  .font-l-megazord-pc-xs {
+    font-size: 160%;
+  }
+
+  .font-xl-megazord-pc-xs {
+    font-size: 180%;
+  }
+
+  .font-xxl-megazord-pc-xs {
+    font-size: 200%;
+  }
+
+  .font-xxxl-megazord-pc-xs {
+    font-size: 250%;
+  }
+
+}
+
+@media screen and (min-width:480px) {
+  .font-xs-s {
+    font-size: 10px;
+  }
+
+  .font-s-s {
+    font-size: 12px;
+  }
+
+  .font-m-s {
+    font-size: 16px;
+  }
+
+  .font-l-s {
+    font-size: 20px;
+  }
+
+  .font-xl-s {
+    font-size: 25px;
+  }
+
+  .font-xxl-s {
+    font-size: 30px;
+  }
+
+  .font-xxxl-s {
+    font-size: 45px;
+  }
+
+  .font-mega-s {
+    font-size: 50px;
+  }
+
+  .font-megazord-s {
+    font-size: 60px;
+  }
+
+  .font-xxs-megazord-s {
+    font-size: 80px;
+  }
+
+
+  .font-xs-megazord-s {
+    font-size: 100px;
+  }
+
+  .font-s-megazord-s {
+    font-size: 120px;
+  }
+
+  .font-m-megazord-s {
+    font-size: 140px;
+  }
+
+  .font-l-megazord-s {
+    font-size: 160px;
+  }
+
+  .font-xl-megazord-s {
+    font-size: 180px;
+  }
+
+  .font-xxl-megazord-s {
+    font-size: 200px;
+  }
+
+  .font-xxxl-megazord-s {
+    font-size: 250px;
+  }
+
+  .font-xxs-em-s {
+    font-size: 3em;
+  }
+
+  .font-xs-em-s {
+    font-size: 10em;
+  }
+
+  .font-s-em-s {
+    font-size: 12em;
+  }
+
+  .font-m-em-s {
+    font-size: 16em;
+  }
+
+  .font-l-em-s {
+    font-size: 20em;
+  }
+
+  .font-xl-em-s {
+    font-size: 25em;
+  }
+
+  .font-xxl-em-s {
+    font-size: 30em;
+  }
+
+  .font-xxxl-em-s {
+    font-size: 45em;
+  }
+
+  .font-mega-em-s {
+    font-size: 50em;
+  }
+
+  .font-megazord-em-s {
+    font-size: 60em;
+  }
+
+  .font-xxs-megazord-em-s {
+    font-size: 80em;
+  }
+
+
+  .font-xs-megazord-em-s {
+    font-size: 100em;
+  }
+
+  .font-s-megazord-em-s {
+    font-size: 120em;
+  }
+
+  .font-m-megazord-em-s {
+    font-size: 140em;
+  }
+
+  .font-l-megazord-em-s {
+    font-size: 160em;
+  }
+
+  .font-xl-megazord-em-s {
+    font-size: 180em;
+  }
+
+  .font-xxl-megazord-em-s {
+    font-size: 200em;
+  }
+
+  .font-xxxl-megazord-em-s {
+    font-size: 250em;
+  }
+
+  .font-xs-pc-s {
+    font-size: 100%;
+  }
+
+  .font-s-pc-s {
+    font-size: 120%;
+  }
+
+  .font-m-pc-s {
+    font-size: 160%;
+  }
+
+  .font-l-pc-s {
+    font-size: 200%;
+  }
+
+  .font-xl-pc-s {
+    font-size: 250%;
+  }
+
+  .font-xxl-pc-s {
+    font-size: 300%;
+  }
+
+  .font-xxxl-pc-s {
+    font-size: 450%;
+  }
+
+  .font-mega-pc-s {
+    font-size: 500%;
+  }
+
+  .font-megazord-pc-s {
+    font-size: 600%;
+  }
+
+  .font-xxs-megazord-pc-s {
+    font-size: 80%;
+  }
+
+
+  .font-xs-megazord-pc-s {
+    font-size: 100%;
+  }
+
+  .font-s-megazord-pc-s {
+    font-size: 120%;
+  }
+
+  .font-m-megazord-pc-s {
+    font-size: 140%;
+  }
+
+  .font-l-megazord-pc-s {
+    font-size: 160%;
+  }
+
+  .font-xl-megazord-pc-s {
+    font-size: 180%;
+  }
+
+  .font-xxl-megazord-pc-s {
+    font-size: 200%;
+  }
+
+  .font-xxxl-megazord-pc-s {
+    font-size: 250%;
+  }
+
+}
+
+
+@media screen and (min-width:768px) {
+  .font-xs-m {
+    font-size: 10px;
+  }
+
+  .font-s-m {
+    font-size: 12px;
+  }
+
+  .font-m-m {
+    font-size: 16px;
+  }
+
+  .font-l-m {
+    font-size: 20px;
+  }
+
+  .font-xl-m {
+    font-size: 25px;
+  }
+
+  .font-xxl-m {
+    font-size: 30px;
+  }
+
+  .font-xxxl-m {
+    font-size: 45px;
+  }
+
+  .font-mega-m {
+    font-size: 50px;
+  }
+
+  .font-megazord-m {
+    font-size: 60px;
+  }
+
+  .font-xxs-megazord-m {
+    font-size: 80px;
+  }
+
+
+  .font-xs-megazord-m {
+    font-size: 100px;
+  }
+
+  .font-s-megazord-m {
+    font-size: 120px;
+  }
+
+  .font-m-megazord-m {
+    font-size: 140px;
+  }
+
+  .font-l-megazord-m {
+    font-size: 160px;
+  }
+
+  .font-xl-megazord-m {
+    font-size: 180px;
+  }
+
+  .font-xxl-megazord-m {
+    font-size: 200px;
+  }
+
+  .font-xxxl-megazord-m {
+    font-size: 250px;
+  }
+
+  .font-xxs-em-m {
+    font-size: 3em;
+  }
+
+  .font-xs-em-m {
+    font-size: 10em;
+  }
+
+  .font-s-em-m {
+    font-size: 12em;
+  }
+
+  .font-m-em-m {
+    font-size: 16em;
+  }
+
+  .font-l-em-m {
+    font-size: 20em;
+  }
+
+  .font-xl-em-m {
+    font-size: 25em;
+  }
+
+  .font-xxl-em-m {
+    font-size: 30em;
+  }
+
+  .font-xxxl-em-m {
+    font-size: 45em;
+  }
+
+  .font-mega-em-m {
+    font-size: 50em;
+  }
+
+  .font-megazord-em-m {
+    font-size: 60em;
+  }
+
+  .font-xxs-megazord-em-m {
+    font-size: 80em;
+  }
+
+
+  .font-xs-megazord-em-m {
+    font-size: 100em;
+  }
+
+  .font-s-megazord-em-m {
+    font-size: 120em;
+  }
+
+  .font-m-megazord-em-m {
+    font-size: 140em;
+  }
+
+  .font-l-megazord-em-m {
+    font-size: 160em;
+  }
+
+  .font-xl-megazord-em-m {
+    font-size: 180em;
+  }
+
+  .font-xxl-megazord-em-m {
+    font-size: 200em;
+  }
+
+  .font-xxxl-megazord-em-m {
+    font-size: 250em;
+  }
+
+  .font-xs-pc-m {
+    font-size: 100%;
+  }
+
+  .font-s-pc-m {
+    font-size: 120%;
+  }
+
+  .font-m-pc-m {
+    font-size: 160%;
+  }
+
+  .font-l-pc-m {
+    font-size: 200%;
+  }
+
+  .font-xl-pc-m {
+    font-size: 250%;
+  }
+
+  .font-xxl-pc-m {
+    font-size: 300%;
+  }
+
+  .font-xxxl-pc-m {
+    font-size: 450%;
+  }
+
+  .font-mega-pc-m {
+    font-size: 500%;
+  }
+
+  .font-megazord-pc-m {
+    font-size: 600%;
+  }
+
+  .font-xxs-megazord-pc-m {
+    font-size: 80%;
+  }
+
+
+  .font-xs-megazord-pc-m {
+    font-size: 100%;
+  }
+
+  .font-s-megazord-pc-m {
+    font-size: 120%;
+  }
+
+  .font-m-megazord-pc-m {
+    font-size: 140%;
+  }
+
+  .font-l-megazord-pc-m {
+    font-size: 160%;
+  }
+
+  .font-xl-megazord-pc-m {
+    font-size: 180%;
+  }
+
+  .font-xxl-megazord-pc-m {
+    font-size: 200%;
+  }
+
+  .font-xxxl-megazord-pc-m {
+    font-size: 250%;
+  }
+
+}
+
+@media screen and (min-width: 1024px) {
+  .font-xs-l {
+    font-size: 10px;
+  }
+
+  .font-s-l {
+    font-size: 12px;
+  }
+
+  .font-m-l {
+    font-size: 16px;
+  }
+
+  .font-l-l {
+    font-size: 20px;
+  }
+
+  .font-xl-l {
+    font-size: 25px;
+  }
+
+  .font-xxl-l {
+    font-size: 30px;
+  }
+
+  .font-xxxl-l {
+    font-size: 45px;
+  }
+
+  .font-mega-l {
+    font-size: 50px;
+  }
+
+  .font-megazord-l {
+    font-size: 60px;
+  }
+
+  .font-xxs-megazord-l {
+    font-size: 80px;
+  }
+
+
+  .font-xs-megazord-l {
+    font-size: 100px;
+  }
+
+  .font-s-megazord-l {
+    font-size: 120px;
+  }
+
+  .font-m-megazord-l {
+    font-size: 140px;
+  }
+
+  .font-l-megazord-l {
+    font-size: 160px;
+  }
+
+  .font-xl-megazord-l {
+    font-size: 180px;
+  }
+
+  .font-xxl-megazord-l {
+    font-size: 200px;
+  }
+
+  .font-xxxl-megazord-l {
+    font-size: 250px;
+  }
+
+  .font-xxs-em-l {
+    font-size: 3em;
+  }
+
+  .font-xs-em-l {
+    font-size: 10em;
+  }
+
+  .font-s-em-l {
+    font-size: 12em;
+  }
+
+  .font-m-em-l {
+    font-size: 16em;
+  }
+
+  .font-l-em-l {
+    font-size: 20em;
+  }
+
+  .font-xl-em-l {
+    font-size: 25em;
+  }
+
+  .font-xxl-em-l {
+    font-size: 30em;
+  }
+
+  .font-xxxl-em-l {
+    font-size: 45em;
+  }
+
+  .font-mega-em-l {
+    font-size: 50em;
+  }
+
+  .font-megazord-em-l {
+    font-size: 60em;
+  }
+
+  .font-xxs-megazord-em-l {
+    font-size: 80em;
+  }
+
+
+  .font-xs-megazord-em-l {
+    font-size: 100em;
+  }
+
+  .font-s-megazord-em-l {
+    font-size: 120em;
+  }
+
+  .font-m-megazord-em-l {
+    font-size: 140em;
+  }
+
+  .font-l-megazord-em-l {
+    font-size: 160em;
+  }
+
+  .font-xl-megazord-em-l {
+    font-size: 180em;
+  }
+
+  .font-xxl-megazord-em-l {
+    font-size: 200em;
+  }
+
+  .font-xxxl-megazord-em-l {
+    font-size: 250em;
+  }
+
+  .font-xs-pc-l {
+    font-size: 100%;
+  }
+
+  .font-s-pc-l {
+    font-size: 120%;
+  }
+
+  .font-m-pc-l {
+    font-size: 160%;
+  }
+
+  .font-l-pc-l {
+    font-size: 200%;
+  }
+
+  .font-xl-pc-l {
+    font-size: 250%;
+  }
+
+  .font-xxl-pc-l {
+    font-size: 300%;
+  }
+
+  .font-xxxl-pc-l {
+    font-size: 450%;
+  }
+
+  .font-mega-pc-l {
+    font-size: 500%;
+  }
+
+  .font-megazord-pc-l {
+    font-size: 600%;
+  }
+
+  .font-xxs-megazord-pc-l {
+    font-size: 80%;
+  }
+
+
+  .font-xs-megazord-pc-l {
+    font-size: 100%;
+  }
+
+  .font-s-megazord-pc-l {
+    font-size: 120%;
+  }
+
+  .font-m-megazord-pc-l {
+    font-size: 140%;
+  }
+
+  .font-l-megazord-pc-l {
+    font-size: 160%;
+  }
+
+  .font-xl-megazord-pc-l {
+    font-size: 180%;
+  }
+
+  .font-xxl-megazord-pc-l {
+    font-size: 200%;
+  }
+
+  .font-xxxl-megazord-pc-l {
+    font-size: 250%;
+  }
+
+}
+
+@media screen and (min-width: 1280px) {
+  .font-xs-xl {
+    font-size: 10px;
+  }
+
+  .font-s-xl {
+    font-size: 12px;
+  }
+
+  .font-m-xl {
+    font-size: 16px;
+  }
+
+  .font-l-xl {
+    font-size: 20px;
+  }
+
+  .font-xl-xl {
+    font-size: 25px;
+  }
+
+  .font-xxl-xl {
+    font-size: 30px;
+  }
+
+  .font-xxxl-xl {
+    font-size: 45px;
+  }
+
+  .font-mega-xl {
+    font-size: 50px;
+  }
+
+  .font-megazord-xl {
+    font-size: 60px;
+  }
+
+  .font-xxs-megazord-xl {
+    font-size: 80px;
+  }
+
+
+  .font-xs-megazord-xl {
+    font-size: 100px;
+  }
+
+  .font-s-megazord-xl {
+    font-size: 120px;
+  }
+
+  .font-m-megazord-xl {
+    font-size: 140px;
+  }
+
+  .font-l-megazord-xl {
+    font-size: 160px;
+  }
+
+  .font-xl-megazord-xl {
+    font-size: 180px;
+  }
+
+  .font-xxl-megazord-xl {
+    font-size: 200px;
+  }
+
+  .font-xxxl-megazord-xl {
+    font-size: 250px;
+  }
+
+  .font-xxs-em-xl {
+    font-size: 3em;
+  }
+
+  .font-xs-em-xl {
+    font-size: 10em;
+  }
+
+  .font-s-em-xl {
+    font-size: 12em;
+  }
+
+  .font-m-em-xl {
+    font-size: 16em;
+  }
+
+  .font-l-em-xl {
+    font-size: 20em;
+  }
+
+  .font-xl-em-xl {
+    font-size: 25em;
+  }
+
+  .font-xxl-em-xl {
+    font-size: 30em;
+  }
+
+  .font-xxxl-em-xl {
+    font-size: 45em;
+  }
+
+  .font-mega-em-xl {
+    font-size: 50em;
+  }
+
+  .font-megazord-em-xl {
+    font-size: 60em;
+  }
+
+  .font-xxs-megazord-em-xl {
+    font-size: 80em;
+  }
+
+
+  .font-xs-megazord-em-xl {
+    font-size: 100em;
+  }
+
+  .font-s-megazord-em-xl {
+    font-size: 120em;
+  }
+
+  .font-m-megazord-em-xl {
+    font-size: 140em;
+  }
+
+  .font-l-megazord-em-xl {
+    font-size: 160em;
+  }
+
+  .font-xl-megazord-em-xl {
+    font-size: 180em;
+  }
+
+  .font-xxl-megazord-em-xl {
+    font-size: 200em;
+  }
+
+  .font-xxxl-megazord-em-xl {
+    font-size: 250em;
+  }
+
+  .font-xs-pc-xl {
+    font-size: 100%;
+  }
+
+  .font-s-pc-xl {
+    font-size: 120%;
+  }
+
+  .font-m-pc-xl {
+    font-size: 160%;
+  }
+
+  .font-l-pc-xl {
+    font-size: 200%;
+  }
+
+  .font-xl-pc-xl {
+    font-size: 250%;
+  }
+
+  .font-xxl-pc-xl {
+    font-size: 300%;
+  }
+
+  .font-xxxl-pc-xl {
+    font-size: 450%;
+  }
+
+  .font-mega-pc-xl {
+    font-size: 500%;
+  }
+
+  .font-megazord-pc-xl {
+    font-size: 600%;
+  }
+
+  .font-xxs-megazord-pc-xl {
+    font-size: 80%;
+  }
+
+
+  .font-xs-megazord-pc-xl {
+    font-size: 100%;
+  }
+
+  .font-s-megazord-pc-xl {
+    font-size: 120%;
+  }
+
+  .font-m-megazord-pc-xl {
+    font-size: 140%;
+  }
+
+  .font-l-megazord-pc-xl {
+    font-size: 160%;
+  }
+
+  .font-xl-megazord-pc-xl {
+    font-size: 180%;
+  }
+
+  .font-xxl-megazord-pc-xl {
+    font-size: 200%;
+  }
+
+  .font-xxxl-megazord-pc-xl {
+    font-size: 250%;
+  }
+
+}
+
+
+@media screen and (min-width:1440px) {
+  .font-xs-xxl {
+    font-size: 10px;
+  }
+
+  .font-s-xxl {
+    font-size: 12px;
+  }
+
+  .font-m-xxl {
+    font-size: 16px;
+  }
+
+  .font-l-xxl {
+    font-size: 20px;
+  }
+
+  .font-xl-xxl {
+    font-size: 25px;
+  }
+
+  .font-xxl-xxl {
+    font-size: 30px;
+  }
+
+  .font-xxxl-xxl {
+    font-size: 45px;
+  }
+
+  .font-mega-xxl {
+    font-size: 50px;
+  }
+
+  .font-megazord-xxl {
+    font-size: 60px;
+  }
+
+  .font-xxs-megazord-xxl {
+    font-size: 80px;
+  }
+
+
+  .font-xs-megazord-xxl {
+    font-size: 100px;
+  }
+
+  .font-s-megazord-xxl {
+    font-size: 120px;
+  }
+
+  .font-m-megazord-xxl {
+    font-size: 140px;
+  }
+
+  .font-l-megazord-xxl {
+    font-size: 160px;
+  }
+
+  .font-xl-megazord-xxl {
+    font-size: 180px;
+  }
+
+  .font-xxl-megazord-xxl {
+    font-size: 200px;
+  }
+
+  .font-xxxl-megazord-xxl {
+    font-size: 250px;
+  }
+
+  .font-xxs-em-xxl {
+    font-size: 3em;
+  }
+
+  .font-xs-em-xxl {
+    font-size: 10em;
+  }
+
+  .font-s-em-xxl {
+    font-size: 12em;
+  }
+
+  .font-m-em-xxl {
+    font-size: 16em;
+  }
+
+  .font-l-em-xxl {
+    font-size: 20em;
+  }
+
+  .font-xl-em-xxl {
+    font-size: 25em;
+  }
+
+  .font-xxl-em-xxl {
+    font-size: 30em;
+  }
+
+  .font-xxxl-em-xxl {
+    font-size: 45em;
+  }
+
+  .font-mega-em-xxl {
+    font-size: 50em;
+  }
+
+  .font-megazord-em-xxl {
+    font-size: 60em;
+  }
+
+  .font-xxs-megazord-em-xxl {
+    font-size: 80em;
+  }
+
+
+  .font-xs-megazord-em-xxl {
+    font-size: 100em;
+  }
+
+  .font-s-megazord-em-xxl {
+    font-size: 120em;
+  }
+
+  .font-m-megazord-em-xxl {
+    font-size: 140em;
+  }
+
+  .font-l-megazord-em-xxl {
+    font-size: 160em;
+  }
+
+  .font-xl-megazord-em-xxl {
+    font-size: 180em;
+  }
+
+  .font-xxl-megazord-em-xxl {
+    font-size: 200em;
+  }
+
+  .font-xxxl-megazord-em-xxl {
+    font-size: 250em;
+  }
+
+  .font-xs-pc-xxl {
+    font-size: 100%;
+  }
+
+  .font-s-pc-xxl {
+    font-size: 120%;
+  }
+
+  .font-m-pc-xxl {
+    font-size: 160%;
+  }
+
+  .font-l-pc-xxl {
+    font-size: 200%;
+  }
+
+  .font-xl-pc-xxl {
+    font-size: 250%;
+  }
+
+  .font-xxl-pc-xxl {
+    font-size: 300%;
+  }
+
+  .font-xxxl-pc-xxl {
+    font-size: 450%;
+  }
+
+  .font-mega-pc-xxl {
+    font-size: 500%;
+  }
+
+  .font-megazord-pc-xxl {
+    font-size: 600%;
+  }
+
+  .font-xxs-megazord-pc-xxl {
+    font-size: 80%;
+  }
+
+
+  .font-xs-megazord-pc-xxl {
+    font-size: 100%;
+  }
+
+  .font-s-megazord-pc-xxl {
+    font-size: 120%;
+  }
+
+  .font-m-megazord-pc-xxl {
+    font-size: 140%;
+  }
+
+  .font-l-megazord-pc-xxl {
+    font-size: 160%;
+  }
+
+  .font-xl-megazord-pc-xxl {
+    font-size: 180%;
+  }
+
+  .font-xxl-megazord-pc-xxl {
+    font-size: 200%;
+  }
+
+  .font-xxxl-megazord-pc-xxl {
+    font-size: 250%;
+  }
+
+}
+
+
+@media screen and (min-width: 1920px) {
+  .font-xs-xxxl {
+    font-size: 10px;
+  }
+
+  .font-s-xxxl {
+    font-size: 12px;
+  }
+
+  .font-m-xxxl {
+    font-size: 16px;
+  }
+
+  .font-l-xxxl {
+    font-size: 20px;
+  }
+
+  .font-xl-xxxl {
+    font-size: 25px;
+  }
+
+  .font-xxl-xxxl {
+    font-size: 30px;
+  }
+
+  .font-xxxl-xxxl {
+    font-size: 45px;
+  }
+
+  .font-mega-xxxl {
+    font-size: 50px;
+  }
+
+  .font-megazord-xxxl {
+    font-size: 60px;
+  }
+
+  .font-xxs-megazord-xxxl {
+    font-size: 80px;
+  }
+
+
+  .font-xs-megazord-xxxl {
+    font-size: 100px;
+  }
+
+  .font-s-megazord-xxxl {
+    font-size: 120px;
+  }
+
+  .font-m-megazord-xxxl {
+    font-size: 140px;
+  }
+
+  .font-l-megazord-xxxl {
+    font-size: 160px;
+  }
+
+  .font-xl-megazord-xxxl {
+    font-size: 180px;
+  }
+
+  .font-xxl-megazord-xxxl {
+    font-size: 200px;
+  }
+
+  .font-xxxl-megazord-xxxl {
+    font-size: 250px;
+  }
+
+  .font-xxs-em-xxxl {
+    font-size: 3em;
+  }
+
+  .font-xs-em-xxxl {
+    font-size: 10em;
+  }
+
+  .font-s-em-xxxl {
+    font-size: 12em;
+  }
+
+  .font-m-em-xxxl {
+    font-size: 16em;
+  }
+
+  .font-l-em-xxxl {
+    font-size: 20em;
+  }
+
+  .font-xl-em-xxxl {
+    font-size: 25em;
+  }
+
+  .font-xxl-em-xxxl {
+    font-size: 30em;
+  }
+
+  .font-xxxl-em-xxxl {
+    font-size: 45em;
+  }
+
+  .font-mega-em-xxxl {
+    font-size: 50em;
+  }
+
+  .font-megazord-em-xxxl {
+    font-size: 60em;
+  }
+
+  .font-xxs-megazord-em-xxxl {
+    font-size: 80em;
+  }
+
+
+  .font-xs-megazord-em-xxxl {
+    font-size: 100em;
+  }
+
+  .font-s-megazord-em-xxxl {
+    font-size: 120em;
+  }
+
+  .font-m-megazord-em-xxxl {
+    font-size: 140em;
+  }
+
+  .font-l-megazord-em-xxxl {
+    font-size: 160em;
+  }
+
+  .font-xl-megazord-em-xxxl {
+    font-size: 180em;
+  }
+
+  .font-xxl-megazord-em-xxxl {
+    font-size: 200em;
+  }
+
+  .font-xxxl-megazord-em-xxxl {
+    font-size: 250em;
+  }
+
+  .font-xs-pc-xxxl {
+    font-size: 100%;
+  }
+
+  .font-s-pc-xxxl {
+    font-size: 120%;
+  }
+
+  .font-m-pc-xxxl {
+    font-size: 160%;
+  }
+
+  .font-l-pc-xxxl {
+    font-size: 200%;
+  }
+
+  .font-xl-pc-xxxl {
+    font-size: 250%;
+  }
+
+  .font-xxl-pc-xxxl {
+    font-size: 300%;
+  }
+
+  .font-xxxl-pc-xxxl {
+    font-size: 450%;
+  }
+
+  .font-mega-pc-xxxl {
+    font-size: 500%;
+  }
+
+  .font-megazord-pc-xxxl {
+    font-size: 600%;
+  }
+
+  .font-xxs-megazord-pc-xxxl {
+    font-size: 80%;
+  }
+
+
+  .font-xs-megazord-pc-xxxl {
+    font-size: 100%;
+  }
+
+  .font-s-megazord-pc-xxxl {
+    font-size: 120%;
+  }
+
+  .font-m-megazord-pc-xxxl {
+    font-size: 140%;
+  }
+
+  .font-l-megazord-pc-xxxl {
+    font-size: 160%;
+  }
+
+  .font-xl-megazord-pc-xxxl {
+    font-size: 180%;
+  }
+
+  .font-xxl-megazord-pc-xxxl {
+    font-size: 200%;
+  }
+
+  .font-xxxl-megazord-pc-xxxl {
+    font-size: 250%;
+  }
+
+}

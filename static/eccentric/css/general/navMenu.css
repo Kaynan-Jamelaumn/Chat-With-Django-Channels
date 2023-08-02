@@ -1,0 +1,38 @@
+/*
+.main-nav {
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 1;
+  max-width: 100%;
+  top: 0;
+}
+
+.nav-form button {
+  float: right;
+}
+
+.menu {
+  display: none;
+}
+
+
+/*
+.menu.show {
+  display: block;
+} code for jquery version*/
+/*
+.menu .button-group {
+  display: block;
+}
+
+.menu .button-group>a {
+  width: 100%;
+}
+
+@media screen and (min-width: 800px) {
+  .menu .button-group {
+    display: flex;
+    justify-content: space-around;
+  }
+
+}

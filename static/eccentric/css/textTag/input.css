@@ -1,0 +1,99 @@
+.input-xs {
+  cursor: pointer;
+  height: 20px;
+  font-size: 12px;
+  border:none;
+  width:100%;
+  padding: 10px;
+}
+
+.input-s {
+  cursor: pointer;
+  height: 24px;
+  font-size: 14px;
+  border:none;
+  width:100%;
+  padding: 10px;
+}
+
+.input-m {
+  cursor: pointer;
+  height: 28px;
+  font-size: 16px;
+  border:none;
+  width:100%;
+  padding: 10px;
+}
+
+.input-l {
+  cursor: pointer;
+  height: 32px;
+  font-size: 18px;
+  border:none;
+  width:100%;
+  padding-left: 10px;
+}
+
+.input-xl {
+  cursor: pointer;
+  height: 36px;
+  font-size: 20px;
+  border:none;
+  width:100%;
+  padding: 10px;
+}
+
+.input-xxl {
+  cursor: pointer;
+  height: 40px;
+  font-size: 22px;
+  border:none;
+  width:100%;
+  padding: 10px;
+}
+
+.input-xxxl {
+  cursor: pointer;
+  height: 44px;
+  font-size: 24px;
+  border:none;
+  width:100%;
+  padding: 10px;
+}
+
+.input-mega {
+  cursor: pointer;
+  height: 48px;
+  font-size: 26px;
+  border:none;
+  width:100%;
+  padding: 10px;
+}
+
+.input-megazord {
+  cursor: pointer;
+  height: 52px;
+  font-size: 28px;
+  border:none;
+  width:100%;
+  padding: 10px;
+}
+
+
+.input-megazord-l {
+  cursor: pointer;
+  height: 56px;
+  font-size: 30px;
+  border:none;
+  width:100%;
+  padding: 10px;
+}
+
+.input-megazord-xl {
+  cursor: pointer;
+  height: 60px;
+  font-size: 32px;
+  border:none;
+  width:100%;
+  padding: 10px;
+}
