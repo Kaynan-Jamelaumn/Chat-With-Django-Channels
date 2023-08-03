@@ -23,6 +23,7 @@ app_name = 'project'
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('account/', include('account.urls', namespace='account')),
+    path('room/', include('room.urls', namespace='room')),
     path('', views.home, name='home')
 ]
 if settings.DEBUG:
