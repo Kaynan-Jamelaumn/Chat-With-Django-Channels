@@ -1,6 +1,16 @@
 {% extends 'base.html' %}
 
 {% block content%}
-hhhahah
-<h1 class="yellow"> z </h1>
+
+<ul class="teste w100 text-center mt-50-inheritance font-1">
+        {% if not user.is_authenticated %}
+        <li class="butin"><a href="{% url 'room:home' %}" class="font-xxxl inline-block py-10 w100 radius-5 bg-green-10 white">Rooms</a></li>
+        <li class="butin"><a href="{% url 'account:logout' %}" class="font-xxxl inline-block py-10 w100 radius-5 bg-green-10 white">Register</a></li>
+        <li class="butin"><a href="{% url 'account:update' %}" class="font-xxxl inline-block py-10 w100 radius-5 bg-green-10 white">Update</a></li>
+        {% else %}
+        <li class="butin"><a href="{% url 'account:login' %}" class="font-xxxl inline-block py-10 w100 radius-5 bg-green-10 white">Login</a></li>
+        <li class="butin"><a href="{% url 'account:register' %}" class="font-xxxl inline-block py-10 w100 radius-5 text-center bg-green-10 white">Register</a></li>
+        {% endif %}
+    </div>
+</ul>
 {% endblock %}
