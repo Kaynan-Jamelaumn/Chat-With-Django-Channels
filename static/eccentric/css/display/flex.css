@@ -9,6 +9,12 @@
   /* background-color: black; */
 }
 
+
+.right0 {
+  right: 0;
+  position: fixed;
+}
+
 .flex-wrap {
   display: flex;
   flex-wrap: wrap;
@@ -47,6 +53,14 @@
 
 .self-center {
   align-self: flex-center;
+}
+
+.align-right {
+  margin-left: auto;
+}
+
+.align-left {
+  margin-right: auto;
 }
 
 .justify-center {

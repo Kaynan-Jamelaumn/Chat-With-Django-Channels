@@ -127,8 +127,39 @@ ul {
   text-justify: auto;
 }
 
-
 .fixed {
   position: fixed;
   top: 0;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.right-middle {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%)
+}
+
+.right {
+  position: absolute;
+  right: 0;
+}
+
+.left-middle {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%)
+}
+
+.left {
+  position: absolute;
+  left: 0;
 }

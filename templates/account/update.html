@@ -1,0 +1,45 @@
+{% extends 'base.html'%}
+{% block title %} Register an Account {% endblock %}
+{% block content %}
+<div class="my-20">
+  <form action="{% url 'account:update' %}" method="POST">
+    {% csrf_token %}
+    <div class="w85 w50-m w40-l w35-xl auto radius-10 border-xl border-white bg-black-3  white-vibrant font-xl">
+      {% if error %}
+      <div class="py-15 text-center">
+        <h3 class="orange font-xxl">{{error}}</h3>
+      </div>
+      {% endif %}
+      <div class="w80 auto">
+        <div class="my-15">
+          <label for="username">Username</label>
+          <input class="w100 py-10 pl-5 white radius-3 bg-pink-4 placeholder-black black" type="text" id="username"
+            placeholder="Username" name="username">
+        </div>
+
+        <div class="my-15">
+          <label for="username-confirmation">Username Confirmation</label>
+          <input class="w100 py-10 pl-5 white radius-3 bg-pink-4 placeholder-black black" type="text"
+            id="username-confirmation" placeholder="Match Username" name="username-confirmation">
+        </div>
+
+        <div class="my-15">
+          <label for="password">Password</label>
+          <input class="w100 py-10 pl-5 white radius-3 bg-pink-4 placeholder-black black" class="is-valid"
+            type="password" id="password" placeholder="Password" name="password">
+        </div>
+        <div class="my-15">
+          <label for="password-confirmation">Confirm Password</label>
+          <input class="w100 py-10 pl-5 white radius-3 bg-pink-4 placeholder-black black" type="password"
+            id="password-confirmation" placeholder="Confirm Password" name="password-confirmation">
+        </div>
+        <div class="mb-25">
+          <button class="py-10 inline-block pointer w100 radius-7 bg-green-10 white font-xxl" type="submit">
+            Save Changes</button>
+        </div>
+
+      </div>
+    </div>
+  </form>
+</div>
+{% endblock%}

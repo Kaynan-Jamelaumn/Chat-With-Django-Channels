@@ -1,0 +1,56 @@
+{% extends 'base.html'%}
+{% block title %} Register an Account {% endblock %}
+{% block content %}
+<div class="my-20">
+  <form action="{% url 'account:register' %}" method="POST">
+    {% csrf_token %}
+    <div class="w85 w50-m w40-l w35-xl auto radius-10 border-xl border-white bg-black-3 white-vibrant font-xl">
+      {% if error %}
+      <div class="py-15 text-center">
+        <h3 class="orange font-xxl">{{error}}</h3>
+      </div>
+      {% endif %}
+      <div class="w80 auto">
+        <div class="my-15">
+          <label for="username">Username</label>
+          <input class="w100 py-10 pl-5 white radius-3 bg-pink-4 placeholder-black black" type="text" id="username"
+            placeholder="Username" name="username">
+        </div>
+
+        <div class="my-15">
+          <label for="email">E-mail</label>
+          <input class="w100 py-10 pl-5 white radius-3 bg-pink-4 placeholder-black black" type="text" id="email"
+            placeholder="E-mail" name="email">
+        </div>
+
+        <div class="my-15">
+          <label for="email-confirmation">E-mail Confirmation</label>
+          <input class="w100 py-10 pl-5 white radius-3 bg-pink-4 placeholder-black black" type="text"
+            id="email-confirmation" placeholder="E-mail Confirmation" name="email-confirmation">
+        </div>
+
+        <div class="my-15">
+          <label for="password">Password</label>
+          <input class="w100 py-10 pl-5 white radius-3 bg-pink-4 placeholder-black black" class="is-valid"
+            type="password" id="password" placeholder="Password" name="password">
+        </div>
+        <div class="my-15">
+          <label for="password-confirmation">Confirm Password</label>
+          <input class="w100 py-10 pl-5 white radius-3 bg-pink-4 placeholder-black black" type="password"
+            id="password-confirmation" placeholder="Confirm Password" name="password-confirmation">
+        </div>
+        <div>
+          <button class="py-10 inline-block pointer w100 radius-7 bg-green-10 white font-xxl" type="submit">
+            Register</button>
+        </div>
+
+        <div class="w100 my-15 text-center">
+          <h3 class="font-m white">Already possess an account?</h3>
+          <a class="font-xl green-4 relative" href="{% url 'account:login' %}">Sign In</a>
+        </div>
+
+      </div>
+    </div>
+  </form>
+</div>
+{% endblock%}

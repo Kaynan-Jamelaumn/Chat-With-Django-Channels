@@ -2,15 +2,12 @@
 
 {% block content%}
 
-<ul class="teste w100 text-center mt-50-inheritance font-1">
-        {% if not user.is_authenticated %}
-        <li class="butin"><a href="{% url 'room:home' %}" class="font-xxxl inline-block py-10 w100 radius-5 bg-green-10 white">Rooms</a></li>
-        <li class="butin"><a href="{% url 'account:logout' %}" class="font-xxxl inline-block py-10 w100 radius-5 bg-green-10 white">Register</a></li>
-        <li class="butin"><a href="{% url 'account:update' %}" class="font-xxxl inline-block py-10 w100 radius-5 bg-green-10 white">Update</a></li>
-        {% else %}
-        <li class="butin"><a href="{% url 'account:login' %}" class="font-xxxl inline-block py-10 w100 radius-5 bg-green-10 white">Login</a></li>
-        <li class="butin"><a href="{% url 'account:register' %}" class="font-xxxl inline-block py-10 w100 radius-5 text-center bg-green-10 white">Register</a></li>
-        {% endif %}
-    </div>
+<ul class="line w100 text-center mt-25-inheritance font-1 line mx-20-s-inheritance">
+        {% for room in rooms %}
+                <li class="w100 w40-s w25-m w20-l bg-white radius-3">
+                        <h2 class="font-xxl mb-10">{{room.name}}</h2>
+                        <a href="{%  url 'room:room' room.slug %}" class="inline-block py-10 radius-3 px-20 bg-black-5 white font-m mb-15">Enter Chat</a>
+                </li>
+        {% endfor %}
 </ul>
 {% endblock %}

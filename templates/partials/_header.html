@@ -1,0 +1,25 @@
+<header>
+  <div class="text-center relative w100">
+    <h1 class="font-xxxl white font-3">Chat With Django</h1>
+    <div class="right-middle mr-40">
+      <ul class="flex w100 mx-5-inheritance">
+        {% if user.is_authenticated %}
+        <li><a href="{% url 'account:logout' %}"
+            class="white font-xl p-10 text-center radius-3 bg-red font-2">Logout</a></li>
+        <li><a href="{% url 'account:update' %}"
+            class="white font-xl p-10 text-center radius-3 bg-green-4 font-2">Update</a></li>
+        {% else %}
+        <li><a href="{% url 'account:login' %}"
+            class="white font-xl p-10 text-center radius-3 bg-green-10 font-2">Login</a>
+        </li>
+        <li><a href="{% url 'account:register' %}"
+            class="font-xxxl inline-block py-10 w100 radius-5 text-center bg-green-10 white">Register</a></li>
+        {% endif %}
+        <li>
+          <a href="{% url 'home' %}" class="white font-xl p-10 text-center radius-3 bg-black-10 font-2">Home</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+</header>
