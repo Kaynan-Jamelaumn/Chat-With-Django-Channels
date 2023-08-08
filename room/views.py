@@ -9,7 +9,7 @@ def home(request):
     if not request.user.is_authenticated:
         return redirect("account:login")
     rooms = Room.objects.all()
-    return render(request, 'room/room.html', {'rooms': rooms})
+    return render(request, 'index.html', {'rooms': rooms})
 
 
 def room(request, slug):

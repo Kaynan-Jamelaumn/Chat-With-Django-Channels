@@ -2,11 +2,11 @@
 
 {% block content%}
 
-<ul class="line w100 text-center mt-25-inheritance font-1 line mx-20-s-inheritance">
+<ul class="line justify-center w100 text-center mt-25-inheritance font-1 line mx-20-s-inheritance">
         {% for room in rooms %}
                 <li class="w100 w40-s w25-m w20-l bg-white radius-3">
                         <h2 class="font-xxl mb-10">{{room.name}}</h2>
-                        <a href="{%  url 'room:room' room.slug %}" class="inline-block py-10 radius-3 px-20 bg-black-5 white font-m mb-15">Enter Chat</a>
+                        <a href="{% url 'room:room' room.slug %}" class="inline-block py-10 radius-3 px-20 bg-black-5 white font-m mb-15">Enter Chat</a>
                 </li>
         {% endfor %}
 </ul>
